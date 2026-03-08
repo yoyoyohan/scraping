@@ -1,0 +1,3520 @@
+rank,player,team,goals,assists,points,strength_points
+1,Sean Tarsatana,Washington Township,31,23,85,188.3255197740113
+2,Jesus Espinosa,Barringer,37,6,80,179.37110169491524
+3,Max Fleischer,Glen Ridge,27,23,77,176.27390395480225
+4,Alex Lyszczarczyk,Wallington,31,13,75,172.79670621468927
+5,Jake Cooke,Delaware Valley,26,23,75,168.74010169491527
+6,Zack Payne,Gloucester Catholic,29,12,70,138.53950847457628
+7,Carl Hall,West Orange,22,26,70,159.53949717514124
+8,Sean Moore,Colts Neck,30,8,68,162.1786836158192
+9,Miles Agle,McNair,30,7,67,147.0317288135593
+10,Chris Guerrero-Dominguez,Park Ridge,29,9,67,142.70089265536723
+11,Abdoul Konvolbo,Shabazz,30,6,66,159.99585875706214
+12,William Zonoe,Westampton Tech,26,14,66,146.0253107344633
+13,Angel Marquez,Delaware Valley,30,5,65,141.77031073446327
+14,Brody Powers,Point Pleasant Beach,27,10,64,146.0861129943503
+15,Anthony Bautista,St. Peter's Prep,26,11,63,141.19569491525422
+16,Ori Oelsner,Tenafly,27,8,62,134.59189265536725
+17,Kiandry Aban,Harrison,25,12,62,130.01129943502823
+18,Nico Mathews,Robbinsville,24,14,62,143.72989265536722
+19,Nate Stryker,Brick Memorial,27,6,60,130.79870621468928
+20,Julian Lopez,Pingry,26,6,58,129.8775197740113
+21,Ayden Anderson,Washington Township,24,8,56,123.3616836158192
+22,Hudson Iurato,Cedar Grove,22,11,55,123.05531073446328
+23,Andrei Nitulescu,Randolph,25,4,54,128.82688135593222
+24,Elijah Font,Northern Burlington,21,11,53,118.04468361581921
+25,Mason Boles,St. John Vianney,20,13,53,119.9848813559322
+26,Yusef Qasemi,Parsippany,19,15,53,109.9866836158192
+27,Jayden Pallero,Manchester Regional,17,19,53,110.39889265536723
+28,Mario Jacobo,Cedar Creek,23,5,51,103.25584745762711
+29,Cruz Farkas,Manasquan,21,8,50,112.13447457627119
+30,Brandon Cosentino,Ocean Township,21,8,50,106.4778813559322
+31,Nick Carrascosa,Montclair Kimberley,20,10,50,108.84890395480227
+32,Caden O'Connell,Ramapo,19,12,50,123.06587005649718
+33,Will Dent,West Milford,23,3,49,111.81125423728814
+34,Leonardo Belloni,Morris Hills,21,7,49,112.42882485875707
+35,Ezequiel Soto,Harrison,20,9,49,111.38605649717515
+36,Landon Hoenisch,Notre Dame,18,13,49,106.91306779661016
+37,Brody Nacarlo,Southern,17,14,48,116.23246327683616
+38,Oliwer Pietruczak,Wallington,19,9,47,108.2196836158192
+39,Aiden Yoder,Somerset Tech,22,2,46,100.85806779661017
+40,Timothy Koke,Bernards,17,12,46,101.76906779661016
+41,Jack Meserole,Dwight-Englewood,15,16,46,100.73127683615819
+42,Pedro Barreto Reis,Harrison,15,16,46,97.45204519774012
+43,Matias Gonzalez,Dover,15,16,46,97.05105649717514
+44,Jermaine Russell,Cedar Grove,17,11,45,97.93709039548023
+45,Kooper Nicolai,Wallkill Valley,18,8,44,88.10305649717515
+46,Emmanuel Kostis,Edison,20,3,43,93.54605649717514
+47,Alessio Garrido,Boonton,20,3,43,84.71005649717515
+48,Marco Mannino,Chatham,19,5,43,102.27867231638417
+49,Luca Ercolano,Notre Dame,18,7,43,93.69526553672316
+50,Ygor Santana,Doane Academy,17,9,43,80.74425423728813
+51,Tyler Kunkel,Bordentown,18,6,42,94.39005649717514
+52,Jake Mora,Manville,18,6,42,87.51626553672317
+53,Shane Gambarony,Toms River South,16,10,42,96.35087005649719
+54,Jacob Preziosi,Ramapo,13,15,41,93.19668361581921
+55,Aaron Merlin,Trenton,18,4,40,91.38005649717513
+56,Sid Goyal,Montgomery,14,12,40,83.18064971751413
+57,Cooper Macri,Cherry Hill West,18,3,39,89.12005649717514
+58,Owen Brackett,Raritan,18,3,39,76.33546327683615
+59,Rocco Rizzitello,Whippany Park,17,5,39,94.49205649717514
+60,Bryce Ayars,Woodstown,17,5,39,85.06084745762712
+61,Chris Lewis,Robbinsville,16,7,39,94.19784745762712
+62,Arjun Hoshing,Pingry,13,13,39,88.3312768361582
+63,Emmanuel Hernandez,Manchester Regional,13,13,39,79.80046327683615
+64,Camilo Murillo,Bound Brook,17,4,38,82.77463841807909
+65,James Brady,Christian Brothers,16,6,38,86.41764971751412
+66,Benji Silva,Kearny,15,8,38,86.42385875706215
+67,Darion Pierre,Eagle Academy,15,8,38,74.96804519774011
+68,Brayton Joyo,Newark Tech,14,10,38,85.37626553672317
+69,Avyu Arvind,Highland Park,14,10,38,73.29684745762712
+70,Jason Alicea,Eastern Christian,10,18,38,87.40045197740113
+71,Joshua Lewis,Overbrook,17,3,37,73.40085875706215
+72,Christopher Duran,Monroe,15,7,37,77.55524293785311
+73,Youssou Diop,Westampton Tech,14,9,37,81.81806779661017
+74,Ryan Buitron,Middlesex,13,11,37,85.61945197740113
+75,Kian Briant,Palmyra,12,13,37,81.44546327683615
+76,Justin Macrina,Madison,17,2,36,80.90564971751412
+77,Jakob Velasco,Lenape Valley,15,6,36,69.0344406779661
+78,Hashem Husseini,Whippany Park,11,14,36,78.36264971751412
+79,Jamie Dominguez,West Caldwell Tech,7,22,36,79.44706779661017
+80,Angel Ponce-Montes,Emerson Boro,15,5,35,79.58806779661018
+81,Jayden Diaz,Dover,15,5,35,73.31884745762711
+82,Drew Carlin,Glen Rock,14,7,35,80.87905649717514
+83,Kleiner Alcivar,Hackensack,14,7,35,71.3744406779661
+84,Jose Vivas Roque,Maple Shade,14,7,35,65.06923163841807
+85,Nick Leiriao,Southern,13,9,35,85.11005649717514
+86,Vinnie Ferraro,Pingry,13,9,35,78.26885875706215
+87,Dillon Devine,Voorhees,11,13,35,75.64484745762712
+88,Joseph De Paz,Ferris,10,15,35,71.46425423728813
+89,Ben Kazani,Colts Neck,7,21,35,79.92425423728814
+90,Dylan Platenecky,Cinnaminson,15,4,34,76.63605649717513
+91,Chris De Oliveira Santos,Long Branch,15,4,34,72.91426553672316
+92,Kosiso Okonkwo,Colonia,14,6,34,77.89484745762712
+93,Maksym Rozdolskyi,Lodi,14,6,34,68.74924293785311
+94,Aedan Dorwart,Voorhees,13,8,34,74.43003389830508
+95,Peter Xarhoulakos,Metuchen,13,8,34,71.36484745762712
+96,Luke Strada,Middletown South,12,10,34,79.95466101694916
+97,Monroe Castor,Northern Burlington,9,16,34,74.55745197740113
+98,Cacime St. Loucius,Irvington,15,3,33,77.29203389830508
+99,Zahradeen Amadou,Dickinson,15,3,33,76.04603389830508
+100,Hamilton Paredes Vazquez,Bridgeton,15,3,33,69.0104406779661
+101,Bradley Cooper,Seneca,14,5,33,72.0766384180791
+102,Christoffer Cabrera,Glen Ridge,12,9,33,74.8904406779661
+103,Jaykob Marquez,Bernards,9,15,33,76.48566101694915
+104,Dominick Vincent,Middlesex,9,15,33,73.16605649717513
+105,Herbert Addo,Nottingham,15,2,32,61.45604519774011
+106,Cortland Martin,Delbarton,14,4,32,74.12526553672316
+107,John Martinez,Morristown,13,6,32,77.06723163841808
+108,Can Kayaci,Ridge,13,6,32,72.7696384180791
+109,Joseph Firetto,Phillipsburg,13,6,32,72.3480451977401
+110,Muntag Diallo,Medford Tech,13,6,32,69.66985875706214
+111,Tyler Javick,Notre Dame,12,8,32,70.38045197740114
+112,Daniel Myrto,Wood-Ridge,12,8,32,67.21225423728814
+113,Alon Monhite Yahav,Cresskill,10,12,32,68.93545197740113
+114,Joey Goodman,Ocean City,9,14,32,77.14742937853107
+115,Christopher Jean-Baptiste,Manchester Regional,14,3,31,60.63524293785311
+116,D'Angelo Tavarez,Bergen Catholic,13,5,31,66.37605649717514
+117,Teo Valianatos,Mendham,13,5,31,66.15083615819209
+118,Mac Jerdonek,Montgomery,13,5,31,57.66562711864407
+119,CJ Dike,Montclair Kimberley,12,7,31,71.46526553672317
+120,Grant Frey,Hunterdon Central,11,9,31,71.78705649717514
+121,Naelson Velasquez,Iselin Kennedy,11,9,31,47.515209039548026
+122,Josh Garcia,Piscataway Magnet,14,2,30,56.62383615819209
+123,Omar Perez,Passaic,13,4,30,67.55645197740112
+124,Atzler Jean,Delsea,13,4,30,64.40084745762712
+125,Matthew Gamboa,Carteret,13,4,30,63.305045197740114
+126,Esteban Rojas,Dwight-Morrow,13,4,30,62.938418079096046
+127,Harin Gutierrez Moreno,Neptune,13,4,30,61.726847457627116
+128,Angelo Gianella,Hasbrouck Heights,13,4,30,56.90323163841808
+129,Ayden Santiago,DePaul,12,6,30,74.3994406779661
+130,Julian Cuttita,Ramapo,12,6,30,69.42964971751412
+131,Ryan Hoffelder,Chatham,12,6,30,69.02945197740112
+132,Elias Moradel,Cedar Creek,12,6,30,68.2952429378531
+133,Kadir Yildiz,Manchester Regional,11,8,30,67.09604519774011
+134,Jordan Hunt,Ramapo,11,8,30,67.01046327683615
+135,Justin Visaggio,Keyport,11,8,30,65.97926553672316
+136,John Covert,Keyport,10,10,30,66.86406779661017
+137,Charlie Chimborazo,Barringer,9,12,30,66.47845197740114
+138,Isaiah de la Espriella,Princeton,14,1,29,61.24623163841808
+139,Ben Lyons,East Brunswick,12,5,29,65.31042937853107
+140,Elidon Dardha,Lodi,12,5,29,62.3154406779661
+141,Cooper Attaway,Shore,12,5,29,61.47264971751412
+142,Chase Giambri,Paul VI,11,7,29,64.8388361581921
+143,Saad Brirou,Ferris,11,7,29,55.10123163841808
+144,Nico Doell,Westwood,9,11,29,56.41783615819209
+145,Brandon Mendoza,Long Branch,8,13,29,61.70224293785311
+146,Jahir Coca,Bound Brook,13,2,28,62.042033898305085
+147,Amadu Jalloh,Williamstown,13,2,28,55.10503389830508
+148,Jaime Torres,Dwight-Morrow,13,2,28,55.08861581920904
+149,Cristiano Costa,South River,12,4,28,55.10541807909605
+150,Janari Ellis,North Star Academy,12,4,28,43.43141807909604
+151,Gino Castaneda,Freehold Township,11,6,28,69.58042937853108
+152,Ariet Arzikulov,South River,11,6,28,56.831638418079095
+153,Gui Dos Santos,Madison,9,10,28,68.13583615819209
+154,Cruz Candray,Cherry Hill East,8,12,28,62.82063841807909
+155,Dom Poli,Holmdel,12,3,27,58.66484745762712
+156,Marcos Peralta,Perth Amboy,12,3,27,58.43024293785311
+157,Jossue Carrasco,New Brunswick,12,3,27,54.18182485875706
+158,Victor Maldonado,Hightstown,12,3,27,52.03623163841808
+159,Franchesco Cardona,North Bergen,11,5,27,60.679242937853104
+160,Juan Foronda,Morris Hills,10,7,27,68.13682485875707
+161,Ruben Domingues,South River,10,7,27,58.03962711864406
+162,Sebastian Millan,Brick Memorial,10,7,27,54.79483615819209
+163,Lucas Cross,Egg Harbor,9,9,27,61.76284745762712
+164,Emanuel Zuleta,Atlantic City,9,9,27,47.32882485875706
+165,Tristan Ferreira,Westwood,8,11,27,58.20264971751413
+166,Alaa Abdelqader,Passaic Valley,12,2,26,59.4796384180791
+167,Angel Cruz,College Achieve Central,12,2,26,54.07962711864407
+168,Jack Denver,Red Bank Catholic,11,4,26,57.669847457627114
+169,Selim Elhetawy,Becton,11,4,26,56.77723163841808
+170,Samuel Rueda Gil,Oakcrest,11,4,26,56.06604519774011
+171,Jake Bauer,Seneca,11,4,26,55.984824858757065
+172,Joe Haney,Freehold Borough,11,4,26,53.01703389830509
+173,Keegan Fullman,Princeton Day,11,4,26,52.77824293785311
+174,Alex Martinez,Pennsauken,11,4,26,50.643022598870054
+175,Matt Torres,Sparta,10,6,26,57.128836158192094
+176,Samuel Hassler,Pennsville,10,6,26,41.81482485875706
+177,Alex Lagowski,Spotswood,9,8,26,53.755242937853104
+178,Brian Gonzalez,Payne Tech,9,8,26,47.83183615819209
+179,Ethan Vintimilla,Pequannock,8,10,26,50.082824858757064
+180,Christian Barrios,Harrison,6,14,26,57.56083615819209
+181,JP Fernandez,Watchung Hills,12,1,25,58.83082485875706
+182,Collin Chessere,Old Bridge,12,1,25,52.19603389830508
+183,Adrian Ruiz,Pleasantville,12,1,25,49.92761581920904
+184,Zac Huffman,Newton,11,3,25,53.76903389830508
+185,Sawyer Switzer,Delaware Valley,11,3,25,52.82762711864407
+186,Kevin Sempruch,North Warren,11,3,25,49.94603389830508
+187,Derek Wittock,Winslow,11,3,25,49.151231638418075
+188,Michael DaSilva,Lakeland,11,3,25,49.02222033898305
+189,CJ Collins,Colts Neck,10,5,25,58.08924293785311
+190,Jake Bowen-Ashwin,Pitman,10,5,25,52.835429378531074
+191,Mohanad Ahmed,Highland Park,10,5,25,52.46123163841808
+192,Jonathan Miranda,North Arlington,10,5,25,51.18422033898305
+193,Leo Dimitrakiou,Kinnelon,10,5,25,50.499022598870056
+194,Akai Davis,Monroe,9,7,25,57.523638418079095
+195,Kyle Carvalho,Bridgewater-Raritan,9,7,25,57.515429378531074
+196,Vicents Godinez De Jesus,Piscataway Magnet,9,7,25,43.68742937853107
+197,Alex Siniscalchi,St. John Vianney,8,9,25,59.05283615819209
+198,Gabriel Kruglyansky,Colts Neck,8,9,25,57.66504519774011
+199,Noah Pepic,Cliffside Park,8,9,25,53.67783615819209
+200,Anthony Navarro,Nutley,7,11,25,59.057242937853104
+201,Liam Silva,Glen Ridge,7,11,25,57.1544406779661
+202,Eryk Dolecki,Wallington,7,11,25,55.692033898305084
+203,Charlie Mulligan,Park Ridge,7,11,25,53.57364971751412
+204,Arkadiusz Zuber,Elmwood Park,11,2,24,53.62923163841808
+205,Dylan Rocha,Ridge,10,4,24,55.33003389830508
+206,Michael Ilvento,Shore,10,4,24,55.018836158192094
+207,Alex Kostopoulos,Moorestown Friends,10,4,24,53.15182485875706
+208,Henrique Santos,Somerset Tech,10,4,24,49.371429378531076
+209,Ryan O'Donnell,Dickinson,9,6,24,55.79383615819209
+210,Sebastian Stroczan,Nutley,9,6,24,54.514242937853105
+211,Alex Hinkis,Glen Ridge,9,6,24,53.27203389830508
+212,William Gallagher,Triton,9,6,24,52.9036384180791
+213,Jacob Grinberg,Glen Rock,9,6,24,52.2174406779661
+214,Dominick Duarte,Monroe,9,6,24,51.83442937853107
+215,Lucas Nobrega,Holmdel,9,6,24,51.244045197740114
+216,Raymond Fromme,Lenape Valley,9,6,24,48.484836158192095
+217,Landon Terrazas,Pope John,8,8,24,53.890824858757064
+218,Nick Lutsky,St. Peter's Prep,8,8,24,50.266847457627115
+219,Liam Fox,St. Joseph (Hamm.),8,8,24,48.39983615819209
+220,JeanCarlo Sanchez,Gill St. Bernard's,7,10,24,58.69661581920904
+221,Jaiden Keller,Clayton,7,10,24,47.723836158192086
+222,Samuel DeSouza,Harrison,6,12,24,52.58583615819209
+223,Ariel Trelles-Calle,Lyndhurst,3,18,24,53.35063841807909
+224,Jerome Gizinski,Camden Catholic,11,1,23,50.63684745762711
+225,Javier Colon,Payne Tech,11,1,23,44.30323163841808
+226,Josh Baez,Pompton Lakes,10,3,23,54.86441807909604
+227,Jake Greene,Point Pleasant Boro,10,3,23,53.1304406779661
+228,Gabriel Lacorte,Pennsauken Tech,10,3,23,49.0444406779661
+229,Victor Guerra,Passaic,10,3,23,48.5814406779661
+230,Levi O'Connor,Calvary Christian (Old Bridge),10,3,23,47.78023163841808
+231,Hector Aldana Lopez,Trenton,10,3,23,47.4294406779661
+232,Kameron Brown,Salem Tech,10,3,23,34.40161581920904
+233,Max Goldberg,Robbinsville,9,5,23,53.81042937853107
+234,Jaxon Weber,Schalick,9,5,23,51.67042937853107
+235,Will Drechsler,Christian Brothers,9,5,23,51.65823163841808
+236,Colin McKenna,Kearny,9,5,23,51.30322033898305
+237,Eli Croce,Delsea,9,5,23,50.96583615819209
+238,Brandon Joseph,Asbury Park,9,5,23,49.42104519774011
+239,KJ Powell,Newark Academy,9,5,23,49.04083615819209
+240,Vaibhav Sitaramen,Edison Magnet,9,5,23,40.77242937853107
+241,Landin Bua,Spotswood,8,7,23,51.40924293785311
+242,Justin Rivadeneyra Madrid,Kearny,8,7,23,50.64862711864407
+243,Anderson Rodriguez,Dwight-Morrow,8,7,23,49.255022598870056
+244,Angel Rosario,Wildwood,8,7,23,46.1474406779661
+245,RJ Dougherty,Randolph,7,9,23,57.29383615819209
+246,Anthony Crisostomo,Bordentown,6,11,23,50.72402259887006
+247,Gabe Hertz,Glen Ridge,5,13,23,52.32742937853107
+248,Lucas Tecza,Rutherford,11,0,22,46.87483615819209
+249,Eugene Zebrowski,Sayreville,10,2,22,47.66083615819209
+250,Josh Rosado,Manchester Township,10,2,22,45.502429378531076
+251,Sean Tuite,Pequannock,10,2,22,44.02541807909604
+252,Matthew Schaller,Verona,8,6,22,52.210429378531074
+253,Caine Massey,Freehold Township,8,6,22,50.89403389830508
+254,Max Zagorski,Becton,8,6,22,48.0926384180791
+255,Devon Bimonte,Whippany Park,8,6,22,45.0144406779661
+256,Angelo Panzini,Middle Township,8,6,22,44.920022598870055
+257,Marvin Oyuela,Long Branch,7,8,22,49.533429378531075
+258,Bryan Valdes,Dover,7,8,22,49.01263841807909
+259,Cian O'Connor,Seton Hall Prep,6,10,22,49.24524293785311
+260,Tristen Dickerson,Westampton Tech,6,10,22,46.71482485875706
+261,Ismael Acosta,Perth Amboy,5,12,22,46.38203389830508
+262,Chanci Mbambo,Irvington,10,1,21,52.766011299435036
+263,Evan Ker,Wall,10,1,21,48.43840677966102
+264,Michael Ceciliano Campos,Manville,10,1,21,46.6096384180791
+265,Giovanny Sousa,East Brunswick,10,1,21,46.0556384180791
+266,Gabriel Elias,Newark Tech,10,1,21,44.024429378531075
+267,Owen Moran,St. Rose,10,1,21,42.87320903954802
+268,Bryan Molina,Atlantic City,10,1,21,36.28741807909604
+269,Reynaldo Ballon,Sparta,9,3,21,47.32402259887006
+270,Richard Selert,East Brunswick Magnet,9,3,21,45.645638418079095
+271,Alex Oviedo,DePaul,9,3,21,44.11303389830508
+272,Andrew Ginipro,Gloucester Catholic,9,3,21,38.77603389830509
+273,Joseph Isasi,Bernards,8,5,21,51.994033898305084
+274,Brennan Cortez,Leonia,8,5,21,50.460824858757064
+275,Steve Chomo,Schalick,8,5,21,50.13762711864407
+276,Lucas Kudless,Glassboro,8,5,21,46.96323163841808
+277,Jaxon McCamy,Palmyra,8,5,21,46.62223163841808
+278,Bledin Toska,Pompton Lakes,8,5,21,46.31423163841808
+279,Owen Callinan,Camden Catholic,8,5,21,46.179242937853104
+280,Adrian Custodio,Absegami,8,5,21,45.62783615819209
+281,Sebastian Ceron,Weehawken,8,5,21,43.64322033898305
+282,Braeden Daley,Ramsey,8,5,21,42.477231638418075
+283,Christian Kinney,Lenape Valley,8,5,21,42.00223163841808
+284,Matteo Paredes,Dunellen,8,5,21,42.00222033898305
+285,Olin Lilburn,Morris Tech,8,5,21,36.778220338983054
+286,Gavin Raiz,Morristown,7,7,21,48.14802259887006
+287,Patric Cui,St. Joseph (Met.),7,7,21,47.505033898305086
+288,Olayinka (Elijah) Olusola,Shabazz,7,7,21,46.191022598870056
+289,Luciano Guzman,Hudson Catholic,7,7,21,43.255033898305086
+290,Nitai Jiminez-Stanley,Montclair Kimberley,6,9,21,46.15704519774011
+291,Aleksander Stepnowski,Kinnelon,6,9,21,42.56582485875706
+292,Dan Palheta,Central Regional,6,9,21,42.435627118644064
+293,Luke Oliu,Montgomery,6,9,21,38.64242937853108
+294,Marco Carlini,Bordentown,5,11,21,44.12642937853107
+295,Brandon Betances,Saddle Brook,9,2,20,47.61942937853107
+296,David Gamino,Perth Amboy,9,2,20,45.36782485875706
+297,Daniel Butler,St. Joseph (Mont.),9,2,20,43.012824858757064
+298,wu Agyekum,Parsippany Hills,9,2,20,42.353824858757065
+299,Ethan Bellone,St. John Vianney,8,4,20,50.092220338983054
+300,Eric Petrush,Paramus,8,4,20,46.134429378531074
+301,Simon Deossa,Clifton,8,4,20,44.79361581920904
+302,Jestin Guaman,West Caldwell Tech,8,4,20,43.8304406779661
+303,Giovanni Bettocchi,Hoboken,8,4,20,41.29123163841808
+304,Nolan Russy,Becton,8,4,20,41.22142937853107
+305,Riley Stolte,Barnegat,8,4,20,40.975429378531075
+306,Frank Burns,Bergen Catholic,7,6,20,48.86062711864407
+307,Adrian Cami,Demarest,7,6,20,45.57922033898305
+308,Logan Cherkas,Eastern,7,6,20,45.506022598870054
+309,Luke Parson,Cinnaminson,7,6,20,45.16983615819209
+310,Edoardo Russo,Manalapan,7,6,20,45.01503389830508
+311,Joshua Berelowitz,Golda Och,7,6,20,43.242242937853106
+312,Dylan Harper,New Egypt,7,6,20,37.16461581920904
+313,Max Grimmie,Gloucester Catholic,6,8,20,40.21882485875706
+314,Zach Gleason,Delsea,6,8,20,37.506022598870054
+315,Evan Salge,Midland Park,5,10,20,43.12082485875706
+316,Jacob Myers,Toms River South,5,10,20,40.344418079096044
+317,Trevor Leach,Pitman,4,12,20,43.30041807909605
+318,Nick Angiolino,Notre Dame,4,12,20,40.89442937853107
+319,Kevin Quichimbo,Barringer,3,14,20,44.07542937853108
+320,Baran Demircan,Wayne Valley,9,1,19,42.304429378531076
+321,Kail Obando,West Caldwell Tech,9,1,19,39.13802259887006
+322,Gabriel Bormolini,Freehold Township,8,3,19,43.466429378531075
+323,Jackson Robinson,Morris Knolls,8,3,19,42.43640677966102
+324,Chase Hamerschlag,Princeton,8,3,19,40.539022598870055
+325,Adriano Jadiel Munoz Grimaldo,Passaic,8,3,19,40.012033898305084
+326,Luka Petkovski,Pompton Lakes,8,3,19,39.615022598870056
+327,Jett Ishigahara Charupakorn,Dwight-Englewood,8,3,19,38.98682485875706
+328,Ethan Nowak,Pope John,8,3,19,38.82741807909605
+329,Arian Naklicki,North Warren,8,3,19,37.926429378531076
+330,Barret Little,North Plainfield,8,3,19,36.05922033898305
+331,Bryan Nicolas,Piscataway Magnet,8,3,19,34.79441807909605
+332,Aaron Blanco,Timothy Christian,8,3,19,34.216022598870055
+333,Sean Sobocinski,Matawan,8,3,19,32.22681355932204
+334,Jhowy Picon,Harrison,7,5,19,40.27902259887006
+335,Ryan Witt,Rutherford,7,5,19,40.256824858757064
+336,Christopher Torres Pacheco,Asbury Park,7,5,19,39.60062711864407
+337,Julian Savreski,Don Bosco Prep,7,5,19,36.868429378531076
+338,Ryan Hart,Matawan,6,7,19,40.63322033898305
+339,Archie Seas,Hopewell Valley,6,7,19,39.126231638418076
+340,Brayden Kurak,Manchester Township,5,9,19,39.17182485875706
+341,Kaiden Reed,Mendham,4,11,19,38.88202259887005
+342,Harrison Hackett,Pingry,3,13,19,41.88903389830509
+343,Braeden Mulroony,Voorhees,9,0,18,40.44323163841808
+344,Arbab Sajjad,Atlantic City,9,0,18,32.002418079096046
+345,Luke Baruffi,Vineland,8,2,18,43.130813559322036
+346,Tyler Houghton,Southern,8,2,18,42.71483615819209
+347,Will Raman,Northern Highlands,8,2,18,42.31582485875706
+348,Gustavo Rosen,Montclair Kimberley,8,2,18,41.19523163841808
+349,Jordan Borota,Florence,8,2,18,38.38562711864407
+350,James P. Jung,Tenafly,8,2,18,35.64542937853108
+351,Praise Chukwuma,Eagle Academy,8,2,18,26.53322033898305
+352,Logan Zimmer,Moorestown,7,4,18,41.58301129943503
+353,Colby Townsend,Hunterdon Central,7,4,18,40.831638418079095
+354,Andrew Haviland,Madison,7,4,18,40.50362711864407
+355,Luca Lepore,Pascack Valley,7,4,18,39.894220338983054
+356,Braidan Logue,Kearny,7,4,18,39.47642937853107
+357,Ryan Kuhnel,Midland Park,7,4,18,38.82762711864407
+358,Joshua Bonsu,North Brunswick,7,4,18,38.19902259887006
+359,Francisco Jimenez,Buena,7,4,18,37.16423163841808
+360,Jackson Murray,Gill St. Bernard's,7,4,18,36.170824858757065
+361,Khalil Osman,West Windsor-Plainsboro North,7,4,18,31.97261581920904
+362,Nolan Keane,Madison,6,6,18,42.54441807909605
+363,Matt DaSilva,Ridge,6,6,18,41.81441807909604
+364,Mathew Heptig,Brick Memorial,6,6,18,40.87841807909604
+365,Silvio Pessoa,Shore,6,6,18,40.02123163841808
+366,Jesse Oliveira,North Warren,6,6,18,39.40962711864407
+367,Hayden Rogers,Indian Hills,6,6,18,39.04962711864407
+368,Dante Aschettino,Monroe,6,6,18,38.79522033898305
+369,Johnathen Lampley,Westampton Tech,6,6,18,36.97362711864407
+370,Owen Morycz,Ramsey,6,6,18,36.77722033898305
+371,Jacob Trawka,Cresskill,6,6,18,35.75962711864407
+372,Austin Bosworth,Kittatinny,6,6,18,35.35402259887006
+373,Erlin Turcios-Cruz,Eagle Academy,6,6,18,34.67722033898305
+374,Evan Valarie,Westwood,6,6,18,33.91982485875706
+375,Joe Guastella,Christian Brothers,5,8,18,44.43641807909604
+376,Noah Christian,West Milford,5,8,18,39.76883615819209
+377,Ridjeanno Peralte Valentin,Nottingham,5,8,18,37.455220338983054
+378,Jason Pacetti,Cinnaminson,1,16,18,42.359429378531075
+379,Dean Aly,Millburn,8,1,17,40.92842937853107
+380,Iretomiwa Hassan,University,8,1,17,37.889638418079095
+381,Andrew Catanoso,Wildwood Catholic,8,1,17,33.33102259887006
+382,Reilly Cantara,DePaul,7,3,17,43.088418079096044
+383,Noah Matuch,Manasquan,7,3,17,40.41962711864407
+384,Emerson Goldfinger,Saddle River Day,7,3,17,40.286813559322034
+385,Rizah Radoncic,Elmwood Park,7,3,17,38.716429378531075
+386,Anthony Huannou,Pingry,7,3,17,37.58123163841808
+387,Josiel Lopez,Middle Township,7,3,17,36.63722033898305
+388,Bryan Maurad,Teaneck,7,3,17,35.59223163841808
+389,Mohamed Mansour,Ferris,7,3,17,34.698429378531074
+390,Edward Guevara,Atlantic Tech,7,3,17,34.44042937853107
+391,Nicholas Canaveral,Saddle River Day,7,3,17,33.80422033898305
+392,Fernando Santiago,Cumberland,7,3,17,32.914824858757065
+393,Kaan Noyan,Westwood,7,3,17,30.345813559322036
+394,Kyle Wallace,Cherokee,6,5,17,42.43982485875706
+395,Vincent Pollifrone,Marlboro,6,5,17,39.17322033898305
+396,Isaiah Boone,St. John Vianney,6,5,17,38.878033898305084
+397,Peter Kassouf,North Brunswick,6,5,17,37.40741807909605
+398,Owen Miller,Delbarton,6,5,17,37.15682485875706
+399,Anthony Carrera Vides,Piscataway,6,5,17,36.112418079096045
+400,Ivan Reyes,Wallkill Valley,6,5,17,35.43682485875706
+401,Matthew Elyouri,Bound Brook,6,5,17,35.222022598870055
+402,Juan Felipe Saavedra,North Bergen,6,5,17,35.09162711864406
+403,Andrew Schuman,High Point,6,5,17,35.08442937853107
+404,Luke Burgess,Indian Hills,6,5,17,34.899824858757064
+405,Adam Rodricks,Manasquan,6,5,17,31.200813559322032
+406,David Delos Santos,Trenton,5,7,17,37.889638418079095
+407,Oscar Benitez,Manville,5,7,17,35.960429378531074
+408,Milan Shukla,Paramus,5,7,17,34.943627118644066
+409,Justin Amaya,West Orange,2,13,17,39.612824858757065
+410,Geremi Gonzalez,Manchester Regional,8,0,16,36.44602259887006
+411,Victor Gorri,Morris Catholic,8,0,16,35.316022598870056
+412,Shaun Pratt,Buena,8,0,16,31.658418079096045
+413,Lucas Catalunia,Iselin Kennedy,8,0,16,24.942813559322033
+414,Conor Rosander,Bridgewater-Raritan,7,2,16,38.87522033898305
+415,Myles Hernandez,Absegami,7,2,16,37.36622033898305
+416,Caleb Kassekert,Paul VI,7,2,16,36.519209039548024
+417,Ryan Kartanowicz,Lyndhurst,7,2,16,35.74282485875706
+418,Christian Martin,Phillipsburg,7,2,16,35.66083615819209
+419,Damian Ramirez,Seton Hall Prep,7,2,16,35.66083615819209
+420,Gregory Norr,River Dell,7,2,16,34.52461581920904
+421,Ryan Asadi,Christian Brothers,7,2,16,34.31723163841808
+422,Logan Cortacans,Lawrence,7,2,16,33.09522033898305
+423,Jonathan Quiquintuna,North Plainfield,7,2,16,32.98222033898305
+424,Braeden Fischer,New Egypt,7,2,16,32.19822033898305
+425,Ryan Spicer,Montgomery,7,2,16,31.479627118644068
+426,Melvin Lopez,Burlington City,7,2,16,25.372022598870057
+427,Antoine Ricketts,Overbrook,7,2,16,24.05361581920904
+428,Branden Ferreira,Gill St. Bernard's,6,4,16,40.04061581920904
+429,Colin Russ,Wayne Hills,6,4,16,36.52362711864407
+430,Christian Wozny,Sayreville,6,4,16,36.344824858757065
+431,Kevin Brito,Piscataway,6,4,16,35.50723163841808
+432,Cole Tjalma,Belvidere,6,4,16,35.21102259887006
+433,Robin Fu,Mendham,6,4,16,34.545813559322035
+434,Jose Segovia,Trenton,6,4,16,33.591824858757064
+435,Matt Bilmes,Rutgers Prep,6,4,16,33.48341807909605
+436,Karsin Migliori,Toms River South,6,4,16,32.95622033898305
+437,Christian Vivino,Wayne Valley,6,4,16,31.44682485875706
+438,Danny Bunay Coronel,Pennsville,6,4,16,29.386022598870056
+439,Pablo Paredes,Dunellen,6,4,16,29.30722033898305
+440,Dylan Luby-Meier,Henry Hudson,6,4,16,28.050418079096044
+441,Matthew Laurinaitis,Allentown,6,4,16,27.003813559322033
+442,Ben Priestner,Morris Knolls,5,6,16,38.23161581920904
+443,Lucas Mercado,Pascack Valley,5,6,16,37.23040677966102
+444,Michael Folmar,Delaware Valley,5,6,16,36.36122033898305
+445,Nico Ranieri,Columbia,5,6,16,36.27342937853108
+446,Luis Chirinos,West Caldwell Tech,5,6,16,35.676429378531076
+447,Guilherme Candido,Middle Township,5,6,16,34.59622033898305
+448,Bobby Quaglia,Rumson-Fair Haven,5,6,16,33.94002259887006
+449,Collin Cartwright,Oakcrest,5,6,16,31.95682485875706
+450,Lucas Matthews,Middle Township,5,6,16,31.754011299435028
+451,Landon Heil,Washington Township,5,6,16,31.57361581920904
+452,Justin Romero,North Bergen,5,6,16,28.626209039548023
+453,Diego Nunez,North Plainfield,4,8,16,36.47182485875706
+454,Genardo Lebrun,Barringer,4,8,16,35.61882485875706
+455,Aleksandre Agladze,North Arlington,4,8,16,35.26261581920904
+456,Aaron Harvey,Delaware Valley,4,8,16,35.09641807909605
+457,Sergio Mateus-Gomez,Steinert,4,8,16,34.52202259887006
+458,Fabio Falla,Harrison,4,8,16,32.70282485875706
+459,Christian Castano,Parsippany,3,10,16,29.35701129943503
+460,John Morocho,Orange,7,1,15,35.02941807909605
+461,Matias Toros-Killion,Burlington Township,7,1,15,34.911022598870055
+462,Teagan Carey,Clayton,7,1,15,33.432033898305086
+463,Nathan Goblirsch,Hammonton,7,1,15,33.20882485875706
+464,Zach Kooper,Dwight-Englewood,7,1,15,31.992429378531074
+465,Ethan Espino,Ridgefield Park,7,1,15,28.850813559322035
+466,Alexander Echanique,Paterson Eastside,7,1,15,26.622418079096043
+467,Michael Blanda,Wildwood,7,1,15,19.982813559322032
+468,Michael Marino,Gill St. Bernard's,6,3,15,39.951209039548026
+469,Dean Cardia,Point Pleasant Boro,6,3,15,37.892418079096046
+470,Charles Norfleet,Florence,6,3,15,36.46881355932203
+471,Shawn Tishey,Cherry Hill East,6,3,15,35.68922033898305
+472,Nathan Sekar,J.P. Stevens,6,3,15,34.32022033898305
+473,Ryan Seybuck,Manalapan,6,3,15,34.26082485875706
+474,Riley Flemming,Newton,6,3,15,34.21201129943503
+475,Daniel Aranda,Burlington City,6,3,15,33.466429378531075
+476,Lance Heuston,Pinelands,6,3,15,33.432033898305086
+477,Bradyn Skokowski,Triton,6,3,15,32.97041807909605
+478,Dylan Kawalek,Hopewell Valley,6,3,15,32.70862711864407
+479,Robbie Finnegan,Washington Township,6,3,15,30.292022598870055
+480,Dimitrios Papantoniou,Monmouth,6,3,15,30.000418079096043
+481,Nicolas Moran,South Plainfield,6,3,15,29.73440677966102
+482,Tevenerri Verdieu,Neptune,6,3,15,29.303209039548022
+483,Justin Michaca,Pennsville,6,3,15,28.964022598870056
+484,Dean Simpson,Moorestown Friends,6,3,15,28.809406779661018
+485,Robert Burdzy,Vernon,6,3,15,27.953022598870056
+486,Erdit Mani,Hasbrouck Heights,6,3,15,27.076813559322034
+487,Dominic Rodriguez,Allentown,6,3,15,25.26522033898305
+488,Marmik Luhar,Iselin Kennedy,6,3,15,16.204
+489,Cyril Azer,St. John Vianney,5,5,15,36.222824858757065
+490,Yonail Munzon,Trenton,5,5,15,35.33222033898305
+491,Teo Fedullo,Pope John,5,5,15,34.539824858757065
+492,Carter Stetz,St. Joseph (Met.),5,5,15,33.83023163841808
+493,Thierry Romain,Oakcrest,5,5,15,31.984429378531075
+494,Abdul Naib Khil,Glassboro,5,5,15,31.123813559322034
+495,Melvin Reyes,Passaic,5,5,15,29.921627118644068
+496,Justin Cardenas Suarez,Dunellen,5,5,15,27.256418079096044
+497,Yani Navarro,Westwood,5,5,15,26.739604519774012
+498,Alexander Palomec,Wildwood,5,5,15,22.893418079096044
+499,Daniel Lafragola,Dickinson,4,7,15,34.31801129943503
+500,Brody Sheehan,Northern Burlington,4,7,15,33.90702259887006
+501,Jake Keltz,Chatham,4,7,15,33.69642937853107
+502,Landon Amalfa,Brick Memorial,4,7,15,33.432033898305086
+503,Oliver Tillinghast,North Warren,4,7,15,30.666022598870057
+504,Michel Angel,Hackensack,4,7,15,30.08901129943503
+505,Jacob Freeman,Cedar Creek,4,7,15,29.61622033898305
+506,Christofer Gonzalez,Shabazz,3,9,15,36.78561581920904
+507,Ryan Mechael,Robbinsville,3,9,15,36.74402259887005
+508,Andrew Szamreta,Warren Hills,3,9,15,35.74362711864407
+509,Joe Doles,Point Pleasant Boro,3,9,15,34.60702259887006
+510,Liam Goldberg,Madison,3,9,15,33.31802259887006
+511,Davin Shin,Tenafly,3,9,15,32.36822033898305
+512,Matt Szczotka,Cedar Creek,3,9,15,28.53861581920904
+513,Adam Rajab,Hasbrouck Heights,3,9,15,27.790418079096046
+514,Eoin Curran,Deptford,2,11,15,32.518418079096044
+515,Thomas Mason,Overbrook,2,11,15,26.204824858757064
+516,Michael Rodriguez,Memorial,7,0,14,32.04002259887005
+517,Anthony Sinchi,East Orange,7,0,14,31.943627118644066
+518,Michael Deak,Old Bridge,7,0,14,30.494022598870057
+519,Liam Murphy,Delbarton,6,2,14,35.67841807909605
+520,Aidan Fung,South Brunswick,6,2,14,34.32822033898305
+521,Roman Ortmans Erven,Voorhees,6,2,14,34.063011299435026
+522,Christian Truppi,Montgomery,6,2,14,32.60502259887006
+523,Joe Stevens,Northern Burlington,6,2,14,31.851418079096046
+524,Bryan Barbosa,Shore,6,2,14,31.642418079096046
+525,Matt Chioccariello,Montville,6,2,14,31.55961581920904
+526,Ryan Stern,Pingry,6,2,14,31.508022598870056
+527,Jonayker Villanueva,Paterson Eastside,6,2,14,31.50481355932203
+528,Eli Kaiser,Montville,6,2,14,31.332022598870058
+529,Asher DaSilva,Bordentown,6,2,14,31.078418079096046
+530,Cormac Gibbons,Sparta,6,2,14,31.072813559322036
+531,Andrew Smith,Gill St. Bernard's,6,2,14,30.496022598870056
+532,Robert Runnions,Glen Ridge,6,2,14,30.49301129943503
+533,James Mastalski,Williamstown,6,2,14,30.184011299435028
+534,Matias Munoz,Jefferson,6,2,14,29.690418079096048
+535,Alex Aguirre,Midland Park,6,2,14,29.47980225988701
+536,Ben Tilley,St. Rose,6,2,14,28.866406779661016
+537,Bryce Mullison,Timber Creek,6,2,14,28.656022598870056
+538,Marcelo Tajiboy,Lawrence,6,2,14,25.516022598870055
+539,Eli Fabish,Midland Park,6,2,14,22.916813559322033
+540,Jake Campos,Watchung Hills,5,4,14,34.20281355932203
+541,Christopher Amabile,Colonia,5,4,14,34.132615819209036
+542,Carlos Venegas,St. Joseph (Met.),5,4,14,33.780418079096044
+543,Matt Brusco,Delbarton,5,4,14,33.06461581920904
+544,Maximillian Cleary,North Hunterdon,5,4,14,32.94722033898305
+545,Solomon Lucas,Montclair Kimberley,5,4,14,32.38942937853107
+546,Braden Young,Warren Hills,5,4,14,32.362418079096045
+547,Will Law,St. Augustine,5,4,14,32.33982485875706
+548,Wayne Maresch,Phillipsburg,5,4,14,32.26962711864407
+549,Alex Rivera,Freehold Township,5,4,14,31.75982485875706
+550,Matthew Garcia,Passaic,5,4,14,31.75661581920904
+551,Ryan Miller,Colonia,5,4,14,31.476627118644068
+552,Nate Thomas,Piscataway,5,4,14,30.83222033898305
+553,Daniel Vitor,Holy Cross Prep,5,4,14,30.29262711864407
+554,Kelley McCallion,Paul VI,5,4,14,30.271022598870054
+555,Chase Melcher,Freehold Township,5,4,14,30.22782485875706
+556,Quin Grosso,Chatham,5,4,14,29.808022598870057
+557,Luka Kljajic,Wood-Ridge,5,4,14,29.605418079096047
+558,Aidan Abere,Delbarton,5,4,14,28.99222033898305
+559,Joe Kwak,Cherry Hill East,5,4,14,28.41682485875706
+560,Tyler Oehm,Bergen Catholic,5,4,14,27.92122033898305
+561,Marvin Rosales,North Bergen,5,4,14,27.613418079096046
+562,Matthew Gonzales,Pequannock,5,4,14,26.892813559322033
+563,Steven Alicea,Lakeland,5,4,14,26.47001129943503
+564,Ashton Kubat,Overbrook,5,4,14,25.658022598870055
+565,Sam Ratinov,Fair Lawn,5,4,14,25.594406779661018
+566,Christian Hanle,DePaul,5,4,14,23.96520903954802
+567,Dylan Krstevski,Elmwood Park,4,6,14,31.96022033898305
+568,Quinn Juska,Manasquan,4,6,14,31.190011299435028
+569,Aiden O`Halloran,Barnegat,4,6,14,30.944429378531073
+570,Raily Jimenez-Fernndez,Bergen Tech,4,6,14,30.26761581920904
+571,Zachary Shirodkar,Newark Academy,4,6,14,29.92022033898305
+572,Nicholas DiTeodoro,Woodstown,4,6,14,29.162022598870056
+573,Landon Serrano,Delsea,4,6,14,29.110615819209038
+574,Matthew B. Seigerman,Tenafly,4,6,14,28.977022598870057
+575,Drew Rogers,Northern Burlington,4,6,14,28.647418079096045
+576,William Bravo,Bridgeton,4,6,14,27.799011299435026
+577,Justin Williams,Bloomfield,3,8,14,33.13220903954802
+578,Felipe Pesa,Randolph,3,8,14,32.79022033898305
+579,Alex Zambrano,Harrison,3,8,14,31.793022598870056
+580,Sebastian Alkema,Ramsey,3,8,14,30.780813559322034
+581,Alex Rivas-Castro,Dumont,3,8,14,24.308615819209038
+582,Noah Charnecky,St. Joseph (Met.),2,10,14,34.752022598870056
+583,Bernardo Tinajero,Seton Hall Prep,2,10,14,31.050429378531074
+584,Dennis Aungst,Wallkill Valley,2,10,14,26.34461581920904
+585,Christian Oliveria,Cinnaminson,6,1,13,33.935813559322035
+586,Dean Allegretta,Marlboro,6,1,13,32.81
+587,Peter Wynne,Delbarton,6,1,13,30.176406779661015
+588,David Cristaldo,Union City,6,1,13,29.721813559322033
+589,Xavier Rios,Manchester Regional,6,1,13,28.974429378531074
+590,Matias Valencia,Cliffside Park,6,1,13,27.77722033898305
+591,Chase Hawthorne,Mahwah,6,1,13,27.44401129943503
+592,Lukas Kozak,East Brunswick Magnet,6,1,13,27.25682485875706
+593,Logan Weinzier,Westwood,6,1,13,26.38320903954802
+594,Edgar Soto,Cliffside Park,6,1,13,26.01122033898305
+595,Juan Reyes-Medina,Atlantic City,6,1,13,25.878022598870054
+596,Sam Sharret,Golda Och,6,1,13,25.36322033898305
+597,Sebastian Chuqui,Hackensack,6,1,13,24.902011299435028
+598,Nishanth Tamma,Monroe,5,3,13,33.76681355932203
+599,Lucasz Wyczawski,Fair Lawn,5,3,13,31.29161581920904
+600,Rayan Zaouia,Kearny,5,3,13,31.200824858757063
+601,Alexis Rabanales,Union City,5,3,13,29.82722033898305
+602,Jeremiah Sdrak,Hawthorne Christian,5,3,13,29.57882485875706
+603,Renato Panetta,Gill St. Bernard's,5,3,13,29.502627118644067
+604,Manny De Araujo,Hanover Park,5,3,13,28.63620903954802
+605,Michael Nelson,Schalick,5,3,13,28.63282485875706
+606,Nikos Etsiakoh,Newark Academy,5,3,13,28.417627118644067
+607,Kaiden McDougald,Westampton Tech,5,3,13,28.348824858757062
+608,Johnny Baroudi,Weehawken,5,3,13,28.129604519774013
+609,Prince Ledbetter,Penns Grove,5,3,13,27.89361581920904
+610,Carter Beatty,McNair,5,3,13,27.86722033898305
+611,Vlad Kosovnik,Pequannock,5,3,13,27.802824858757063
+612,Juan Montoya,Bound Brook,5,3,13,27.79922033898305
+613,Felipe Kanacri,Cherry Hill East,5,3,13,27.744022598870057
+614,Diego Moreno,Manchester Regional,5,3,13,27.730022598870057
+615,Angel Mejia,Winslow,5,3,13,27.372418079096043
+616,Jonas Trum,Pitman,5,3,13,27.24222033898305
+617,Juan Cuartas,Bergenfield,5,3,13,27.155813559322034
+618,Ergi Gjino,Matawan,5,3,13,27.10660451977401
+619,Landon Kemple,Rutherford,5,3,13,26.574209039548023
+620,Ryan McComb,Holy Cross Prep,5,3,13,26.098022598870056
+621,Joseph David Renteria,Dunellen,5,3,13,24.921
+622,Luis Sepulveda,Lawrence,5,3,13,24.594011299435028
+623,German Mendoza-Fajardo,Parsippany Hills,5,3,13,23.407615819209038
+624,Albrecht Pineda,Henry Hudson,5,3,13,23.095418079096046
+625,Andrea Bermudez,Dwight-Morrow,5,3,13,22.89122033898305
+626,Lemar Baidariwal,Iselin Kennedy,5,3,13,21.74760451977401
+627,Logan Pace,Salem Tech,5,3,13,16.72120903954802
+628,Dylan Mazzarella,Delbarton,4,5,13,33.05122033898305
+629,Will Warner,Kingsway,4,5,13,32.447406779661016
+630,Armando Vinas,Pequannock,4,5,13,31.095824858757062
+631,David Aleksic,Leonia,4,5,13,30.690209039548023
+632,Andrew Holmes,Howell,4,5,13,29.287615819209037
+633,Tanner Griffin,Wall,4,5,13,29.128418079096047
+634,Jason Berberi,Watchung Hills,4,5,13,28.628418079096043
+635,Henry Chicoma,Bloomfield,4,5,13,28.157813559322037
+636,Lucas Dwornikowski,Old Bridge,4,5,13,27.832022598870054
+637,Derek Monahan,Steinert,4,5,13,27.695022598870057
+638,Johan Morisete,Dumont,4,5,13,17.263209039548023
+639,Santiago Quiroz,Lodi,3,7,13,26.87061581920904
+640,Thomas Calixto,Camden Catholic,3,7,13,26.49122033898305
+641,Lenny Garcia,Monroe,2,9,13,28.11561581920904
+642,Aarav Singh,Metuchen,2,9,13,27.598418079096046
+643,Matheus Silva,South River,2,9,13,24.39781355932203
+644,Kendryck Molina,Paramus Catholic,6,0,12,28.537604519774014
+645,Liam Digney,Cinnaminson,6,0,12,26.806022598870058
+646,Juan Ortiz,Penns Grove,6,0,12,25.982418079096046
+647,James Cho,Demarest,6,0,12,24.27920903954802
+648,Tsotne Sammy Buzariashvili,Nutley,5,2,12,30.754011299435028
+649,Ryan Dominguez,Freehold Borough,5,2,12,30.510813559322035
+650,"Lenny Mutabazi,",Leonia,5,2,12,30.03401129943503
+651,Jay Hagedorn,Cedar Grove,5,2,12,27.856813559322035
+652,Matheus Lopes,Long Branch,5,2,12,27.345824858757062
+653,Luke Bogart,Clearview,5,2,12,26.781824858757062
+654,Justin Rodriguez,Atlantic Tech,5,2,12,26.74562711864407
+655,Connor Quinn,Ewing,5,2,12,26.745627118644066
+656,Thomas Mathew,McNair,5,2,12,26.745627118644066
+657,Daniel Santos,Colonia,5,2,12,26.592022598870056
+658,Lachlan Daly,Montgomery,5,2,12,25.984022598870055
+659,Jose Reyes,Voorhees,5,2,12,25.960022598870054
+660,Ivan Sumba,Bridgewater-Raritan,5,2,12,25.655209039548023
+661,Kenny Juldeh,Snyder,5,2,12,25.13822033898305
+662,Owen Main,Glen Rock,5,2,12,24.710011299435028
+663,John Loja,Technology,5,2,12,24.486418079096044
+664,Lincoln Connelly,Triton,5,2,12,24.454418079096044
+665,Peter Stehli,Hoboken,5,2,12,22.312418079096044
+666,Nicholas Creighton,Spotswood,5,2,12,22.15361581920904
+667,Ryan Grimmie,Gloucester Catholic,5,2,12,21.26161581920904
+668,Jake Bennett,Raritan,5,2,12,21.113615819209038
+669,Phannel (Eli) Addo,Nottingham,5,2,12,21.058418079096043
+670,Aiden (AJ) Johnson,Timber Creek,5,2,12,19.92161581920904
+671,Calvin Kiker,Wildwood Catholic,5,2,12,19.426802259887005
+672,Jaxon Neubig,West Milford,4,4,12,29.186615819209038
+673,Jonathan Trzeciak,Moorestown,4,4,12,29.09922033898305
+674,Gavin Wiggins,Kingsway,4,4,12,28.44722033898305
+675,Charlie Taylor,Ramsey,4,4,12,28.07822033898305
+676,Tyler Brodbeck,Bloomfield,4,4,12,28.040813559322032
+677,Andrea Talarico,McNair,4,4,12,27.69602259887006
+678,Liam Palma,Millburn,4,4,12,27.31461581920904
+679,Caden Ferrara,Ridgewood,4,4,12,27.232418079096043
+680,Martin Gomez-Cabrera,Warren Hills,4,4,12,26.998418079096048
+681,Caden Mclveen,Midland Park,4,4,12,26.810011299435025
+682,Cathel McStravick,Red Bank Catholic,4,4,12,26.745627118644066
+683,Henry Schultz,Montclair,4,4,12,26.63922033898305
+684,Eli Binshtok,Saddle River Day,4,4,12,26.238615819209038
+685,Gabriel Garay,Union City,4,4,12,26.16061581920904
+686,Ivan Duran,Newark East Side,4,4,12,25.63202259887006
+687,Tristan Novak,Williamstown,4,4,12,25.219209039548023
+688,David Reynolds,Delaware Valley,4,4,12,23.612813559322035
+689,Esme Diaz,Ferris,4,4,12,22.694615819209037
+690,Anthony Torres,South Hunterdon,4,4,12,20.38561581920904
+691,Luke Colter,Notre Dame,4,4,12,20.15901129943503
+692,Bozidar Gavrilovic,Cresskill,3,6,12,28.18561581920904
+693,Aidan Mulligan,Old Tappan,3,6,12,27.754022598870055
+694,Jacob Sasunov,Glen Rock,3,6,12,26.867220338983053
+695,Augusto Kelly,Passaic Valley,3,6,12,26.588418079096044
+696,Kalin Sanchez,Wayne Valley,3,6,12,26.460406779661017
+697,Efe Tiryaki,Westampton Tech,3,6,12,26.02061581920904
+698,Jose Licon,Union City,3,6,12,25.35422033898305
+699,Denis Music,Somerville,3,6,12,24.30761581920904
+700,Ameen Chaouch,Williamstown,3,6,12,23.37401129943503
+701,Kieran Ewers,Bergen Catholic,3,6,12,23.198418079096044
+702,Luke Byrne,Manasquan,3,6,12,20.66061581920904
+703,Jake Rubin,Randolph,2,8,12,28.95622033898305
+704,Nick Latora,Pompton Lakes,2,8,12,28.599011299435027
+705,Angel Gonzalez,College Achieve Central,2,8,12,23.78661581920904
+706,Andres Garcia,Passaic Tech,2,8,12,23.544011299435027
+707,Brady Gillen,Toms River East,1,10,12,27.426418079096045
+708,Daniel Bird,Delsea,1,10,12,26.69701129943503
+709,Max Krupnick,Kittatinny,5,1,11,25.79722033898305
+710,Amara Kenema,Union City,5,1,11,25.36961581920904
+711,Ramcharan Rajavarapu,Morris Tech,5,1,11,25.10322033898305
+712,Ethan Rodriguez,Newton,5,1,11,25.10160451977401
+713,Lukas Kekesi,Northern Burlington,5,1,11,24.605220338983052
+714,Caden Gibson,Vernon,5,1,11,24.51682485875706
+715,Dylan Ramirez,Randolph,5,1,11,24.51682485875706
+716,Joshua G. Santosh,Tenafly,5,1,11,24.51682485875706
+717,Landon Hoberman,Point Pleasant Beach,5,1,11,24.51682485875706
+718,Mohamed Tiza,BelovED Charter,5,1,11,24.51682485875706
+719,Sebastian Sierra,Belleville,5,1,11,24.51682485875706
+720,Matthew Donoso,Timothy Christian,5,1,11,24.28122033898305
+721,Andy Zapata,South Plainfield,5,1,11,23.994209039548025
+722,Timur Lubka,Sayreville,5,1,11,23.764813559322036
+723,Mason Heilmann,Vernon,5,1,11,23.62922033898305
+724,Connor Pollock,Immaculata,5,1,11,22.84522033898305
+725,Brayden Carr,Pitman,5,1,11,22.526011299435027
+726,Manraj Panag,Woodbridge,5,1,11,22.374209039548024
+727,Julien Santos,North Arlington,5,1,11,21.734802259887005
+728,Nicolas Poretto,Oakcrest,5,1,11,20.885209039548023
+729,Nick Hopeck,Indian Hills,5,1,11,20.870209039548023
+730,Gavin Walker,Wallkill Valley,5,1,11,20.091813559322034
+731,Paul Ravix,Paterson Kennedy,5,1,11,19.823813559322033
+732,Tristan Barbota - Castano,Wayne Valley,4,3,11,30.151406779661016
+733,Michael Takacs,Bridgewater-Raritan,4,3,11,28.762011299435027
+734,Campbell Torrie,Old Tappan,4,3,11,27.544406779661017
+735,John Little,Christian Brothers,4,3,11,27.373813559322034
+736,Jarvis Alexander,East Orange,4,3,11,25.97122033898305
+737,Chase Mian,Montgomery,4,3,11,25.89402259887006
+738,Ryan Wong,Highland Park,4,3,11,25.669418079096044
+739,Brady Houck,Cedar Creek,4,3,11,25.302418079096043
+740,Shane McClelland,Seneca,4,3,11,24.93702259887006
+741,Braedan Keegan,Montclair Kimberley,4,3,11,24.51682485875706
+742,Humberto Hernandez,Freehold Borough,4,3,11,24.226209039548024
+743,Cristopher Abad,College Achieve Central,4,3,11,23.77322033898305
+744,Sebastian Vargas,East Brunswick,4,3,11,23.30161581920904
+745,Esvi Lopez,University,4,3,11,23.183022598870057
+746,Jesus Caraballo,Paterson Eastside,4,3,11,22.490418079096045
+747,Jacob Palmer,Highland Park,4,3,11,22.14401129943503
+748,Mathias Gonzalez,Somerville,4,3,11,20.550406779661017
+749,Ian Soares,Fair Lawn,4,3,11,19.898406779661016
+750,Carter Bellows,Medford Tech,4,3,11,19.879209039548023
+751,Jack Galante,Hanover Park,4,3,11,18.704802259887007
+752,Peter Sanchez,Bergenfield,4,3,11,16.18840677966102
+753,Aiden Babb,Don Bosco Prep,3,5,11,27.063209039548024
+754,Brian Grubb,Hunterdon Central,3,5,11,26.65901129943503
+755,Jack Harrington,Ramsey,3,5,11,26.11722033898305
+756,Aaron Eichler,Wallkill Valley,3,5,11,25.31061581920904
+757,Zach Halpern,Rumson-Fair Haven,3,5,11,25.18820903954802
+758,Jandri Morocho,Belleville,3,5,11,24.849615819209042
+759,Oliver Rhoades,Wall,3,5,11,24.829813559322034
+760,Dylan Lopez Paz,Westampton Tech,3,5,11,24.692406779661017
+761,Jackson Jantas,St. Peter's Prep,3,5,11,24.51682485875706
+762,Piero Obispo,Paterson Eastside,3,5,11,24.235615819209038
+763,Ritam Chaudhuri,J.P. Stevens,3,5,11,23.991022598870057
+764,Derek Cordon,Bound Brook,3,5,11,23.98701129943503
+765,Mathias Montufar,Lodi,3,5,11,23.870813559322034
+766,Mohy Abdelwahab,BelovED Charter,3,5,11,23.70122033898305
+767,Sviatoslav Synytsia,South River,3,5,11,22.829011299435027
+768,Carter Nielsen,Voorhees,3,5,11,22.688813559322035
+769,Zakaria Nait Tamghart,Ferris,3,5,11,21.92061581920904
+770,Edwin Gregorio,Nottingham,3,5,11,21.535813559322033
+771,Thomas Obrotka,Vernon,3,5,11,20.78561581920904
+772,Anthony Garcia,Overbrook,3,5,11,19.096418079096047
+773,Cade Pagano,Allentown,3,5,11,16.428406779661017
+774,Julio Gallardo,Passaic,2,7,11,26.334615819209038
+775,Elin Torres,Brick Memorial,2,7,11,25.870022598870058
+776,Chase Cooper,Lenape,2,7,11,24.680418079096047
+777,Michael Palmieri,Cedar Grove,2,7,11,24.51682485875706
+778,Anthony Giafaglione,Seneca,2,7,11,23.63961581920904
+779,Jayden Sturge,Holy Cross Prep,2,7,11,21.640418079096044
+780,Leon Sahiti,Lyndhurst,0,11,11,25.322813559322036
+781,Landon Wetzel,Lenape,5,0,10,25.28760451977401
+782,Ivan Naranjo,Science Park,5,0,10,23.694813559322036
+783,Alex Stolte,Glen Ridge,5,0,10,22.652418079096044
+784,Christian Jean-Baptiste,Manchester Regional,5,0,10,22.368813559322035
+785,Efeoghene Edukore,Shabazz,5,0,10,22.288022598870057
+786,Rohan Reddy,Mountain Lakes,5,0,10,22.01760451977401
+787,Tyler Vogel,Passaic Tech,5,0,10,21.55560451977401
+788,Hunter Oksen,Monmouth,5,0,10,21.300813559322034
+789,Riley Rohrbach,Immaculata,5,0,10,20.790418079096046
+790,Aiden Melendez,Hawthorne Christian,5,0,10,20.638813559322035
+791,Patrick Huber,Rumson-Fair Haven,5,0,10,19.776813559322033
+792,David Acuna,Atlantic Tech,5,0,10,19.504813559322034
+793,Sadibou  Cheikh Fall,Orange,5,0,10,18.327604519774013
+794,Moses Asumadu,Hanover Park,5,0,10,17.35720903954802
+795,Sulaimon Alawode,North Star Academy,5,0,10,15.370000000000001
+796,John Sassi,Pennsville,5,0,10,14.453209039548023
+797,Ethan Read,Kingsway,4,2,10,26.46740677966102
+798,Peter DiDonato,Hopewell Valley,4,2,10,23.714418079096045
+799,Martim Marques,Delran,4,2,10,23.102813559322033
+800,Sam Austin,Eastern Christian,4,2,10,22.91361581920904
+801,Julio Arostegui,Mendham,4,2,10,22.58
+802,Eli Martinez,Ramapo,4,2,10,22.434418079096044
+803,Matthew Pasternak,Seton Hall Prep,4,2,10,22.346813559322033
+804,Luka Anders-Weiner,Montclair Kimberley,4,2,10,22.288022598870057
+805,Nicolas Rodriguez,Newark East Side,4,2,10,22.288022598870057
+806,Tyler Winston,Wayne Hills,4,2,10,22.288022598870057
+807,Landon Gugliemo,Woodstown,4,2,10,21.927011299435026
+808,Zach Barton,Steinert,4,2,10,21.68722033898305
+809,Brody Rowe,Timber Creek,4,2,10,21.58722033898305
+810,Arman Ozhan,Cresskill,4,2,10,21.470209039548024
+811,Marc Caldelas,Midland Park,4,2,10,21.378011299435027
+812,Nico Imburgia,Fair Lawn,4,2,10,21.20922033898305
+813,Estiven Alvarez,Harrison,4,2,10,21.184011299435028
+814,Enzo Lolos,Newark East Side,4,2,10,21.174418079096046
+815,Alex Roman,Dover,4,2,10,21.116418079096047
+816,Chase Franklin,St. Joseph (Hamm.),4,2,10,21.004011299435028
+817,Felipe Menezes Bernardo,Maple Shade,4,2,10,20.521209039548022
+818,Michael Marinello,Allentown,4,2,10,20.518418079096048
+819,Lucas Riascos,Parsippany Hills,4,2,10,19.746011299435025
+820,Will Kwelty,Seneca,4,2,10,19.518813559322034
+821,Adam Fidurski,Boonton,4,2,10,19.30961581920904
+822,Gino Santise,Northern Burlington,4,2,10,18.641604519774013
+823,Erick Lopes,Holy Cross Prep,4,2,10,18.018011299435027
+824,Michael Tabor,Paramus,4,2,10,16.997406779661016
+825,Samson Cofran,Clearview,4,2,10,16.71520903954802
+826,Mateo Reyes,Atlantic City,4,2,10,15.725999999999999
+827,Luke Farrugia,Holmdel,3,4,10,25.341011299435028
+828,Jaden Lee,Ridgewood,3,4,10,24.484813559322035
+829,Joshua Avilez,Absegami,3,4,10,23.828813559322032
+830,Benjamin Adler,Mendham,3,4,10,23.514418079096046
+831,Elijah Rivers,Pennsauken,3,4,10,22.33622033898305
+832,Hudson Salecito,Pascack Valley,3,4,10,22.328011299435026
+833,Tawab Mohsini,Teaneck,3,4,10,22.314418079096047
+834,Finnigan Salamone,Seton Hall Prep,3,4,10,22.16461581920904
+835,Sean Li,East Brunswick,3,4,10,21.968418079096043
+836,Anand Warrier,South Brunswick,3,4,10,21.858418079096044
+837,Jaiden Sarmadi,Saddle Brook,3,4,10,21.798813559322035
+838,Aleks Dworniczek,Manville,3,4,10,21.70422033898305
+839,Jacob Weinstock,Sparta,3,4,10,21.387604519774012
+840,Charles Jordan,Glen Ridge,3,4,10,21.363406779661016
+841,Henry Lopez,New Brunswick,3,4,10,21.27501129943503
+842,Jack McCauley,Salem Tech,3,4,10,20.983209039548022
+843,Alex Deza,West Orange,3,4,10,20.79001129943503
+844,Alejandro Aguilera,Manville,3,4,10,20.616418079096043
+845,Gianfranco Sung,Becton,3,4,10,20.24161581920904
+846,Tyler Wills,Mountain Lakes,3,4,10,20.186813559322033
+847,Lucas Chen,Clifton,3,4,10,19.336802259887005
+848,Casey Simon,Monmouth,3,4,10,17.982813559322032
+849,Christian Barber,Allentown,3,4,10,17.49101129943503
+850,Ben Lockwood,Gloucester Catholic,3,4,10,16.76901129943503
+851,Jason Carias,Thrive Charter,3,4,10,13.084406779661016
+852,Mattias Cordero,Lakeland,3,4,10,11.464802259887005
+853,Saifullah Saad,Iselin Kennedy,3,4,10,10.530000000000001
+854,Ryan Lee,Millburn,2,6,10,23.807418079096045
+855,Leonardo Rodriguez Salas,Shabazz,2,6,10,23.06861581920904
+856,Luke Ortiz,St. Joseph (Met.),2,6,10,22.320813559322033
+857,Gavin Sexton,Wayne Hills,2,6,10,21.778813559322032
+858,Matias Albarracin,Dwight-Morrow,2,6,10,21.49420903954802
+859,Brian Vasquez,Payne Tech,2,6,10,20.388813559322035
+860,Teo Dierig,Dickinson,2,6,10,20.297011299435027
+861,JT Kurilko,Newton,2,6,10,20.23540677966102
+862,Dylan Heines,Montgomery,2,6,10,20.00301129943503
+863,Louis Romeo,Middletown North,2,6,10,19.68561581920904
+864,Henry Honeywood,Robbinsville,2,6,10,19.631813559322033
+865,Caleb Santiago,Pennsauken,2,6,10,17.192802259887006
+866,Landon Katz,South Hunterdon,2,6,10,14.047604519774012
+867,Michael Kacsur,Florence,1,8,10,25.123604519774013
+868,Justin Arias,Christian Brothers,1,8,10,23.295406779661015
+869,Harris Morris,Northern Highlands,1,8,10,22.51361581920904
+870,Andrew Marturano,Pingry,1,8,10,22.279220338983052
+871,Christer Sanchez,Atlantic Tech,1,8,10,20.460813559322034
+872,Juan Kamilo Pena,Bound Brook,1,8,10,17.576604519774012
+873,Jacob Rodriguez,Lenape Valley,1,8,10,16.845209039548024
+874,Ivander Pineda,North Brunswick,4,1,9,23.12460451977401
+875,Caleb Smith,Moorestown,4,1,9,22.89820903954802
+876,Jackson Meyer,Lenape,4,1,9,22.576406779661017
+877,Tk Saldarini,Parsippany Hills,4,1,9,21.39440677966102
+878,Joseph Cambareri,Ramsey,4,1,9,20.59161581920904
+879,Will Clarke,Woodbridge,4,1,9,20.457418079096044
+880,Emilio Zurita Gainty,Nutley,4,1,9,20.059220338983053
+881,George Harritos,Paramus,4,1,9,20.059220338983053
+882,Nicholas Zawadiwsky,Mendham,4,1,9,20.05922033898305
+883,Solomon Edukore,University,4,1,9,20.05922033898305
+884,Ayden Ellis,Woodstown,4,1,9,20.039813559322035
+885,Luca Cicchini,Bishop Eustace,4,1,9,19.72761581920904
+886,Mamadou Diop,Memorial,4,1,9,19.56361581920904
+887,Eliezer Infante,Teaneck,4,1,9,19.430418079096047
+888,Niccolas Romero,Matawan,4,1,9,19.332011299435027
+889,Nick Silva,Christian Brothers,4,1,9,19.288011299435027
+890,Bobby Tamashunas,Rumson-Fair Haven,4,1,9,18.96361581920904
+891,Alexander Morcom,Caldwell,4,1,9,18.94561581920904
+892,Jais Roy,Rutgers Prep,4,1,9,18.76801129943503
+893,Chris Parker,Florence,4,1,9,18.626406779661018
+894,Kerry St. Vilus,Asbury Park,4,1,9,18.59961581920904
+895,Oriel N. Steinberg,Tenafly,4,1,9,18.406813559322032
+896,Santiago Rodriguez,Harrison,4,1,9,18.382209039548023
+897,Tyler Bernisky,Egg Harbor,4,1,9,18.352813559322033
+898,Liam Tisi,Westwood,4,1,9,18.28920903954802
+899,Harpinder Singh,Carteret,4,1,9,18.17601129943503
+900,Cooper Ciak,Spotswood,4,1,9,17.72561581920904
+901,Ricardo Portillo,Long Branch,4,1,9,17.699209039548023
+902,Jesse Rossini,Holy Spirit,4,1,9,17.351813559322032
+903,Julian Hernandez,Randolph,4,1,9,17.262406779661017
+904,Marko Rivas-Rodriguez,Clifton,4,1,9,17.104813559322032
+905,Edwin Gomez-Galacia,Pennsauken Tech,4,1,9,16.583813559322035
+906,Arsen Rozdolskyi,Lodi,4,1,9,16.33601129943503
+907,Easton Hunter,Don Bosco Prep,4,1,9,15.928
+908,Stephano Espino,Iselin Kennedy,4,1,9,12.934209039548023
+909,Juan Ramirez,Morristown,3,3,9,24.297802259887003
+910,Adrian Ormeno,Passaic Tech,3,3,9,23.016604519774013
+911,Allen Aurelien,Moorestown Friends,3,3,9,21.87460451977401
+912,Ethan Morris,Gloucester Tech,3,3,9,21.357418079096043
+913,Christopher Vega,Steinert,3,3,9,21.070406779661017
+914,Angel Chun,Wardlaw-Hartridge,3,3,9,20.994615819209038
+915,Matt Rusin,Whippany Park,3,3,9,20.688418079096046
+916,Pedro Barrera,Palisades Park,3,3,9,20.572813559322036
+917,Henry Foucaud,Seton Hall Prep,3,3,9,20.08861581920904
+918,Antonio Dimitrijoski,Middlesex,3,3,9,20.084406779661016
+919,Tyler Valeira,Bridgewater-Raritan,3,3,9,20.082418079096044
+920,Colin Woodruff,Keyport,3,3,9,20.059220338983053
+921,Christian Doolan,Bergen Catholic,3,3,9,20.05922033898305
+922,Doug Gush,Camden Catholic,3,3,9,20.05922033898305
+923,Dominick Paniconi,Hunterdon Central,3,3,9,20.04161581920904
+924,Jedidias Naranjo,Kearny,3,3,9,19.98861581920904
+925,Prabhjot Virk,Carteret,3,3,9,19.601615819209037
+926,Brady Sarracino,Glassboro,3,3,9,19.490813559322035
+927,Emmanual Perez,East Brunswick Magnet,3,3,9,19.39961581920904
+928,Eduard Mustafai,Manchester Regional,3,3,9,19.184418079096044
+929,Nathaniel Dabrowski,Calvary Christian (Old Bridge),3,3,9,18.892418079096046
+930,Osmar Galindo,New Brunswick,3,3,9,18.762209039548022
+931,Max Del Torro,St. Joseph (Mont.),3,3,9,18.70201129943503
+932,Peter Lines,Delbarton,3,3,9,18.657615819209038
+933,Marcel Zyla,Pompton Lakes,3,3,9,18.619615819209038
+934,James Thorn,Raritan,3,3,9,18.61861581920904
+935,Alan Sadlocha,Sayreville,3,3,9,18.606813559322035
+936,Adrain Gutierrez,Pascack Valley,3,3,9,18.45620903954802
+937,Rafael Lijo,Newark East Side,3,3,9,18.388813559322035
+938,Jongchan Lee,Bloomfield,3,3,9,18.38881355932203
+939,Rushil Sakrikar,West Windsor-Plainsboro South,3,3,9,18.383418079096046
+940,Juan Corrales,Carteret,3,3,9,18.223813559322032
+941,Brady Scott,Belvidere,3,3,9,18.150813559322035
+942,Aidan Murphy,Hackettstown,3,3,9,17.84201129943503
+943,Kalief Troutman,South Hunterdon,3,3,9,17.686011299435027
+944,Anthony Dvirts,Fair Lawn,3,3,9,17.37720903954802
+945,Finn Byrne,Immaculata,3,3,9,16.061406779661016
+946,Waseem Almanakly,Morris Hills,3,3,9,15.316011299435027
+947,Ethan R. Schwartz,Tenafly,3,3,9,12.672802259887007
+948,Lucas Henriques,East Brunswick,2,5,9,24.440011299435028
+949,Evan Cappetta,Toms River East,2,5,9,21.728209039548023
+950,Soumil Nimse,Ridge,2,5,9,21.164813559322035
+951,Landon Herbert,Manasquan,2,5,9,20.510418079096045
+952,Caleb Vander Wall,Eastern Christian,2,5,9,20.19061581920904
+953,Steven Carino,Becton,2,5,9,20.165418079096046
+954,Dairo Garcia-Ramirez,Ferris,2,5,9,20.059220338983053
+955,Henry Foster,Pingry,2,5,9,20.05922033898305
+956,Odai El-Sadek,Passaic Valley,2,5,9,19.754813559322034
+957,Ayden D'sa,Hoboken,2,5,9,19.681813559322034
+958,Jack Feinberg,Timber Creek,2,5,9,19.383011299435026
+959,Edgar Perez Ceballos,Sayreville,2,5,9,19.372813559322033
+960,Khaled Najjar,Rutherford,2,5,9,19.237418079096045
+961,Dan Walsh,Camden Catholic,2,5,9,19.130418079096046
+962,John Iratagotia,Fair Lawn,2,5,9,18.002813559322036
+963,Julien Lopez-Colon,Spotswood,2,5,9,17.018011299435027
+964,Iker Huastitlan-Reyes,Hightstown,2,5,9,14.19860451977401
+965,Christopher Opat,Pope John,1,7,9,20.009209039548026
+966,Jack Oettinger,Hasbrouck Heights,1,7,9,18.93161581920904
+967,Cole Nekich,Morris Hills,1,7,9,18.844406779661018
+968,Kevin Trzuskot,Elmwood Park,1,7,9,18.619615819209038
+969,Martin Velasco Flores,Science Park,4,0,8,20.31760451977401
+970,Aydan Moos,Rutherford,4,0,8,20.06120903954802
+971,Connor Kasperowicz,Waldwick,4,0,8,18.664813559322035
+972,Berlendz Ulysse,Orange,4,0,8,18.647209039548024
+973,Juan Maria,Howell,4,0,8,18.366813559322033
+974,Patrick Broadbelt,Palmyra,4,0,8,18.36
+975,Jacob Marin,Colonia,4,0,8,17.887209039548022
+976,Tyler Slimm,Medford Tech,4,0,8,17.864813559322034
+977,Matteo Miranda,Dunellen,4,0,8,17.830418079096045
+978,Tewfik Bencheik,BelovED Charter,4,0,8,17.830418079096045
+979,Ryan Zhu,Newark Academy,4,0,8,17.600813559322035
+980,Teppei Tomono,Old Tappan,4,0,8,17.324813559322035
+981,Advait Baijulal,Edison Magnet,4,0,8,16.549209039548025
+982,Arda Ozdemir,Glassboro,4,0,8,16.50360451977401
+983,Branden Balmir,Medford Tech,4,0,8,16.009604519774012
+984,Nico Ferriolo,New Egypt,4,0,8,15.863209039548023
+985,Nicholas Contento,Paul VI,4,0,8,15.859209039548023
+986,Saul Sabino,Piscataway Magnet,4,0,8,15.851209039548023
+987,Grayson Gorski,Madison,4,0,8,15.820813559322033
+988,Steven Segura,Passaic,4,0,8,15.647209039548024
+989,Carmelo Beswick,Egg Harbor,4,0,8,15.557209039548022
+990,Kriss Makkar,Princeton Day,4,0,8,15.282813559322033
+991,Samuel Figueroa,Ferris,4,0,8,15.084813559322033
+992,Blakely Smith,Henry Hudson,4,0,8,14.598813559322032
+993,Bruce Bellace,Oakcrest,4,0,8,14.581209039548023
+994,Alex DeLeon,South Hunterdon,4,0,8,14.478813559322035
+995,Reed Huntsinger,Delsea,4,0,8,13.623209039548023
+996,Stalin Pulla,Hackensack,4,0,8,8.70560451977401
+997,Kevin Vides,Dover,3,2,8,20.90460451977401
+998,Jake Demarco,West Essex,3,2,8,20.49660451977401
+999,Carlos Moncion,Dwight-Englewood,3,2,8,19.806209039548023
+1000,Frank Serrano,Morristown,3,2,8,19.569406779661016
+1001,Brian Anders,Pingry,3,2,8,19.472813559322034
+1002,Braeden Moramarco,Point Pleasant Boro,3,2,8,19.213209039548023
+1003,Samuel Henao,Lodi,3,2,8,19.00660451977401
+1004,Chris Knight,Wall,3,2,8,18.732813559322032
+1005,Mario Fuentes,Penns Grove,3,2,8,18.669209039548022
+1006,Noli Murtaj,Cherokee,3,2,8,18.541209039548022
+1007,Anderson Arequipa,College Achieve Central,3,2,8,18.50520903954802
+1008,Walter Quevedo,Cliffside Park,3,2,8,18.156813559322032
+1009,Sinan Yeniler,Cliffside Park,3,2,8,17.99361581920904
+1010,Sebastian Halat,Elmwood Park,3,2,8,17.99120903954802
+1011,Oscar Montero,Manchester Regional,3,2,8,17.920813559322035
+1012,Billy Luxama,Timber Creek,3,2,8,17.830418079096045
+1013,Danny Delghaccio,Warren Hills,3,2,8,17.830418079096045
+1014,Jake Falkenstern,Park Ridge,3,2,8,17.830418079096045
+1015,Jonathon Larmie,Trenton,3,2,8,17.830418079096045
+1016,Melvin Obanda,Willingboro,3,2,8,17.830418079096045
+1017,Tiago Nicho,Lawrence,3,2,8,17.830418079096045
+1018,Jhony Cutzal,Palisades Park,3,2,8,17.820813559322033
+1019,Zachary Ninan,Eastern Christian,3,2,8,17.74120903954802
+1020,Jace Echon,Bergenfield,3,2,8,17.736813559322034
+1021,Dillon Younger,Colts Neck,3,2,8,17.684813559322034
+1022,Daniel Driscoll,Paul VI,3,2,8,17.65081355932203
+1023,Devin Ferris,Franklin,3,2,8,17.45861581920904
+1024,Alexis Blanca,New Brunswick,3,2,8,17.41561581920904
+1025,Andrew Lima,East Brunswick,3,2,8,17.40081355932203
+1026,Jaden Molina,Raritan,3,2,8,17.312813559322034
+1027,Ricardo Illarreta,Carteret,3,2,8,16.915209039548024
+1028,Zander Mattes,Rancocas Valley,3,2,8,16.572813559322036
+1029,Adam Ostrowski,Millburn,3,2,8,16.534813559322032
+1030,Khang Quach,Atlantic City,3,2,8,16.076011299435027
+1031,John Wurtemberg,North Warren,3,2,8,15.937209039548023
+1032,Sebas Ortiz,Morris Hills,3,2,8,15.875406779661017
+1033,Matthew Galietta,Immaculata,3,2,8,15.584011299435028
+1034,Devin Ryan,Monmouth,3,2,8,15.499406779661017
+1035,Matt Zak,Lakeland,3,2,8,14.741406779661016
+1036,William Rye,Hopewell Valley,3,2,8,14.478813559322035
+1037,Quinn Caulfield,Bergen Catholic,3,2,8,13.268011299435027
+1038,Brayden Vallee,Rancocas Valley,3,2,8,12.97960451977401
+1039,Nycolas Barcelos,Maple Shade,3,2,8,12.948
+1040,Fernandy Alexis Lopez,Burlington City,3,2,8,12.686011299435027
+1041,Tyler Deviney,Absegami,3,2,8,12.677604519774011
+1042,Josh Rivera,Doane Academy,3,2,8,12.371209039548024
+1043,Adkham Ibragimov,Ferris,3,2,8,10.150802259887007
+1044,James Kuzowsky,Cinnaminson,2,4,8,20.595209039548024
+1045,Derek Castro,Harrison,2,4,8,19.19201129943503
+1046,Cole Johnson,Shawnee,2,4,8,19.024813559322034
+1047,Giovanni Palumbo,Whippany Park,2,4,8,18.80961581920904
+1048,Liam Keet,Eastern,2,4,8,18.63161581920904
+1049,Christopher Hernandez,Morristown,2,4,8,18.54161581920904
+1050,Paul Fury,Wall,2,4,8,18.525406779661015
+1051,Wadee Elbaroudi,Washington Township,2,4,8,17.902813559322034
+1052,Alejandro Araos,West Windsor-Plainsboro South,2,4,8,17.830418079096045
+1053,Krystian Kotlewski,Old Bridge,2,4,8,17.555813559322033
+1054,Jean Obregon,Newark Tech,2,4,8,17.544813559322034
+1055,Chase Vince-Cruz,Newton,2,4,8,17.410406779661017
+1056,Ethan Suwankosai,Newark Academy,2,4,8,17.39401129943503
+1057,Ben Piotrowski,Indian Hills,2,4,8,17.14101129943503
+1058,Andres Galan,Union City,2,4,8,17.09801129943503
+1059,Sam Ko,Westwood,2,4,8,17.02561581920904
+1060,Ian Victoria Osorio,Immaculata,2,4,8,16.90001129943503
+1061,Drew Huffman,Newton,2,4,8,16.756802259887007
+1062,Jeronimo Soto,North Bergen,2,4,8,16.75561581920904
+1063,Christopher DoCarmo,Monroe,2,4,8,16.606813559322035
+1064,Chris Basso,Camden Catholic,2,4,8,15.800011299435027
+1065,Bryce Wilson,St. Augustine,2,4,8,15.759802259887007
+1066,Nazar Romanyshyn,Clifton,2,4,8,14.59560451977401
+1067,David Seabra,Iselin Kennedy,2,4,8,14.117011299435028
+1068,Stephen Fatcher,Pennsville,2,4,8,13.847209039548021
+1069,Marcos Bautista,Nottingham,2,4,8,13.331406779661018
+1070,Lester Bracero,Nottingham,2,4,8,13.311011299435027
+1071,Andras Szasz,Timothy Christian,2,4,8,9.804802259887005
+1072,Nikhil A. Seth,Tenafly,1,6,8,17.89781355932203
+1073,Julio Rzemieniewski,Gill St. Bernard's,1,6,8,17.55560451977401
+1074,Anthony Kucharczyk,St. Peter's Prep,1,6,8,17.250813559322033
+1075,Charlie Dawson,Millburn,1,6,8,17.18261581920904
+1076,Jake Smith,Seneca,1,6,8,16.58601129943503
+1077,Diego Aldeco Ortiz,Tenafly,1,6,8,16.178011299435028
+1078,Blake Bialecki,Woodstown,1,6,8,16.16501129943503
+1079,Edwin Castaneda-Sanchez,Pennsville,1,6,8,15.868813559322033
+1080,Rodrigo Luna-Perez,Overbrook,1,6,8,11.858209039548022
+1081,Derian Wubbenhorst,St. Joseph (Met.),0,8,8,17.830418079096045
+1082,Ryan Law,Glen Ridge,3,1,7,18.974406779661017
+1083,Travis Levy,Manasquan,3,1,7,17.68920903954802
+1084,Nate Koenig,Holmdel,3,1,7,17.524406779661017
+1085,Lenart Redzepi,Egg Harbor,3,1,7,17.460209039548023
+1086,Jayden Harris,St. Joseph (Met.),3,1,7,16.978813559322035
+1087,Conrad Garcia,Leonia,3,1,7,16.88960451977401
+1088,Romeo Tyson,Hamilton West,3,1,7,16.742209039548023
+1089,Jake Chudy,Ridgewood,3,1,7,16.713604519774012
+1090,Damian Stawowy,Pope John,3,1,7,16.690011299435028
+1091,Charlie Messano,Christian Brothers,3,1,7,16.606604519774013
+1092,Ibram Rezkalla,BelovED Charter,3,1,7,16.55201129943503
+1093,Brandon Wynn,Delran,3,1,7,16.416406779661017
+1094,Alan Laci,Paramus,3,1,7,16.242
+1095,Malcom Smith,Toms River East,3,1,7,16.17401129943503
+1096,Nichola Lee,Warren Hills,3,1,7,16.14440677966102
+1097,Alexander Garcia,Hightstown,3,1,7,16.13001129943503
+1098,Logan Diaz,Mahwah,3,1,7,15.846406779661017
+1099,Kento Imamura,Ridgewood,3,1,7,15.748011299435028
+1100,Nick Stryker,Brick Memorial,3,1,7,15.733813559322034
+1101,Eder Samir Rivera,Barringer,3,1,7,15.720000000000002
+1102,Guylherme Quintanilha,Salem,3,1,7,15.706406779661016
+1103,Alex Walker,Palmyra,3,1,7,15.60161581920904
+1104,Andy Sanchez,West Milford,3,1,7,15.60161581920904
+1105,Luke Ottenheimer,Manalapan,3,1,7,15.60161581920904
+1106,Max Seigel,Saddle River Day,3,1,7,15.60161581920904
+1107,Sergio Cano,Hamilton West,3,1,7,15.60161581920904
+1108,Dylan Michalski,Hunterdon Central,3,1,7,15.601615819209039
+1109,Gabe Beyer,St. Augustine,3,1,7,15.601615819209039
+1110,Joshua Corvera,Triton,3,1,7,15.601615819209039
+1111,Luke Gurkovic,Northern Highlands,3,1,7,15.601615819209039
+1112,Noah Britez,Bernards,3,1,7,15.601615819209039
+1113,Prince Jeanty,Ferris,3,1,7,15.601615819209039
+1114,Salvatore Ricabono,Hasbrouck Heights,3,1,7,15.601615819209039
+1115,Noah Heritage,Egg Harbor,3,1,7,15.586406779661017
+1116,Brayan Tecun,West Windsor-Plainsboro South,3,1,7,15.471209039548024
+1117,Nolan Perry,Cherry Hill East,3,1,7,15.450813559322032
+1118,Poyraz Erdonmez,Penns Grove,3,1,7,15.374813559322034
+1119,Nicholas Connelly,Egg Harbor,3,1,7,15.320813559322033
+1120,Rafay Zafar,Carteret,3,1,7,15.271813559322034
+1121,Alexander De La Rosa,Hudson Catholic,3,1,7,15.193813559322034
+1122,Ishan Bendre,South Brunswick,3,1,7,15.172011299435027
+1123,Giovanni Santiago,East Brunswick Magnet,3,1,7,15.102011299435027
+1124,Samuel Eichler,Wallkill Valley,3,1,7,15.015813559322034
+1125,Kadeem Wray,Carteret,3,1,7,14.942011299435027
+1126,Babacar Niasse,Union City,3,1,7,14.93801129943503
+1127,Randy Luna,Union City,3,1,7,14.93801129943503
+1128,Jason Melone,Freehold Borough,3,1,7,14.894011299435029
+1129,Chris Knight,Belvidere,3,1,7,14.858011299435027
+1130,Miguelangel Young,Lodi,3,1,7,14.79760451977401
+1131,Kobina Owusu-Danquah,Winslow,3,1,7,14.796406779661016
+1132,Drew Mountain,Vernon,3,1,7,14.714011299435029
+1133,Antwan Andrews,North Star Academy,3,1,7,14.708813559322033
+1134,Alex Carino,Becton,3,1,7,14.476802259887005
+1135,Ade Franklyn,Freehold Borough,3,1,7,14.293209039548023
+1136,Michael Demilio,Pinelands,3,1,7,14.186011299435027
+1137,Derlys Tinoco,Middlesex,3,1,7,14.123209039548023
+1138,Miguel Luzuriaga,Weehawken,3,1,7,14.10760451977401
+1139,Delante Murphy,East Brunswick Magnet,3,1,7,13.884011299435029
+1140,Chris CJ Hankins,Neptune,3,1,7,13.83201129943503
+1141,Nicholas Hall,Teaneck,3,1,7,13.668406779661018
+1142,Brailin Peralta,Lenape Valley,3,1,7,13.620406779661018
+1143,Selvin Bendal,West Caldwell Tech,3,1,7,13.608209039548022
+1144,Youssef Ahmed,Whippany Park,3,1,7,13.592011299435029
+1145,Andres Rodriguez,St. Peter's Prep,3,1,7,13.452011299435028
+1146,Ewan Stapley,St. Peter's Prep,3,1,7,13.452011299435028
+1147,Brandon Argueta,Ridgefield Park,3,1,7,13.197209039548023
+1148,Marcus Engira,Warren Hills,3,1,7,13.144406779661017
+1149,Kankam Adjei-Seffah,Belvidere,3,1,7,12.864011299435028
+1150,Matthew Rodas,Brick Township,3,1,7,12.722406779661016
+1151,Mark Smith,Delsea,3,1,7,12.481604519774011
+1152,James Ropelato,Hudson Catholic,3,1,7,12.040406779661016
+1153,Matei Cojocariu,Raritan,3,1,7,11.458406779661017
+1154,Victor Abu-Bakarr,Doane Academy,3,1,7,10.745604519774012
+1155,Miguel McCallum,Wallkill Valley,3,1,7,9.648604519774011
+1156,Arnav Ganti,Doane Academy,3,1,7,6.598
+1157,Owen McAuley,Bergen Catholic,2,3,7,18.289209039548023
+1158,Felix Paul Medina Velez,North Arlington,2,3,7,17.79201129943503
+1159,Ary Sanchez,Egg Harbor,2,3,7,17.460802259887004
+1160,Tate Westervelt,Cherry Hill West,2,3,7,16.946406779661018
+1161,Gavin Maksel,Colonia,2,3,7,16.018011299435027
+1162,Stephan Alpar,New Milford,2,3,7,15.875209039548022
+1163,Luke Miceli,Pompton Lakes,2,3,7,15.840011299435027
+1164,Austin Towlen,Maple Shade,2,3,7,15.653209039548022
+1165,Kristian Jaku,Freehold Borough,2,3,7,15.628011299435029
+1166,Caleb Ward,St. Joseph (Met.),2,3,7,15.60161581920904
+1167,Eric Fudala,Hammonton,2,3,7,15.601615819209039
+1168,Jason Pantaleo,Park Ridge,2,3,7,15.601615819209039
+1169,Jeremy Lee,Lenape,2,3,7,15.601615819209039
+1170,Ryder Redondo,Spotswood,2,3,7,15.601615819209039
+1171,Cole Simon,Cedar Creek,2,3,7,15.569209039548022
+1172,Vicente Cruz Pluss,Teaneck,2,3,7,15.508011299435028
+1173,Victor Ortiz,Monroe,2,3,7,15.346011299435029
+1174,Benjamin Irizarry,Passaic Tech,2,3,7,15.016406779661018
+1175,Santos Ciezza,Phillipsburg,2,3,7,14.952011299435028
+1176,Kyle Winig,Rumson-Fair Haven,2,3,7,14.893813559322034
+1177,Hunter Ravi,South Plainfield,2,3,7,14.893
+1178,Raffaele Tramo,Steinert,2,3,7,14.842406779661017
+1179,Nikoloz Rogava,Leonia,2,3,7,14.515209039548022
+1180,Jariel Lopez,Camden Catholic,2,3,7,14.430011299435028
+1181,Jacobo Bedoya,Morris Hills,2,3,7,14.193999999999999
+1182,Simon Maver,Westwood,2,3,7,14.083209039548022
+1183,Mason Imbriaco,Neptune,2,3,7,14.016406779661017
+1184,John O'Connor,Pequannock,2,3,7,14.01101129943503
+1185,Arnesh Banerjee,J.P. Stevens,2,3,7,13.927406779661016
+1186,Hunter Reynolds,Neptune,2,3,7,13.832011299435027
+1187,Mason Gable,Clayton,2,3,7,13.794813559322034
+1188,Tyler Puente,Cliffside Park,2,3,7,13.794209039548022
+1189,Michael Hope,Notre Dame,2,3,7,13.690209039548023
+1190,Jacob Thinji,West Windsor-Plainsboro North,2,3,7,13.658604519774011
+1191,Sebastian Mendez,Tenafly,2,3,7,13.308011299435028
+1192,Estuardo Godinez De Jesus,Piscataway Magnet,2,3,7,13.302802259887006
+1193,Jacob During,Newark Academy,2,3,7,12.817604519774012
+1194,Jovani Mendoza,Passaic,2,3,7,12.731604519774011
+1195,Jude Chaplin,Timothy Christian,2,3,7,12.569209039548022
+1196,Deni Shema,Ridgefield Park,2,3,7,11.532406779661017
+1197,Joncarlo Arozamena,Cresskill,2,3,7,10.837604519774011
+1198,Isaac Sharret,Golda Och,2,3,7,10.266406779661017
+1199,Donovan Mendoza,Thrive Charter,2,3,7,10.142406779661018
+1200,Oluwatimilehin Oyinkolade,Iselin Kennedy,2,3,7,9.991802259887006
+1201,Aarav Chandna,West Windsor-Plainsboro North,2,3,7,9.564604519774011
+1202,Patorizio Castrellon,Lenape,1,5,7,18.41260451977401
+1203,Lamine Ndao,East Brunswick,1,5,7,17.679406779661015
+1204,Landon Smith,Randolph,1,5,7,16.359813559322035
+1205,Yoandy Venereo,Ridgefield Park,1,5,7,16.134011299435027
+1206,Ben Badee,Hawthorne Christian,1,5,7,15.60161581920904
+1207,Conlon Achuff,Gloucester Tech,1,5,7,15.155813559322032
+1208,Kasir Hanley,Voorhees,1,5,7,15.149011299435028
+1209,Brad Williams,Newton,1,5,7,14.959011299435028
+1210,John- Mark Camiolo,Immaculata,1,5,7,13.342406779661017
+1211,Michael Colbert,St. Joseph (Hamm.),1,5,7,13.192209039548022
+1212,Aidan Parada,Kittatinny,1,5,7,12.314209039548022
+1213,Reshmen Loganthan,Iselin Kennedy,1,5,7,10.039000000000001
+1214,Ugur Elmali,Pennsville,1,5,7,4.457
+1215,Brady Flannery,Sparta,0,7,7,14.366011299435028
+1216,Jason Vargas,Bridgeton,3,0,6,16.148
+1217,Anri Imerlishvili,Monroe,3,0,6,15.87160451977401
+1218,Connor Plum,Cherokee,3,0,6,15.637604519774012
+1219,Shepard Graver,Shawnee,3,0,6,15.43
+1220,Jimmy Aguilar Ochoa,Toms River South,3,0,6,15.137209039548022
+1221,Colin Fredericks,Eastern,3,0,6,14.975209039548023
+1222,Bobby Lockard,Freehold Township,3,0,6,14.95560451977401
+1223,Joel Marty,Newark Central,3,0,6,14.827209039548023
+1224,Josue Guaman,Middlesex,3,0,6,14.515209039548022
+1225,Joseph Borjas,Hightstown,3,0,6,14.133209039548023
+1226,Hunter Krainski,South River,3,0,6,13.80760451977401
+1227,Edward Jimenez,Hackensack,3,0,6,13.699209039548023
+1228,Aidan Conway,Morristown-Beard,3,0,6,13.687604519774013
+1229,Jeremias Del Cid,Woodbridge,3,0,6,13.669209039548022
+1230,Aditya Shah,Woodbridge Magnet,3,0,6,13.589209039548024
+1231,Dylan Gonzalez Arcila,Passaic Tech,3,0,6,13.565604519774013
+1232,Adrian Grzelinski,Livingston,3,0,6,13.545209039548023
+1233,Muiz Aderogba,Manchester Township,3,0,6,13.494
+1234,Praise Matthews,Holy Cross Prep,3,0,6,13.469209039548023
+1235,Olamide Ojediran,Kingsway,3,0,6,13.445209039548022
+1236,Aiden Angel,Bridgeton,3,0,6,13.372813559322033
+1237,Andrew Combs,Butler,3,0,6,13.372813559322033
+1238,Braedon DeAngelis,Bishop Eustace,3,0,6,13.372813559322033
+1239,Brian Dever,Camden Catholic,3,0,6,13.372813559322033
+1240,Cesar Carrera,Princeton,3,0,6,13.372813559322033
+1241,Diago Miranda,Bernards,3,0,6,13.372813559322033
+1242,Griffin Anderson,Clearview,3,0,6,13.372813559322033
+1243,Jackson Goodwin,Oakcrest,3,0,6,13.372813559322033
+1244,James Main,Red Bank Catholic,3,0,6,13.372813559322033
+1245,Jason Carrillo,Newark East Side,3,0,6,13.372813559322033
+1246,Jason Perez,Cliffside Park,3,0,6,13.372813559322033
+1247,Krzysztof Zaluska,Lawrence,3,0,6,13.372813559322033
+1248,Shane Landau,Christian Brothers,3,0,6,13.372813559322033
+1249,Thomas Lucignani,Morristown,3,0,6,13.372813559322033
+1250,Owen Torres,Absegami,3,0,6,13.263209039548023
+1251,Roman Cea,Rumson-Fair Haven,3,0,6,13.173604519774011
+1252,Logan Williams,Pitman,3,0,6,13.063209039548022
+1253,Christopher Ariyan,Ramsey,3,0,6,12.991604519774011
+1254,Valentino Cruz,North Arlington,3,0,6,12.867209039548023
+1255,Connor Lemanski,Rutgers Prep,3,0,6,12.723209039548022
+1256,Tyler Coombs,Kittatinny,3,0,6,12.672
+1257,Sonam Bista,Hudson Catholic,3,0,6,12.609209039548023
+1258,Alex Gibas,Wallington,3,0,6,12.515209039548022
+1259,Lucas Suarez,Caldwell,3,0,6,12.259209039548022
+1260,Jack Urbanski,Christian Brothers,3,0,6,12.241209039548023
+1261,Gabe Greiner,Rutgers Prep,3,0,6,12.164
+1262,Frank Ciambrone,Cedar Creek,3,0,6,11.655209039548023
+1263,Abhay Menon,Morris Tech,3,0,6,11.569209039548022
+1264,Juan Diego Trujillo,Weehawken,3,0,6,11.50560451977401
+1265,Manan Baniswal,Edison Magnet,3,0,6,11.455209039548023
+1266,Marcel Marek,Dumont,3,0,6,11.329209039548022
+1267,Edgar Cuenca,Midland Park,3,0,6,10.977604519774012
+1268,Christian Borrelli,St. Joseph (Hamm.),3,0,6,10.053604519774012
+1269,Justin Merlo,Boonton,3,0,6,9.765604519774012
+1270,Isa Istrefi,Wayne Valley,3,0,6,9.05760451977401
+1271,Pinak Paul Chowdhury,Edison Magnet,3,0,6,8.22360451977401
+1272,Luke Tjoumakaris,Ocean City,2,2,6,18.012802259887007
+1273,Lorenzo Nevadomski,Rancocas Valley,2,2,6,15.726406779661016
+1274,Derek Palmieri,Gill St. Bernard's,2,2,6,15.563209039548022
+1275,Aidan Diaz,Old Bridge,2,2,6,14.964011299435029
+1276,Troy Simpliciano,Delran,2,2,6,14.837209039548021
+1277,Luke Howarth,Red Bank Catholic,2,2,6,14.813209039548022
+1278,Elliot Rivera,Passaic Tech,2,2,6,14.662406779661017
+1279,Aidan George,Wood-Ridge,2,2,6,14.631209039548022
+1280,Nathan Verling,Pingry,2,2,6,14.564
+1281,Ryan Giosa,Eastern,2,2,6,14.424406779661016
+1282,Noah Rybak,River Dell,2,2,6,14.28760451977401
+1283,Cody Klym,Seneca,2,2,6,14.25160451977401
+1284,Jason Gimenez,Bernards,2,2,6,14.205011299435029
+1285,Luciano Vitella,Hamilton West,2,2,6,14.193604519774011
+1286,Matthew Castor,Timothy Christian,2,2,6,13.977011299435029
+1287,Andrew Freid,Marlboro,2,2,6,13.962406779661016
+1288,Aayush Nyati,Parsippany,2,2,6,13.939209039548022
+1289,Landon Anderson,Schalick,2,2,6,13.876406779661016
+1290,Max Hinkis,Glen Ridge,2,2,6,13.790011299435028
+1291,Micah Lopez,Parsippany Hills,2,2,6,13.735011299435028
+1292,James Lopez,Colonia,2,2,6,13.72301129943503
+1293,Nick Hramyka,Marlboro,2,2,6,13.703406779661018
+1294,Bryan Matias,Palisades Park,2,2,6,13.67501129943503
+1295,Kenneth Monge,North Plainfield,2,2,6,13.667406779661016
+1296,Boaz Shin,Ramsey,2,2,6,13.639011299435028
+1297,Dieuloudson Vincent,Newark Central,2,2,6,13.545209039548023
+1298,Johan Galeano,Paramus,2,2,6,13.519209039548022
+1299,Anthony Satizabal,Newark Central,2,2,6,13.493011299435029
+1300,Joses Gomez,Wayne Valley,2,2,6,13.481406779661016
+1301,Andrew Genuario,Eastern Christian,2,2,6,13.464011299435029
+1302,Luis Lopes,Cinnaminson,2,2,6,13.463406779661016
+1303,Santi Estrada,Thrive Charter,2,2,6,13.390011299435029
+1304,Connor Foy,Hopewell Valley,2,2,6,13.372813559322035
+1305,Matt Mateja,St. Augustine,2,2,6,13.372813559322035
+1306,Peyton Auermuller,Pinelands,2,2,6,13.372813559322035
+1307,Ajlis Kaloci,Edison,2,2,6,13.372813559322033
+1308,Amiadou Compaore,Newark Central,2,2,6,13.372813559322033
+1309,Ashton Weiss,Golda Och,2,2,6,13.372813559322033
+1310,Dylon Grimaldi,Holmdel,2,2,6,13.372813559322033
+1311,Edwin Guaman,Technology,2,2,6,13.372813559322033
+1312,Gunner Sams,Triton,2,2,6,13.372813559322033
+1313,Jayden Geleta,Allentown,2,2,6,13.372813559322033
+1314,Matelson Louisius,Asbury Park,2,2,6,13.372813559322033
+1315,Mateo Cervantes,Medford Tech,2,2,6,13.372813559322033
+1316,Mihran Laskar,J.P. Stevens,2,2,6,13.372813559322033
+1317,Rooby Dorival,Penns Grove,2,2,6,13.372813559322033
+1318,Russell Eddeh,Pequannock,2,2,6,13.372813559322033
+1319,Samuel Kishelev,Golda Och,2,2,6,13.372813559322033
+1320,Sanket Parikh,Sayreville,2,2,6,13.372813559322033
+1321,Sebastian Cempron,Seton Hall Prep,2,2,6,13.372813559322033
+1322,Tyler Nappi,Caldwell,2,2,6,13.372813559322033
+1323,Tyrone Cole,Teaneck,2,2,6,13.372813559322033
+1324,Will Antenen,Delbarton,2,2,6,13.372813559322033
+1325,Johao Narvaez,Harrison,2,2,6,13.344406779661018
+1326,Joseph Schultz,Penns Grove,2,2,6,13.202011299435028
+1327,Ian Wessner,Maple Shade,2,2,6,13.167011299435028
+1328,John (JP) Laughrey,Pennsville,2,2,6,13.146011299435028
+1329,Victor Salguero,Bogota,2,2,6,13.145406779661016
+1330,Adriano Canelas - Euceda,Absegami,2,2,6,13.135209039548023
+1331,Aarush Bolla,J.P. Stevens,2,2,6,13.117209039548023
+1332,Eric Gullpa,Orange,2,2,6,13.064406779661017
+1333,Mohammad Naib Khil,Glassboro,2,2,6,13.045406779661016
+1334,Jeremy Lamb,Randolph,2,2,6,13.024011299435028
+1335,Ryan Alessi,Delbarton,2,2,6,13.024011299435028
+1336,Gavin Gary,Woodbridge,2,2,6,12.96160451977401
+1337,Dylan Cortez,Pennsauken Tech,2,2,6,12.961209039548024
+1338,William Parada Gaspar,Franklin,2,2,6,12.952406779661018
+1339,Lucas Cooksey,Pennsville,2,2,6,12.919209039548022
+1340,Frank Pechilio,Immaculata,2,2,6,12.889802259887006
+1341,Jake Lewis,Woodstown,2,2,6,12.860406779661016
+1342,Alec Notaro,Christian Brothers,2,2,6,12.807011299435029
+1343,Justin Canuela,Bergen Tech,2,2,6,12.803604519774012
+1344,Brian Bolka,Morris Knolls,2,2,6,12.681802259887007
+1345,Dylan Johansen,Howell,2,2,6,12.677406779661016
+1346,Finn Tribus,Delaware Valley,2,2,6,12.629209039548023
+1347,Ethan Rosenfeld,Manalapan,2,2,6,12.530406779661018
+1348,Jonah Levitz,McNair,2,2,6,12.529011299435028
+1349,Carlos Ahuatzin,Morris Catholic,2,2,6,12.471011299435029
+1350,Alex Moss,Whippany Park,2,2,6,12.368011299435029
+1351,Keahi Nataadiningrat,Indian Hills,2,2,6,12.351011299435028
+1352,Abraham Perez,Red Bank Regional,2,2,6,12.277209039548023
+1353,Ethan Soto,East Brunswick Magnet,2,2,6,12.213604519774012
+1354,Ryan Daniels,Seneca,2,2,6,12.055604519774011
+1355,Brody Bottiglieri,Seneca,2,2,6,11.935406779661017
+1356,Matt Tupaczewski,Butler,2,2,6,11.908011299435028
+1357,Armando Sanchez,New Brunswick,2,2,6,11.785
+1358,Yash Thakur,West Windsor-Plainsboro South,2,2,6,11.337802259887006
+1359,Denzel Marquez,Passaic,2,2,6,11.329604519774012
+1360,Aadi Shrestha,Timothy Christian,2,2,6,11.196604519774011
+1361,Felipe Samuel,Notre Dame,2,2,6,11.037209039548022
+1362,Christopher Delcalzo,Wallkill Valley,2,2,6,10.263802259887004
+1363,Gavin Bernard,West Windsor-Plainsboro South,2,2,6,10.021209039548022
+1364,Colby Welch,Thrive Charter,2,2,6,9.317604519774012
+1365,Nicholas Diaz,Kearny,2,2,6,9.073604519774012
+1366,Haadi Hammad,Iselin Kennedy,2,2,6,8.76160451977401
+1367,Jose Lopez,Pennsauken Tech,2,2,6,8.228406779661016
+1368,Ritch Sarian,Thrive Charter,2,2,6,7.913604519774012
+1369,John Flynn,Bergen Catholic,2,2,6,7.289604519774011
+1370,Alex Bermeo,Pennsauken,1,4,6,16.586802259887005
+1371,Danilo Radulovic,Emerson Boro,1,4,6,14.902406779661018
+1372,TJ Gordimer,Morris Hills,1,4,6,14.668209039548023
+1373,David Escobar Mora,Bridgewater-Raritan,1,4,6,14.507604519774011
+1374,Zalensky Cagilus,Cedar Creek,1,4,6,14.213209039548023
+1375,Joshua George-Oyewole,Williamstown,1,4,6,14.023209039548023
+1376,Allen Perez,South Plainfield,1,4,6,13.798
+1377,Adriel Lopez-Azogue,Princeton,1,4,6,13.797011299435027
+1378,Matheu Morocho,Orange,1,4,6,13.781209039548022
+1379,Clayton Thomas,Seton Hall Prep,1,4,6,13.555011299435028
+1380,Toi Murai,Ridgewood,1,4,6,13.425604519774012
+1381,Chase Barnhart,Egg Harbor,1,4,6,13.372813559322033
+1382,Evan Johnson,Delbarton,1,4,6,13.372813559322033
+1383,Harens Augustin,Trenton,1,4,6,13.372813559322033
+1384,Johan Guarin,Pingry,1,4,6,13.372813559322033
+1385,Matias Liermann,Montclair Kimberley,1,4,6,13.372813559322033
+1386,Ryan Perron,Hunterdon Central,1,4,6,13.372813559322033
+1387,Skanda Damaraju,Delbarton,1,4,6,13.372813559322033
+1388,Blake Greaves,Glassboro,1,4,6,13.368406779661017
+1389,Quentin Taha,East Brunswick,1,4,6,13.158011299435028
+1390,Jordan Larnaitis,Raritan,1,4,6,13.114011299435028
+1391,Israel Benigno,Cumberland,1,4,6,13.092011299435029
+1392,Sal Taddeo,Rumson-Fair Haven,1,4,6,12.884406779661017
+1393,Jason Vernon,Steinert,1,4,6,12.641011299435029
+1394,Lucas Dyas,Oakcrest,1,4,6,12.543011299435028
+1395,Jose Esteban,Trenton,1,4,6,11.909209039548024
+1396,Roger Vasquez-Gaytan,Piscataway Magnet,1,4,6,11.757011299435028
+1397,Jimmy Downing,Atlantic Tech,1,4,6,11.713209039548023
+1398,John Visceglia,Manasquan,1,4,6,11.587406779661016
+1399,Aadit Sawant,Old Bridge,1,4,6,11.522802259887007
+1400,Charlie Flickinger,Wildwood Catholic,1,4,6,11.259604519774012
+1401,Aydin Reyes,Hudson Catholic,1,4,6,9.72960451977401
+1402,Yash Pabisetty,Edison Magnet,1,4,6,8.22360451977401
+1403,Rene Sandoval,Dunellen,1,4,6,7.825000000000001
+1404,Dylan Caceres,West Morris,0,6,6,14.648406779661016
+1405,Owen Fraser,Chatham,0,6,6,14.601209039548023
+1406,Jackson Whitehead,Red Bank Regional,0,6,6,14.272406779661017
+1407,Gustaw Palasz,Wallington,0,6,6,14.215011299435028
+1408,Abrahan Palma,Winslow,0,6,6,13.372813559322033
+1409,Joey Taylor,Neptune,0,6,6,13.372813559322033
+1410,Jamie Ponce,Hackettstown,0,6,6,12.294406779661017
+1411,Kevin Bernal,Somerville,0,6,6,11.640802259887005
+1412,Jason Bellovin,Watchung Hills,0,6,6,11.434802259887006
+1413,Alexie Tepale,Passaic,0,6,6,11.40660451977401
+1414,Sebastian Soplopuco Apaza,Lodi,0,6,6,11.371604519774012
+1415,Brendan Cunha,Caldwell,2,1,5,13.516406779661017
+1416,Adam Sanchez,South Plainfield,2,1,5,13.158
+1417,William Lopez,Lakeland,2,1,5,13.032406779661017
+1418,Finn McCarthy,Christian Brothers,2,1,5,12.908406779661018
+1419,Niall McNamara,Demarest,2,1,5,12.664
+1420,John Curcio,DePaul,2,1,5,12.63960451977401
+1421,Tashi Tsaga,Wood-Ridge,2,1,5,12.521604519774012
+1422,Johnathan Espichan,Egg Harbor,2,1,5,12.358209039548022
+1423,Nana Darbo,Sayreville,2,1,5,12.352406779661017
+1424,Marco Volpe,Long Branch,2,1,5,12.344406779661018
+1425,Michael Comorote,Highland,2,1,5,12.278406779661017
+1426,Mateo Correa,Woodbridge,2,1,5,12.236802259887005
+1427,Bayron Argueta,North Bergen,2,1,5,12.108209039548022
+1428,Prince Achi,Nottingham,2,1,5,11.992406779661017
+1429,Zach Scholl,Eastern,2,1,5,11.984802259887005
+1430,"Nathaniel Kastenmeier,",Glen Ridge,2,1,5,11.978406779661016
+1431,Marcelo Novoa,Pompton Lakes,2,1,5,11.944209039548022
+1432,Alessandro Malqui Roldan,Perth Amboy,2,1,5,11.940406779661016
+1433,Paul Okereke,Rutgers Prep,2,1,5,11.868
+1434,Braeden Sheppard,St. Joseph (Met.),2,1,5,11.844406779661018
+1435,Kevin Doyle,Morris Knolls,2,1,5,11.726
+1436,Jayden Hegt,Marlboro,2,1,5,11.638209039548023
+1437,Brendan Fox,Jefferson,2,1,5,11.607209039548023
+1438,Jonathan TIrado,Metuchen,2,1,5,11.542406779661016
+1439,Nathan Reis,Old Bridge,2,1,5,11.542209039548023
+1440,Yousef Elnajjar,South Brunswick,2,1,5,11.535604519774012
+1441,Justin Helman,Saddle River Day,2,1,5,11.411209039548023
+1442,Dylan Calderon,Bridgewater-Raritan,2,1,5,11.394604519774012
+1443,Evan H. Kim,Tenafly,2,1,5,11.372406779661016
+1444,Angel Cabrera,Brick Memorial,2,1,5,11.296406779661018
+1445,Dylan Goller,Atlantic Tech,2,1,5,11.280802259887006
+1446,Cristian Russell,Williamstown,2,1,5,11.266
+1447,Mateo Dela Cruz,East Brunswick,2,1,5,11.249209039548022
+1448,Deivi Tugleama Tapia,Orange,2,1,5,11.236406779661017
+1449,Joshua Kinsley,Bridgewater-Raritan,2,1,5,11.190406779661018
+1450,Abe Morgan,Point Pleasant Beach,2,1,5,11.144011299435029
+1451,Adriel Martinez,Union City,2,1,5,11.144011299435029
+1452,Aiden Lugo,Morris Tech,2,1,5,11.144011299435029
+1453,Alex Galindo Salado,Franklin,2,1,5,11.144011299435029
+1454,Alex Steffani,Hawthorne,2,1,5,11.144011299435029
+1455,Alexander Santos,Brick Memorial,2,1,5,11.144011299435029
+1456,Andrew Heid,Toms River East,2,1,5,11.144011299435029
+1457,Andrew Young,Hopewell Valley,2,1,5,11.144011299435029
+1458,Anthony Mendes,Park Ridge,2,1,5,11.144011299435029
+1459,Brayden Farrell,Highland,2,1,5,11.144011299435029
+1460,Bryan Castro,Middlesex,2,1,5,11.144011299435029
+1461,Christian Duarte,St. Peter's Prep,2,1,5,11.144011299435029
+1462,Christian Gilani,Lacey,2,1,5,11.144011299435029
+1463,Colin LaRaia,Dumont,2,1,5,11.144011299435029
+1464,Dautari (DT) Emuren,Hunterdon Central,2,1,5,11.144011299435029
+1465,Dylan Arnett,Glen Ridge,2,1,5,11.144011299435029
+1466,Erik Heredia -Roman,Pennsauken Tech,2,1,5,11.144011299435029
+1467,Jacob Heiser,Hillsborough,2,1,5,11.144011299435029
+1468,Jacob Inman,Medford Tech,2,1,5,11.144011299435029
+1469,Jai Hejib,Livingston,2,1,5,11.144011299435029
+1470,Jon Acevedo,Brick Memorial,2,1,5,11.144011299435029
+1471,Luca Iachetti,Glen Rock,2,1,5,11.144011299435029
+1472,Makson Souza Pinto,Westampton Tech,2,1,5,11.144011299435029
+1473,Mason Oelkers,Ridgewood,2,1,5,11.144011299435029
+1474,Maxime Tellier,Seton Hall Prep,2,1,5,11.144011299435029
+1475,Nico Frazier,Glen Ridge,2,1,5,11.144011299435029
+1476,Noah Williams,Ewing,2,1,5,11.144011299435029
+1477,Rohanpreet Dhillon,Colonia,2,1,5,11.144011299435029
+1478,Ryan Reynolds,New Egypt,2,1,5,11.144011299435029
+1479,Samir Ibrahim,South Plainfield,2,1,5,11.144011299435029
+1480,Santiago Prada,Dumont,2,1,5,11.144011299435029
+1481,Sebastian Marin,Bernards,2,1,5,11.144011299435029
+1482,Xavier Welbeck-Taveras,St. Joseph (Met.),2,1,5,11.144011299435029
+1483,Yoexsi Nicolas-Ortiz,Asbury Park,2,1,5,11.144011299435029
+1484,Joe Melendez,Hawthorne Christian,2,1,5,11.139209039548023
+1485,Alex Lopez,Atlantic Tech,2,1,5,11.034406779661017
+1486,Arnold Benitez,Irvington,2,1,5,10.962604519774011
+1487,Brandon Mayock,Indian Hills,2,1,5,10.95060451977401
+1488,Justin Doyle,Cherry Hill West,2,1,5,10.850209039548023
+1489,Jakob Russell,Williamstown,2,1,5,10.842406779661015
+1490,Joon Kim,River Dell,2,1,5,10.801209039548022
+1491,Inderveer Singh,J.P. Stevens,2,1,5,10.792802259887006
+1492,Joshua Yanchuck,Spotswood,2,1,5,10.790209039548023
+1493,Samuel Marin,Manville,2,1,5,10.772209039548024
+1494,William Sanchez,South Plainfield,2,1,5,10.686406779661016
+1495,Andrew Tabora-Hernandez,Howell,2,1,5,10.680406779661016
+1496,Eshan Jagdale,J.P. Stevens,2,1,5,10.613
+1497,Bryce Giordano,New Egypt,2,1,5,10.608604519774012
+1498,Nicolas Rodriguez,Newark Academy,2,1,5,10.587209039548021
+1499,Alborz Khorsandi,Princeton,2,1,5,10.490604519774012
+1500,Chris Keck,Northern Burlington,2,1,5,10.480802259887007
+1501,Alejandro Aciego,Hopatcong,2,1,5,10.398406779661016
+1502,Mathew Astimbay,West Caldwell Tech,2,1,5,10.398406779661016
+1503,Aum Patel,McNair,2,1,5,10.380406779661017
+1504,Miguel Ortiz,Ferris,2,1,5,10.328406779661016
+1505,Lucien Laforgue,Middlesex,2,1,5,10.285209039548022
+1506,Jaxon Coleman,Cherokee,2,1,5,10.18
+1507,Matthew Fermin,Hasbrouck Heights,2,1,5,10.165209039548023
+1508,Max Bauer,Seneca,2,1,5,10.158406779661018
+1509,Chris Perez Gomez,New Egypt,2,1,5,10.131
+1510,Geovanny Luna,Union City,2,1,5,10.069209039548022
+1511,Josef Hummel,Woodstown,2,1,5,10.040209039548023
+1512,Badyn Herandez,Winslow,2,1,5,10.035604519774012
+1513,Papy Musombo,Woodbridge,2,1,5,9.977209039548022
+1514,Austin Bariso,Immaculata,2,1,5,9.976406779661016
+1515,Makhily Sylla,North Star Academy,2,1,5,9.766802259887005
+1516,Justin Butler,Palmyra,2,1,5,9.750406779661017
+1517,Ryan Shannon,Delbarton,2,1,5,9.742406779661017
+1518,Angel Soto,Don Bosco Prep,2,1,5,9.702802259887006
+1519,Leo Reseka,Highland Park,2,1,5,9.648
+1520,Nicholas Perino,Lakeland,2,1,5,9.534406779661017
+1521,Brennen Lopez,Riverside,2,1,5,9.432406779661017
+1522,Josiah Shuford,Clearview,2,1,5,9.358802259887005
+1523,Miguel Amaya,Eagle Academy,2,1,5,9.358406779661017
+1524,Mikah Wright,Cherry Hill East,2,1,5,9.286406779661016
+1525,Avery Reed,Salem Tech,2,1,5,9.054406779661017
+1526,Christian Torres,Union City,2,1,5,8.994406779661016
+1527,Joshua Pringle,Bayonne,2,1,5,8.994406779661016
+1528,Harry Finn,Gill St. Bernard's,2,1,5,8.772406779661017
+1529,Sebastain Prendez,Jefferson,2,1,5,8.736802259887005
+1530,Landen Nelson,Calvary Christian (Old Bridge),2,1,5,8.692604519774012
+1531,Louis Sharaf,Hoboken,2,1,5,8.398406779661016
+1532,Giancarlo Villatoro,Westampton Tech,2,1,5,7.720802259887005
+1533,Anderson Muncha,North Plainfield,2,1,5,7.643604519774011
+1534,Anthony Michaca,Pennsville,2,1,5,7.530406779661017
+1535,Ariel Carrillo,Atlantic City,2,1,5,7.470802259887005
+1536,Angel Novoa,Holy Cross Prep,2,1,5,7.308802259887006
+1537,Caleb Owusu,North Star Academy,2,1,5,6.615604519774012
+1538,Hagop Makhoulian,Old Tappan,2,1,5,6.5568022598870055
+1539,Shane Ross,Moorestown,2,1,5,6.5
+1540,Matthew Bondarowicz,Morris Catholic,2,1,5,6.105
+1541,Alejandro Calderon-Milano,Overbrook,2,1,5,5.723604519774011
+1542,Bram Reynolds II,Princeton,1,3,5,13.916604519774012
+1543,Harry Morrow,Gill St. Bernard's,1,3,5,13.640604519774012
+1544,Maximo Gayton,Wayne Hills,1,3,5,13.056406779661017
+1545,Nicholas Staiger,Southern,1,3,5,12.941406779661017
+1546,Christopher Branz,North Brunswick,1,3,5,12.87160451977401
+1547,Josue Ramos,North Bergen,1,3,5,12.660406779661017
+1548,Angel Castellan,Washington Township,1,3,5,12.456406779661016
+1549,Nicolas Lopez,Belleville,1,3,5,12.357406779661016
+1550,Adrian Rodriguez,Nutley,1,3,5,12.073406779661017
+1551,Jonathan Bravo,Lakewood,1,3,5,12.003604519774012
+1552,Vadym Bortnyk,Sayreville,1,3,5,11.95060451977401
+1553,Jason Collier,Highland,1,3,5,11.711209039548022
+1554,Luis Chimborazo,Manville,1,3,5,11.427209039548023
+1555,Tramontozzi Will,Bergen Catholic,1,3,5,11.374406779661017
+1556,Nick Mule,Mahwah,1,3,5,11.224406779661017
+1557,Ben Boucher,Cherry Hill East,1,3,5,11.144011299435029
+1558,Cameron Johnston,DePaul,1,3,5,11.144011299435029
+1559,Gavin Neuhaus,Shore,1,3,5,11.144011299435029
+1560,Gustavo Ramirez Sanchez,Perth Amboy,1,3,5,11.144011299435029
+1561,Max Ludlow,Montclair Kimberley,1,3,5,11.144011299435029
+1562,Nick Delcalzo,Wallkill Valley,1,3,5,11.144011299435029
+1563,Prosper Jududoe,University,1,3,5,11.144011299435029
+1564,Sidiki Doumbouya,Newark Central,1,3,5,11.144011299435029
+1565,Tucker McCarthy,Don Bosco Prep,1,3,5,11.144011299435029
+1566,William Puskas,Manville,1,3,5,11.144011299435029
+1567,Max Strashnov,Dwight-Englewood,1,3,5,11.086604519774012
+1568,John Bigley,Seton Hall Prep,1,3,5,10.991209039548023
+1569,Santiago Vera,Hasbrouck Heights,1,3,5,10.959209039548023
+1570,Gavin Anderson,Ridge,1,3,5,10.835406779661017
+1571,James Mai,Clayton,1,3,5,10.774406779661017
+1572,Lucas Brito,Piscataway,1,3,5,10.713406779661018
+1573,Kevin Escobar,Belleville,1,3,5,10.686604519774011
+1574,Marllon DaSilva,Harrison,1,3,5,10.629604519774013
+1575,Maximus Leone,Maple Shade,1,3,5,10.625406779661017
+1576,Darwin Sanchez,Dwight-Morrow,1,3,5,10.546406779661016
+1577,Nate Mogaka,Princeton Day,1,3,5,10.526604519774011
+1578,Rian Nadella,Morris Tech,1,3,5,10.526209039548023
+1579,Karthik Menon,Mount Olive,1,3,5,10.443209039548023
+1580,Steven Brenes,Asbury Park,1,3,5,10.414209039548023
+1581,Marvin Melendez,Pleasantville,1,3,5,10.375802259887006
+1582,Juan Jose Trujillo,Weehawken,1,3,5,10.354406779661016
+1583,Bryce Yedidia,Leonia,1,3,5,10.322209039548023
+1584,Gavin Quigley,Glen Rock,1,3,5,10.322209039548023
+1585,Matthew Heenan,Glen Rock,1,3,5,10.322209039548023
+1586,Gianmaikol Perez-Gomez,Somerset Tech,1,3,5,10.319406779661016
+1587,Finnegan Watson,Cedar Creek,1,3,5,10.285209039548022
+1588,Nicholas Catanoso,Wildwood Catholic,1,3,5,10.237802259887005
+1589,Carlos Valdibia-Marquez,Asbury Park,1,3,5,10.032406779661017
+1590,Anthony Gonzalez,Hammonton,1,3,5,9.908406779661018
+1591,Jeyson Melara,Manchester Township,1,3,5,9.728406779661016
+1592,John Carchi,Hackensack,1,3,5,9.623209039548023
+1593,Jayce Palumbo,Notre Dame,1,3,5,9.07260451977401
+1594,Sifat Mowla,Atlantic City,1,3,5,9.054406779661017
+1595,Joao Dos Santos,Long Branch,1,3,5,8.770406779661016
+1596,Zachary Youn,Secaucus,1,3,5,8.628802259887006
+1597,Cole Belsanti,Washington Township,1,3,5,8.50260451977401
+1598,Vince Minerva,Allentown,1,3,5,8.194406779661017
+1599,Anthony Barone,Raritan,1,3,5,7.658802259887006
+1600,Valentin Guzman,Woodbridge,1,3,5,6.123
+1601,David Reyes,Southern,0,5,5,11.875406779661017
+1602,Niko Chiavaro,West Orange,0,5,5,11.49860451977401
+1603,Andre Hope,Seton Hall Prep,0,5,5,11.326209039548022
+1604,Kevin Rubio,Emerson Boro,0,5,5,11.144011299435029
+1605,Sergio Lira,McNair,0,5,5,11.144011299435029
+1606,Gavin Witz,Delsea,0,5,5,11.04060451977401
+1607,Damian Jara,South River,0,5,5,10.962406779661016
+1608,Jonathan Quevedo,Memorial,0,5,5,10.896209039548022
+1609,Will Fencik,Rutherford,0,5,5,10.715209039548022
+1610,Tyler Chen,Metuchen,0,5,5,9.920406779661016
+1611,Justin Schreyer,Robbinsville,0,5,5,9.870209039548023
+1612,Angel Gomerez,Leonia,2,0,4,11.922
+1613,Soham Pilli,Morris Hills,2,0,4,11.818000000000001
+1614,Cody Ferreyra,Belleville,2,0,4,11.693999999999999
+1615,Ramzi Almarzoh,Parsippany Hills,2,0,4,11.015604519774012
+1616,Mario Mimini,Garfield,2,0,4,10.873604519774013
+1617,Matheus Grison,Technology,2,0,4,10.60160451977401
+1618,Max Pockriss,Glen Ridge,2,0,4,10.47960451977401
+1619,Ruben Loja,Shabazz,2,0,4,10.315999999999999
+1620,Justin Boncelet,Morristown,2,0,4,10.299604519774011
+1621,Liam Potts,Morris Knolls,2,0,4,10.299604519774011
+1622,Giuseppe Ventricelli,North Bergen,2,0,4,10.18
+1623,Marcus Arthur,Delbarton,2,0,4,10.141604519774011
+1624,Dylan Rodriguez,Long Branch,2,0,4,10.115604519774012
+1625,Turner Foster,Holmdel,2,0,4,10.103604519774011
+1626,Duco DeBeijer,Mountain Lakes,2,0,4,9.95360451977401
+1627,Luke Harmon,Wall,2,0,4,9.90360451977401
+1628,Chris Sic Mauricio,Piscataway,2,0,4,9.895604519774011
+1629,Jakub Borsukiewicz,Colonia,2,0,4,9.895604519774011
+1630,Stephen Yang,Bergen Tech,2,0,4,9.881604519774012
+1631,Dominic Megale,Emerson Boro,2,0,4,9.873604519774013
+1632,Devon Thies,West Morris,2,0,4,9.841604519774013
+1633,Benjamin Desilva,Edison,2,0,4,9.628
+1634,Jebry Sanchez,Lenape,2,0,4,9.623999999999999
+1635,Shaun Richards,North Warren,2,0,4,9.561604519774011
+1636,Yoel Santos-Zarco,Manchester Township,2,0,4,9.55760451977401
+1637,JP Huff,West Morris,2,0,4,9.50160451977401
+1638,Daniel Argenal,Dover,2,0,4,9.491604519774011
+1639,Cooper Frontado,Washington Township,2,0,4,9.45360451977401
+1640,Dylan Bases,Woodbridge,2,0,4,9.21160451977401
+1641,Abood Mohamed,Hanover Park,2,0,4,9.168000000000001
+1642,Drew Keefe,Pitman,2,0,4,9.1
+1643,Brett Denery,Middletown South,2,0,4,9.067604519774012
+1644,George Zahka,Ramapo,2,0,4,9.061604519774011
+1645,Max Kyeremeh,Florence,2,0,4,9.004000000000001
+1646,Aaron Elias,New Milford,2,0,4,8.915209039548023
+1647,Adam Bendaoud,Cresskill,2,0,4,8.915209039548023
+1648,Adam Hague,McNair,2,0,4,8.915209039548023
+1649,Advik Adhiyaman,Bergen Tech,2,0,4,8.915209039548023
+1650,Aiden Yedidia,Leonia,2,0,4,8.915209039548023
+1651,Andrew Rosenthal,Manchester Township,2,0,4,8.915209039548023
+1652,Anthony Martone,Brick Township,2,0,4,8.915209039548023
+1653,Athan Hilas,Lyndhurst,2,0,4,8.915209039548023
+1654,Bradley Reynolds,Ridge,2,0,4,8.915209039548023
+1655,CJ Williams,Montclair Kimberley,2,0,4,8.915209039548023
+1656,Caden Berberian,Don Bosco Prep,2,0,4,8.915209039548023
+1657,Cian Guinnelly,Montville,2,0,4,8.915209039548023
+1658,Connor Rapp,West Essex,2,0,4,8.915209039548023
+1659,Daniel Lopes,West Morris,2,0,4,8.915209039548023
+1660,David Lerne,Irvington,2,0,4,8.915209039548023
+1661,Diego Rocha,Keyport,2,0,4,8.915209039548023
+1662,Dylan Moran,Morris Tech,2,0,4,8.915209039548023
+1663,Dylan Ribeiro,Kearny,2,0,4,8.915209039548023
+1664,Ethan Herrera,Tenafly,2,0,4,8.915209039548023
+1665,Evan Gomes,Calvary Christian (Old Bridge),2,0,4,8.915209039548023
+1666,Gabe Bracy,Cherry Hill West,2,0,4,8.915209039548023
+1667,Gael Stephenson,Newark Academy,2,0,4,8.915209039548023
+1668,Holden Szuwalski,Red Bank Catholic,2,0,4,8.915209039548023
+1669,Hudson Conti,St. Augustine,2,0,4,8.915209039548023
+1670,Isaac Marmol,Memorial,2,0,4,8.915209039548023
+1671,Isaias Perez,Lodi,2,0,4,8.915209039548023
+1672,Jace Merino,Hasbrouck Heights,2,0,4,8.915209039548023
+1673,Jack Manfredonia,Freehold Township,2,0,4,8.915209039548023
+1674,Jack Scott,Piscataway,2,0,4,8.915209039548023
+1675,Jaxson Ridgway,Palmyra,2,0,4,8.915209039548023
+1676,Jeremiah Bennett,Highland,2,0,4,8.915209039548023
+1677,Jeremy Gonzalez,Westampton Tech,2,0,4,8.915209039548023
+1678,John Matos,East Brunswick,2,0,4,8.915209039548023
+1679,Jonathan Paz Rubio,Wayne Hills,2,0,4,8.915209039548023
+1680,Joseph Hamwi,Paramus,2,0,4,8.915209039548023
+1681,Josh Woroniak,Salem Tech,2,0,4,8.915209039548023
+1682,Joshua Sanchez,Belleville,2,0,4,8.915209039548023
+1683,Jude Crowley,Highland Park,2,0,4,8.915209039548023
+1684,Kenton Goodwin,Middlesex,2,0,4,8.915209039548023
+1685,Koray Fejzula,Cedar Grove,2,0,4,8.915209039548023
+1686,Liam Nikaj,Cliffside Park,2,0,4,8.915209039548023
+1687,Logan Scuralli,Newton,2,0,4,8.915209039548023
+1688,Mackias Ysaac,Wardlaw-Hartridge,2,0,4,8.915209039548023
+1689,Max Taurgrasso,Pinelands,2,0,4,8.915209039548023
+1690,Nate Muntone,Ewing,2,0,4,8.915209039548023
+1691,Nick Osorio-Rodriguez,Howell,2,0,4,8.915209039548023
+1692,Pedro Dos Santos,Delran,2,0,4,8.915209039548023
+1693,Rafael Biran,Passaic Tech,2,0,4,8.915209039548023
+1694,Rishav Pandey,Lenape,2,0,4,8.915209039548023
+1695,Ryan Checkowski,Steinert,2,0,4,8.915209039548023
+1696,Sam Gayle,St. Peter's Prep,2,0,4,8.915209039548023
+1697,Skanda Athreya,St. Peter's Prep,2,0,4,8.915209039548023
+1698,Spencer Budris,Caldwell,2,0,4,8.915209039548023
+1699,Tiago Luna Garcia,Ridgefield Park,2,0,4,8.915209039548023
+1700,Tighe Olek,Ocean City,2,0,4,8.915209039548023
+1701,Travis Els,West Morris,2,0,4,8.915209039548023
+1702,Tyler Seeberger,Ocean City,2,0,4,8.915209039548023
+1703,Vernon Taylor,Ocean Township,2,0,4,8.915209039548023
+1704,Vinny Mosso,Mendham,2,0,4,8.915209039548023
+1705,Vivan Chartrath,Cherokee,2,0,4,8.915209039548023
+1706,Xavi Gutierrez,Paramus Catholic,2,0,4,8.915209039548023
+1707,Zachary Button,Moorestown,2,0,4,8.915209039548023
+1708,Zachary Michael,Holy Spirit,2,0,4,8.915209039548023
+1709,Zahid Rivera,Technology,2,0,4,8.915209039548023
+1710,Jordan Lopez,Bergenfield,2,0,4,8.821604519774011
+1711,Kevin Christy,Lenape,2,0,4,8.73560451977401
+1712,Kris Ferrales,Northern Highlands,2,0,4,8.725604519774011
+1713,Behdzet Mujali,Millburn,2,0,4,8.70360451977401
+1714,Marco Procaccini,Steinert,2,0,4,8.70360451977401
+1715,Shameek Parab,Hillsborough,2,0,4,8.686
+1716,Sam Casterline,Middle Township,2,0,4,8.677604519774011
+1717,Aniket Mishra,Parsippany,2,0,4,8.625604519774011
+1718,Lucas Razze,Pitman,2,0,4,8.605604519774012
+1719,Allan Skiba,DePaul,2,0,4,8.565604519774011
+1720,Maximus Whitney,Gloucester Tech,2,0,4,8.49360451977401
+1721,Davis Siavichay,Hamilton West,2,0,4,8.456
+1722,Own Goal,Robbinsville,2,0,4,8.367604519774012
+1723,Brandon Chavez Delacruz,Piscataway,2,0,4,8.207604519774012
+1724,Madden Mozal,Lacey,2,0,4,8.207604519774012
+1725,Desart Goxhaj,Lyndhurst,2,0,4,8.166
+1726,Lestor Rosa,New Brunswick,2,0,4,8.085604519774012
+1727,Enzo Brock,Moorestown,2,0,4,8.023604519774011
+1728,Brenden Koz,Northern Burlington,2,0,4,8.003604519774012
+1729,Mathew Velez Intriago,Pascack Hills,2,0,4,8.00160451977401
+1730,Jash Shah,J.P. Stevens,2,0,4,7.823604519774012
+1731,Marco Tucci,Newark Academy,2,0,4,7.801604519774012
+1732,Luke Whelan,St. Augustine,2,0,4,7.781604519774011
+1733,Josue Herrera,Trenton,2,0,4,7.713604519774011
+1734,Marko Skoratko,Metuchen,2,0,4,7.691604519774011
+1735,Jakub Golembiewski,Hammonton,2,0,4,7.679604519774012
+1736,Tyler Kienzle,Hammonton,2,0,4,7.679604519774012
+1737,Jack Tabor,Paramus,2,0,4,7.475604519774011
+1738,Sean Galkovskiy,Monroe,2,0,4,7.436
+1739,Chase Rosario,Glassboro,2,0,4,7.255604519774011
+1740,Logan Esposito,Bishop Eustace,2,0,4,7.1976045197740115
+1741,Yeremy Hernandez-Lozano,Atlantic Tech,2,0,4,7.1976045197740115
+1742,Jacob Walters,Brick Township,2,0,4,7.145604519774011
+1743,Michael Lesko,Kinnelon,2,0,4,7.111604519774011
+1744,Ahmad Shakeel,Iselin Kennedy,2,0,4,6.98
+1745,Finn Dwyer,Madison,2,0,4,6.905604519774011
+1746,Zachary Antell,Oakcrest,2,0,4,6.901604519774011
+1747,Douglas Kwon,River Dell,2,0,4,6.871604519774012
+1748,Malik Smith,Buena,2,0,4,6.825604519774011
+1749,Dan Golas,West Milford,2,0,4,6.757604519774011
+1750,Daniel Salomao,Wildwood,2,0,4,6.707604519774011
+1751,Gabriel Paixao-Nascimiento,Parsippany Hills,2,0,4,6.543604519774011
+1752,Colin Gaines,Red Bank Catholic,2,0,4,6.541604519774012
+1753,Sam Ramirez,Bound Brook,2,0,4,6.5
+1754,Jackson Klaus,Robbinsville,2,0,4,6.367604519774011
+1755,Jovany Hernandez,Lakewood,2,0,4,6.084
+1756,Braden Villavicencio,Lakeland,2,0,4,5.873604519774011
+1757,Lucas Gordon,Lakeland,2,0,4,5.873604519774011
+1758,Rotem Raviv,Demarest,2,0,4,5.708
+1759,Preston Palmer,Wildwood,2,0,4,5.301604519774012
+1760,Sean Cunniff,Wildwood,2,0,4,5.301604519774012
+1761,Nate Shin,Cherry Hill East,2,0,4,5.2
+1762,Allan Xehula,Piscataway Magnet,2,0,4,4.694
+1763,Alex Lippincott,Woodstown,2,0,4,4.5
+1764,Tyler Robertson,Woodstown,2,0,4,4.5
+1765,Oliver Ciszak,Demarest,2,0,4,4.328
+1766,Pedro Dias,Long Branch,2,0,4,4.168
+1767,Maceo Manno,Manasquan,2,0,4,3.866
+1768,Aaditya Mittal,Edison Magnet,2,0,4,3.766
+1769,Royner Urena,Bergenfield,2,0,4,3.58
+1770,Manuele Lubrano,Toms River North,1,2,4,12.088000000000001
+1771,Armin Saffarian,Northern Highlands,1,2,4,11.083802259887007
+1772,Ben Lippincott,Woodstown,1,2,4,10.929
+1773,Giancarlo Saavedra,Wayne Valley,1,2,4,10.76160451977401
+1774,Alessandro Puente,Kearny,1,2,4,10.731000000000002
+1775,Jaxon Serra,Mainland,1,2,4,10.678802259887005
+1776,Alex Cardenas,St. John Vianney,1,2,4,10.609802259887006
+1777,Amir Jeffries-El,Bergen Tech,1,2,4,10.608802259887007
+1778,Shea Davis,Wall,1,2,4,10.407802259887006
+1779,Jack Fulton,Delran,1,2,4,10.379604519774011
+1780,Ryan Mahoney,Morris Knolls,1,2,4,10.133000000000001
+1781,Aidan Lang,Marlboro,1,2,4,10.033604519774011
+1782,John Hernandez,New Brunswick,1,2,4,9.981406779661016
+1783,Brayan Henriquez,Bound Brook,1,2,4,9.813802259887005
+1784,Logan Nassau,Pascack Hills,1,2,4,9.789406779661018
+1785,Cesar Miranda,Watchung Hills,1,2,4,9.746
+1786,Johnathan West,Warren Hills,1,2,4,9.743802259887005
+1787,Yaroslav Pop,Cherry Hill East,1,2,4,9.666406779661017
+1788,Eliseo Lopez,College Achieve Central,1,2,4,9.656406779661017
+1789,Luke Noble,St. John Vianney,1,2,4,9.497604519774011
+1790,Gert Deitmer,St. Joseph (Mont.),1,2,4,9.476802259887005
+1791,Thomas Hunt,Montclair Kimberley,1,2,4,9.45360451977401
+1792,W. Thomas Holder,Saddle River Day,1,2,4,9.449604519774011
+1793,Talha Syed,J.P. Stevens,1,2,4,9.394802259887005
+1794,Christian Anfibio,Kearny,1,2,4,9.390406779661017
+1795,Tarik Yeneroglu,Wayne Valley,1,2,4,9.218802259887006
+1796,Adriel Garcia,Leonia,1,2,4,9.217406779661017
+1797,Dilan Guzman,Dwight-Morrow,1,2,4,9.12760451977401
+1798,Yhonelby Rosario,Dwight-Morrow,1,2,4,9.12760451977401
+1799,Deyvid Delgado,Technology,1,2,4,9.119406779661016
+1800,Airy Tzunux,Dwight-Morrow,1,2,4,9.061604519774011
+1801,JanCarlo Banegas,Pleasantville,1,2,4,9.043
+1802,Ethan Savinet,Weehawken,1,2,4,9.006406779661017
+1803,Adiel Avila-Rivera,Lyndhurst,1,2,4,8.990802259887007
+1804,Todd Salmon,Cinnaminson,1,2,4,8.975604519774011
+1805,Alex Frank,Montgomery,1,2,4,8.915209039548023
+1806,Andrew Kim,Glen Rock,1,2,4,8.915209039548023
+1807,Benjamin Vishnesky,Warren Hills,1,2,4,8.915209039548023
+1808,Bobby Pervan,Sayreville,1,2,4,8.915209039548023
+1809,Brayden Burkhardt,Keyport,1,2,4,8.915209039548023
+1810,Carlos Alvarado,St. Thomas Aquinas,1,2,4,8.915209039548023
+1811,Christian Deleon,Livingston,1,2,4,8.915209039548023
+1812,D'Angelo Villalvir,Burlington City,1,2,4,8.915209039548023
+1813,Danny Teola Rosales,West Caldwell Tech,1,2,4,8.915209039548023
+1814,Emmet Stitely,Chatham,1,2,4,8.915209039548023
+1815,Erick Gonzalez,Cliffside Park,1,2,4,8.915209039548023
+1816,Eugene Oppong,Elmwood Park,1,2,4,8.915209039548023
+1817,Jeffrey Rico,Tenafly,1,2,4,8.915209039548023
+1818,Jeremy Moreira,Union City,1,2,4,8.915209039548023
+1819,Jesus Hernandez-Figueroa,Overbrook,1,2,4,8.915209039548023
+1820,Joe Altirs,Montclair Kimberley,1,2,4,8.915209039548023
+1821,Julian Gonzalez,Lawrence,1,2,4,8.915209039548023
+1822,Luis Parejas,Ridgefield,1,2,4,8.915209039548023
+1823,Luke Greco,Ranney,1,2,4,8.915209039548023
+1824,Marcos Garcia,North Bergen,1,2,4,8.915209039548023
+1825,Mason Smith,Pitman,1,2,4,8.915209039548023
+1826,Maxim Kazanovich,Manalapan,1,2,4,8.915209039548023
+1827,Michael Fenton,Bergen Catholic,1,2,4,8.915209039548023
+1828,Michael Palumbo,Spotswood,1,2,4,8.915209039548023
+1829,Samuel Gonzalez,North Bergen,1,2,4,8.915209039548023
+1830,Santiago Gomez,Ridge,1,2,4,8.915209039548023
+1831,Thomas Solecki,Colonia,1,2,4,8.915209039548023
+1832,Ty Mountain,Vernon,1,2,4,8.915209039548023
+1833,Uchenna Ekeabu,Camden Catholic,1,2,4,8.915209039548023
+1834,Vinny Di Lauro,Woodbridge,1,2,4,8.915209039548023
+1835,Viraj Kataria,Mendham,1,2,4,8.915209039548023
+1836,Zachary Zimmer,Howell,1,2,4,8.915209039548023
+1837,Michael Hughes,Freehold Borough,1,2,4,8.913802259887007
+1838,Jake Dudek,Garfield,1,2,4,8.910406779661017
+1839,David Valentine,Morris Hills,1,2,4,8.858406779661017
+1840,Nitin Malli,Monroe,1,2,4,8.787406779661016
+1841,Andres Menendez,Nottingham,1,2,4,8.777802259887006
+1842,Ishaan Magaw,Gill St. Bernard's,1,2,4,8.747802259887006
+1843,Miles Kutner,Pascack Valley,1,2,4,8.724604519774012
+1844,Fritzsonley Collin,Irvington,1,2,4,8.68560451977401
+1845,Maxim B. Romanov,Tenafly,1,2,4,8.662406779661017
+1846,George Stonbely,Seton Hall Prep,1,2,4,8.609604519774011
+1847,Chase Haas,Camden Catholic,1,2,4,8.602406779661017
+1848,Collin Furman,Washington Township,1,2,4,8.592802259887005
+1849,Henry Ferro,Delbarton,1,2,4,8.566406779661015
+1850,Tyler Lee,Weehawken,1,2,4,8.533406779661018
+1851,Micah Frost,Pitman,1,2,4,8.485802259887006
+1852,Ryan Tate,Allentown,1,2,4,8.389406779661016
+1853,Siddhant Barui,J.P. Stevens,1,2,4,8.369406779661018
+1854,Anthony Escobar,North Bergen,1,2,4,8.369406779661016
+1855,Cristian Cruz,Kearny,1,2,4,8.369406779661016
+1856,Nick Cruse,Egg Harbor,1,2,4,8.353604519774011
+1857,Grady Mathis,Egg Harbor,1,2,4,8.345406779661017
+1858,Blake Boss,Florence,1,2,4,8.333406779661017
+1859,Lucas Furer,Montclair,1,2,4,8.260802259887006
+1860,Anthony Paone,Chatham,1,2,4,8.21760451977401
+1861,Max Horwitz,Delbarton,1,2,4,8.21760451977401
+1862,Landon Kaplan,Fort Lee,1,2,4,8.195406779661017
+1863,Daniel Park,Old Tappan,1,2,4,8.182802259887005
+1864,Wander Silva,Carteret,1,2,4,8.175604519774012
+1865,Nicolas Ramirez,Manville,1,2,4,8.166406779661017
+1866,Landin Lazoja,Old Bridge,1,2,4,8.153604519774012
+1867,Nate Doelling,Montgomery,1,2,4,8.151604519774011
+1868,Dario Dwomoh,Monmouth,1,2,4,8.100406779661016
+1869,Wilmer Martinez Reynoso,Nottingham,1,2,4,8.087802259887006
+1870,Jasniel Torres,Pleasantville,1,2,4,8.085406779661017
+1871,Oliver Checkley,Hoboken,1,2,4,8.071406779661018
+1872,Mert Bolat,Doane Academy,1,2,4,8.059406779661018
+1873,Massimo Sergi,Bishop Eustace,1,2,4,8.056406779661017
+1874,Kyle Petit,Middle Township,1,2,4,8.042406779661018
+1875,Emilio Flores,Somerville,1,2,4,7.966
+1876,Tanner Brickman,Demarest,1,2,4,7.941
+1877,Jahin Arab,Atlantic City,1,2,4,7.908406779661018
+1878,Jonah Eichenbaum,Shore,1,2,4,7.819604519774011
+1879,Ethan Dilluvio,Kittatinny,1,2,4,7.819406779661017
+1880,Gil Kotlov-Rempel,Newark Academy,1,2,4,7.801604519774012
+1881,Sam Mahoney,Kittatinny,1,2,4,7.796802259887006
+1882,Sebastian Franco Garces,Morris Catholic,1,2,4,7.748406779661017
+1883,Gavin Hirsch,Middle Township,1,2,4,7.686
+1884,Noel Rios,Hammonton,1,2,4,7.679604519774012
+1885,Max Garcia,Kinnelon,1,2,4,7.6578022598870055
+1886,Matias Sanchez Velez,Hightstown,1,2,4,7.451604519774012
+1887,Daniel Costa,North Warren,1,2,4,7.375604519774011
+1888,Liam Williams,Moorestown,1,2,4,7.361
+1889,Lucas Horner,Moorestown,1,2,4,7.326802259887006
+1890,Christian Maier,Delsea,1,2,4,7.257802259887006
+1891,Ben Berman,West Windsor-Plainsboro South,1,2,4,7.239406779661017
+1892,Jeremiah Martinez-Lee,Pennsauken Tech,1,2,4,7.200406779661018
+1893,Miguel Quijada,Thrive Charter,1,2,4,7.200406779661018
+1894,Michael Loughlin,Bergen Catholic,1,2,4,7.1416045197740115
+1895,Matias Maza,Perth Amboy,1,2,4,7.079802259887005
+1896,Tiago Roque,Metuchen,1,2,4,7.079802259887005
+1897,Brendan Mooney,Holy Spirit,1,2,4,7.061802259887006
+1898,Sean Freeman,St. Joseph (Hamm.),1,2,4,7.035604519774012
+1899,Ortiz Sam,Brick Township,1,2,4,6.755802259887005
+1900,Kevin McGroarty,Lenape Valley,1,2,4,6.723604519774011
+1901,Damien Sams,Triton,1,2,4,6.624
+1902,Zach Schneider,Demarest,1,2,4,6.621604519774012
+1903,Cesar Orellana,Boonton,1,2,4,6.452
+1904,Ivan Cardona,Paterson Charter,1,2,4,6.44
+1905,Chris Lopes,Riverside,1,2,4,6.302
+1906,Brandon Jera,Hasbrouck Heights,1,2,4,6.2908022598870055
+1907,David Li,Princeton Day,1,2,4,6.177802259887006
+1908,Nico Tjyer,St. Joseph (Mont.),1,2,4,5.873604519774011
+1909,Leandro Kieffer - Brown,Highland Park,1,2,4,5.49
+1910,Angel Cisneros-Castellanos,Pennsauken Tech,1,2,4,5.485604519774011
+1911,Adam Spadaccini,Lakeland,1,2,4,5.297
+1912,Anthony Orsini,Moorestown,1,2,4,5.2
+1913,Steven Munoz,Hackensack,1,2,4,4.180999999999999
+1914,Sean Rentner,Allentown,1,2,4,3.82
+1915,James Welch,Salem Tech,1,2,4,3.296
+1916,Levi Shinn,Burlington Township,0,4,4,10.769604519774012
+1917,Ian Asinger,St. Thomas Aquinas,0,4,4,10.499802259887005
+1918,John Heckel,Lacey,0,4,4,10.041604519774012
+1919,Sean Enda,East Brunswick,0,4,4,9.898802259887006
+1920,Adriano Lia,Manalapan,0,4,4,9.683604519774011
+1921,Charlie Pepe,Verona,0,4,4,9.285406779661017
+1922,Aryan Pansuriya,Rutherford,0,4,4,9.257604519774011
+1923,Matt Martinez,Somerset Tech,0,4,4,9.25260451977401
+1924,Eiton Michaeli,River Dell,0,4,4,8.975406779661018
+1925,Carlos Bravo,Gloucester Tech,0,4,4,8.915209039548023
+1926,Davi Lafuente Rodrigues,Newark East Side,0,4,4,8.915209039548023
+1927,Gavin Biasi,Red Bank Catholic,0,4,4,8.915209039548023
+1928,Kareem Elsayed,Lyndhurst,0,4,4,8.915209039548023
+1929,Matheus Pessoa Nunes,Maple Shade,0,4,4,8.915209039548023
+1930,Neal Puri,McNair,0,4,4,8.915209039548023
+1931,Shawn Dodeja,Bishop Eustace,0,4,4,8.915209039548023
+1932,Alex Cirillo,Paramus,0,4,4,8.721604519774012
+1933,Brandon Ferrante,Old Bridge,0,4,4,8.534406779661017
+1934,Jose Quiroa,Orange,0,4,4,8.486604519774012
+1935,Antonio Zambito,Holmdel,0,4,4,8.353406779661018
+1936,Eric Han,Holmdel,0,4,4,8.353406779661018
+1937,Zaidyn Rivera,Carteret,0,4,4,8.25560451977401
+1938,Akwasi Adjei-Seffah,Warren Hills,0,4,4,7.730604519774011
+1939,Joe Capobianco,South Hunterdon,0,4,4,7.239406779661017
+1940,Derek Busch,Matawan,0,4,4,6.887802259887006
+1941,Jon Williams,Ocean Township,0,4,4,6.541604519774012
+1942,Daniel Marandola,Salem Tech,0,4,4,6.063604519774011
+1943,Aahil Sikkander,South Brunswick,1,1,3,9.868802259887005
+1944,Bayron Banos Bautista,North Brunswick,1,1,3,8.834
+1945,Ian Singh,Bridgewater-Raritan,1,1,3,8.831
+1946,Matthew Francisco,North Arlington,1,1,3,8.721
+1947,Gregory White,Lakeland,1,1,3,8.672
+1948,Gabriel Torres,Warren Hills,1,1,3,8.552
+1949,Cael Patrick,Red Bank Regional,1,1,3,8.540802259887005
+1950,Giovanni Medina,Lenape,1,1,3,8.188802259887005
+1951,Brandon Solis,Bound Brook,1,1,3,8.168802259887006
+1952,Ryan Birks,Delran,1,1,3,8.150802259887005
+1953,"Griffin, Jr. Erik",Rancocas Valley,1,1,3,7.994999999999999
+1954,Robert Helder,Gloucester Tech,1,1,3,7.984604519774011
+1955,Gianni Liscandra,Marlboro,1,1,3,7.804802259887005
+1956,Jack Barlow,Jefferson,1,1,3,7.7748022598870055
+1957,Omarion Tunis,Pleasantville,1,1,3,7.698802259887005
+1958,Henzel Hercules,Piscataway,1,1,3,7.666802259887005
+1959,Joseph Castillo,West Orange,1,1,3,7.666802259887005
+1960,Kevin Lala,Irvington,1,1,3,7.64
+1961,Griffin Costine,North Hunterdon,1,1,3,7.616604519774011
+1962,Jose Agudelo,Harrison,1,1,3,7.593
+1963,Kyle Silberman,Holmdel,1,1,3,7.5888022598870055
+1964,Matthew Appel,Wall,1,1,3,7.5888022598870055
+1965,Darian Mendoza,Lodi,1,1,3,7.560604519774012
+1966,Kevin Ocampo,Vineland,1,1,3,7.4876045197740115
+1967,Sean Sayers,Bloomfield,1,1,3,7.482802259887006
+1968,Joseph Velasco,Shawnee,1,1,3,7.437604519774011
+1969,Angel Brooks,Bergenfield,1,1,3,7.434
+1970,Ben Herman,Verona,1,1,3,7.4268022598870065
+1971,Ruben Lopez,Cumberland,1,1,3,7.360802259887006
+1972,Gavin Flanigan,Kingsway,1,1,3,7.342604519774011
+1973,Adam Piotrowski,Florence,1,1,3,7.328802259887006
+1974,Gavin Baker,Bloomfield,1,1,3,7.2989999999999995
+1975,Jean Paul Medina Solano,Morris Hills,1,1,3,7.2908022598870055
+1976,Alex Buckley,St. John Vianney,1,1,3,7.286604519774011
+1977,Christopher Mayer,Midland Park,1,1,3,7.220802259887005
+1978,Matheus Almeida,Delran,1,1,3,7.049604519774011
+1979,Edwin Britez-Gonzalez,Watchung Hills,1,1,3,7.036604519774011
+1980,Enrico Bartoli,Pompton Lakes,1,1,3,7.028802259887005
+1981,Mathew Castillo,Hackensack,1,1,3,7.012802259887005
+1982,Daniel Mendes,Wall,1,1,3,7.007604519774011
+1983,Paul DiRosa,Brick Memorial,1,1,3,6.950802259887006
+1984,Nicholas Olivera,Parsippany Hills,1,1,3,6.9350000000000005
+1985,Samuel Perdomo,Dunellen,1,1,3,6.860604519774011
+1986,Noah Dupree,Rancocas Valley,1,1,3,6.85
+1987,Julian Herz,Riverside,1,1,3,6.782802259887006
+1988,Kai van Garderen,Newark Academy,1,1,3,6.746604519774012
+1989,Zican Chen,Rutgers Prep,1,1,3,6.731604519774011
+1990,Frankie Giordano,Clearview,1,1,3,6.722604519774011
+1991,Myles Rivers,Moorestown Friends,1,1,3,6.703604519774011
+1992,Aden Kinney,Triton,1,1,3,6.6864067796610165
+1993,Adrian Barrett,Seton Hall Prep,1,1,3,6.6864067796610165
+1994,Adrian Canizares,Montclair Kimberley,1,1,3,6.6864067796610165
+1995,Aiden Reddick,Willingboro,1,1,3,6.6864067796610165
+1996,Alexis Navas,Clearview,1,1,3,6.6864067796610165
+1997,Amine Cherifi,Middle Township,1,1,3,6.6864067796610165
+1998,Andrew Hume,Highland Park,1,1,3,6.6864067796610165
+1999,Andrew Valenta,Highland,1,1,3,6.6864067796610165
+2000,Angelo Paino,St. Joseph (Mont.),1,1,3,6.6864067796610165
+2001,Angus Quirk,Morristown,1,1,3,6.6864067796610165
+2002,Anthony Attardi,Matawan,1,1,3,6.6864067796610165
+2003,Anthony Cashin,Maple Shade,1,1,3,6.6864067796610165
+2004,Anthony Quilici,Don Bosco Prep,1,1,3,6.6864067796610165
+2005,Antonio Curcio,DePaul,1,1,3,6.6864067796610165
+2006,Ashton Boothe,Teaneck,1,1,3,6.6864067796610165
+2007,Aston Roberts,Livingston,1,1,3,6.6864067796610165
+2008,Brayan Rivas,Technology,1,1,3,6.6864067796610165
+2009,Briton Nyabuto,Hudson Catholic,1,1,3,6.6864067796610165
+2010,Camara Amadou,Newark Central,1,1,3,6.6864067796610165
+2011,Carter Cistaro,Gill St. Bernard's,1,1,3,6.6864067796610165
+2012,Carter Groen,Eastern Christian,1,1,3,6.6864067796610165
+2013,Cassano Diogo,Morris Knolls,1,1,3,6.6864067796610165
+2014,Cedrick Sofo,Sayreville,1,1,3,6.6864067796610165
+2015,Christopher Motta,Passaic Tech,1,1,3,6.6864067796610165
+2016,Dan Sacca,Washington Township,1,1,3,6.6864067796610165
+2017,Daniel Clewell,Camden Catholic,1,1,3,6.6864067796610165
+2018,Daniel Kim,Old Tappan,1,1,3,6.6864067796610165
+2019,Daniel Liang,Livingston,1,1,3,6.6864067796610165
+2020,David Rodrigues,South River,1,1,3,6.6864067796610165
+2021,Denis Ozcan,River Dell,1,1,3,6.6864067796610165
+2022,Diego Aldana,Brick Township,1,1,3,6.6864067796610165
+2023,Dylan Fermin,Hasbrouck Heights,1,1,3,6.6864067796610165
+2024,Dylan Santos,North Arlington,1,1,3,6.6864067796610165
+2025,Edimar Paz,Piscataway,1,1,3,6.6864067796610165
+2026,Elijah Ostrander,St. Augustine,1,1,3,6.6864067796610165
+2027,Elmer Castellanos,Memorial,1,1,3,6.6864067796610165
+2028,Elvis Hernandez,Union City,1,1,3,6.6864067796610165
+2029,Emilio Tepepa-Morales,Long Branch,1,1,3,6.6864067796610165
+2030,Enda Kennedy,Hillsborough,1,1,3,6.6864067796610165
+2031,Everett Miles,Eastern,1,1,3,6.6864067796610165
+2032,Ezekiel McWilliams,Timber Creek,1,1,3,6.6864067796610165
+2033,Gabe Rotolo,Delbarton,1,1,3,6.6864067796610165
+2034,Geronimo Gil,Oakcrest,1,1,3,6.6864067796610165
+2035,Gilles Alade,Holy Cross Prep,1,1,3,6.6864067796610165
+2036,Giovanni Carnemolla,Seton Hall Prep,1,1,3,6.6864067796610165
+2037,Giuseppe Raso,Toms River South,1,1,3,6.6864067796610165
+2038,Gustavo Virgen,Technology,1,1,3,6.6864067796610165
+2039,Harrison Norian,Northern Highlands,1,1,3,6.6864067796610165
+2040,Henry McBride,Camden Catholic,1,1,3,6.6864067796610165
+2041,Ire Johnson,Delsea,1,1,3,6.6864067796610165
+2042,Iverson Carrasco,Barringer,1,1,3,6.6864067796610165
+2043,James Acensio,Union City,1,1,3,6.6864067796610165
+2044,Javier Pineda,Dwight-Morrow,1,1,3,6.6864067796610165
+2045,Jayden Calatayud,Colonia,1,1,3,6.6864067796610165
+2046,Jeyren Rojas,Manville,1,1,3,6.6864067796610165
+2047,Jeyser Medina,Paterson Kennedy,1,1,3,6.6864067796610165
+2048,Joao Simeos,Raritan,1,1,3,6.6864067796610165
+2049,Joel Rivas,Monroe,1,1,3,6.6864067796610165
+2050,Johan Ampongan,Ewing,1,1,3,6.6864067796610165
+2051,John Kennedy,Emerson Boro,1,1,3,6.6864067796610165
+2052,John-Henry Kugel,Old Bridge,1,1,3,6.6864067796610165
+2053,Jonah Chiang,Colts Neck,1,1,3,6.6864067796610165
+2054,Jonibek Nosirov,Highland Park,1,1,3,6.6864067796610165
+2055,Jose Diaz,Paterson Eastside,1,1,3,6.6864067796610165
+2056,Josh Holt,Cumberland,1,1,3,6.6864067796610165
+2057,Joshua Devora,Manalapan,1,1,3,6.6864067796610165
+2058,Joshua Kim,River Dell,1,1,3,6.6864067796610165
+2059,Joshua Merino,Trenton,1,1,3,6.6864067796610165
+2060,Juan Jose Saenz Avila,Iselin Kennedy,1,1,3,6.6864067796610165
+2061,Justin Campos,Paterson Kennedy,1,1,3,6.6864067796610165
+2062,Justin Cardova,Shabazz,1,1,3,6.6864067796610165
+2063,Justin Creekmore,Rumson-Fair Haven,1,1,3,6.6864067796610165
+2064,Justin Dixon-Stewart,Cedar Creek,1,1,3,6.6864067796610165
+2065,Justin Ludizaca,Paramus,1,1,3,6.6864067796610165
+2066,Keven Brizuela,Westampton Tech,1,1,3,6.6864067796610165
+2067,Kevin Espinoza,Elmwood Park,1,1,3,6.6864067796610165
+2068,Kevin Miranda-Sanchez,Piscataway Magnet,1,1,3,6.6864067796610165
+2069,Komi Sowore,Dwight-Englewood,1,1,3,6.6864067796610165
+2070,Likerson Garius,Asbury Park,1,1,3,6.6864067796610165
+2071,Logan Conaghy,Timber Creek,1,1,3,6.6864067796610165
+2072,Louis Whitley,Newark Academy,1,1,3,6.6864067796610165
+2073,Luca Grammatico,Point Pleasant Boro,1,1,3,6.6864067796610165
+2074,"Luis ""Toni"" Gonzalez",Vineland,1,1,3,6.6864067796610165
+2075,Mahir Sultan,Passaic Valley,1,1,3,6.6864067796610165
+2076,Manuel Argueta,Bogota,1,1,3,6.6864067796610165
+2077,Marcos Hernandez,Hunterdon Central,1,1,3,6.6864067796610165
+2078,Martin Mosquera,Newark East Side,1,1,3,6.6864067796610165
+2079,Mathias Ramos,Princeton Day,1,1,3,6.6864067796610165
+2080,Matt Rugel,Vernon,1,1,3,6.6864067796610165
+2081,Matthew Merchan,Bloomfield,1,1,3,6.6864067796610165
+2082,Max Almeida,Demarest,1,1,3,6.6864067796610165
+2083,Max Fair,Rancocas Valley,1,1,3,6.6864067796610165
+2084,Michael Baratta,Glassboro,1,1,3,6.6864067796610165
+2085,Michael Teixeira,Colonia,1,1,3,6.6864067796610165
+2086,Nick Pote,Eastern,1,1,3,6.6864067796610165
+2087,Nikhil Patel,Iselin Kennedy,1,1,3,6.6864067796610165
+2088,Noah Goldberg,Robbinsville,1,1,3,6.6864067796610165
+2089,Oliver Feinhals,Kinnelon,1,1,3,6.6864067796610165
+2090,Rafael Racine,Wall,1,1,3,6.6864067796610165
+2091,Rodrigo Mosquera,North Plainfield,1,1,3,6.6864067796610165
+2092,Rogelio Ortiz,Cliffside Park,1,1,3,6.6864067796610165
+2093,Rome Bullis,Old Bridge,1,1,3,6.6864067796610165
+2094,Rudy Christopher IV,Bishop Eustace,1,1,3,6.6864067796610165
+2095,Ryan Fornal,Hopewell Valley,1,1,3,6.6864067796610165
+2096,Ryan Wilson,St. Augustine,1,1,3,6.6864067796610165
+2097,Sakif Islam,Oakcrest,1,1,3,6.6864067796610165
+2098,Sean Akimov,Don Bosco Prep,1,1,3,6.6864067796610165
+2099,Sebastian Sobkow,Passaic Tech,1,1,3,6.6864067796610165
+2100,Shaun Dowdy,Palmyra,1,1,3,6.6864067796610165
+2101,Shayan Patel,Saddle River Day,1,1,3,6.6864067796610165
+2102,Simar Gill,Mahwah,1,1,3,6.6864067796610165
+2103,Stefano Carvajal,Carteret,1,1,3,6.6864067796610165
+2104,Stephen Lutjen,Lower Cape May,1,1,3,6.6864067796610165
+2105,Timothy Shim,Cresskill,1,1,3,6.6864067796610165
+2106,Usman Iyiola,Willingboro,1,1,3,6.6864067796610165
+2107,Will Taggart,Cedar Grove,1,1,3,6.6864067796610165
+2108,Xavier Villaluz,Montville,1,1,3,6.6864067796610165
+2109,Yared Zapata,Shabazz,1,1,3,6.6864067796610165
+2110,Zander Leon,Morris Tech,1,1,3,6.6864067796610165
+2111,alex Johnson,Ramapo,1,1,3,6.6864067796610165
+2112,Junior Cutzal,Palisades Park,1,1,3,6.6816045197740115
+2113,Zach McQueeney,Morristown,1,1,3,6.673
+2114,David Paz,Newton,1,1,3,6.629604519774011
+2115,Kyle Montoya,Morris Hills,1,1,3,6.6129999999999995
+2116,Uzoma Chukwu,Piscataway,1,1,3,6.609604519774011
+2117,Easton Rose,Medford Tech,1,1,3,6.594802259887006
+2118,Alexander Valderrabano,Irvington,1,1,3,6.571604519774011
+2119,Jerson Auxuma,Highland Park,1,1,3,6.568604519774011
+2120,Brandon Parliman,Boonton,1,1,3,6.541604519774012
+2121,Logan Laub,Demarest,1,1,3,6.514604519774011
+2122,Neil Wadhwa,Bergen Tech,1,1,3,6.496802259887005
+2123,Angel Lara Gil,Wildwood,1,1,3,6.4876045197740115
+2124,Julian Lopez,Weehawken,1,1,3,6.456604519774011
+2125,Timmy Chun,Old Tappan,1,1,3,6.433604519774011
+2126,Ethan Eddleston,St. John Vianney,1,1,3,6.432604519774012
+2127,Lucas Villegas,Northern Burlington,1,1,3,6.392604519774011
+2128,Erdem Yardim,Penns Grove,1,1,3,6.344802259887006
+2129,Michael Schultz,Penns Grove,1,1,3,6.344802259887006
+2130,Fitzroy Hill-Warner,Kinnelon,1,1,3,6.34
+2131,Eder Paute,Passaic Valley,1,1,3,6.336802259887005
+2132,Declan Heagney,Phillipsburg,1,1,3,6.305604519774011
+2133,Omar Gad,Dickinson,1,1,3,6.304604519774012
+2134,Timothy Swartz,McNair,1,1,3,6.304604519774012
+2135,Panav Patel,East Brunswick,1,1,3,6.293604519774012
+2136,Joseph Mayer,Midland Park,1,1,3,6.278604519774011
+2137,James Stanciu,Northern Highlands,1,1,3,6.2296045197740115
+2138,Christos Dounis,Middletown North,1,1,3,6.228802259887006
+2139,Elkyn Erazo,Memorial,1,1,3,6.190802259887006
+2140,Nolan Mullaly,Hoboken,1,1,3,6.190802259887006
+2141,Carl Ombajin,Bergen Catholic,1,1,3,6.180802259887006
+2142,Kevin Fitzpatrick,Red Bank Regional,1,1,3,6.124604519774011
+2143,Jayden Valencia,Raritan,1,1,3,6.1206045197740115
+2144,Ethan Coffina,Cherokee,1,1,3,6.099
+2145,Angel Hernandez Ruano,Ewing,1,1,3,6.085604519774011
+2146,Jack Garing,Morris Tech,1,1,3,6.068604519774011
+2147,Jake Waddell,Hammonton,1,1,3,6.068604519774011
+2148,Nolan Casey,Pequannock,1,1,3,6.068604519774011
+2149,Matthew Aparicio,Becton,1,1,3,6.057604519774012
+2150,Julian O'Neill,Millburn,1,1,3,6.038604519774012
+2151,Jude Thompson,Delsea,1,1,3,5.985604519774011
+2152,Jonathan Molina,Dwight-Morrow,1,1,3,5.966604519774011
+2153,Jose Ortega,Cliffside Park,1,1,3,5.966604519774011
+2154,Aiden Luciano,Princeton Day,1,1,3,5.954604519774011
+2155,Ryan Vodala,Hanover Park,1,1,3,5.904
+2156,Angel Rosales,Atlantic Tech,1,1,3,5.856604519774011
+2157,Asher Valli,Doane Academy,1,1,3,5.8306045197740115
+2158,Jaxson Martisch,Henry Hudson,1,1,3,5.727604519774012
+2159,Wyatt Burgess,New Egypt,1,1,3,5.727
+2160,Kyle Figueiredo,Lyndhurst,1,1,3,5.707604519774011
+2161,Lennon Chrisman,Paul VI,1,1,3,5.700802259887006
+2162,Saheed Maitland,Vineland,1,1,3,5.700802259887006
+2163,Daniel Krasnopolskiy,East Brunswick,1,1,3,5.686
+2164,Fozildzhon Khaidarov,Clifton,1,1,3,5.640802259887005
+2165,Joey Tenaglia,Wildwood Catholic,1,1,3,5.619
+2166,Killian Donnelly,North Warren,1,1,3,5.590604519774011
+2167,Aiden Milici,Woodstown,1,1,3,5.582604519774011
+2168,Max Pappalardo,Pitman,1,1,3,5.582604519774011
+2169,Danny Casey,Kingsway,1,1,3,5.576
+2170,Matt Papagni,Christian Brothers,1,1,3,5.554802259887006
+2171,Ernie Bernhardt,Vineland,1,1,3,5.552802259887006
+2172,Matt Candido,North Warren,1,1,3,5.518802259887005
+2173,Jordan Patton,Rancocas Valley,1,1,3,5.518604519774011
+2174,Christian Oberti,Toms River South,1,1,3,5.348604519774011
+2175,Jack Walther,Manasquan,1,1,3,5.348604519774011
+2176,Marshall Faust,Belvidere,1,1,3,5.317604519774012
+2177,Tyler Carifi,Morris Knolls,1,1,3,5.317604519774012
+2178,Orlin Cortez,Lakewood,1,1,3,5.270802259887006
+2179,Grant Burns,Princeton Day,1,1,3,5.222802259887006
+2180,Maksim Murdzoski,Butler,1,1,3,5.2216045197740115
+2181,Demian Papirnik,Spotswood,1,1,3,5.180802259887006
+2182,Amed Valverde-Porras,Williamstown,1,1,3,5.155604519774011
+2183,Jack Puleio,Monmouth,1,1,3,5.0568022598870055
+2184,Nick Dysko,Somerset Tech,1,1,3,4.968802259887006
+2185,Aiden Wolverton,Cape May Tech,1,1,3,4.879604519774011
+2186,Evan Sun,West Windsor-Plainsboro North,1,1,3,4.817
+2187,Gavin Galvao,Old Bridge,1,1,3,4.8
+2188,Gabriel Saliani,Whippany Park,1,1,3,4.676802259887006
+2189,Dominick Orengo,Pennsauken Tech,1,1,3,4.656802259887005
+2190,Josh Garcia,Pennsauken,1,1,3,4.656802259887005
+2191,Mateo Gianni,Fair Lawn,1,1,3,4.528802259887005
+2192,Geronimo Herrera,Passaic Tech,1,1,3,4.425
+2193,Sidh Parikh,Demarest,1,1,3,4.392802259887006
+2194,Giancarlo Lombardo,St. Joseph (Mont.),1,1,3,4.285
+2195,Uriel Biran,Passaic Tech,1,1,3,4.254802259887006
+2196,Neev Jain,West Windsor-Plainsboro North,1,1,3,4.138802259887005
+2197,Mathius Urena Barrantes,Lenape Valley,1,1,3,4.122
+2198,Sean McNamera,Absegami,1,1,3,4.11
+2199,Abass Bello,University,1,1,3,4.018802259887005
+2200,Liam Shortino,Lenape Valley,1,1,3,4.018802259887005
+2201,Mario Sandoval,Boonton,1,1,3,3.948802259887006
+2202,Carlos Davila,Ferris,1,1,3,3.940802259887006
+2203,Jheremy Martinez,BelovED Charter,1,1,3,3.940802259887006
+2204,Chase McGinley,Timber Creek,1,1,3,3.754
+2205,Joey Gervolino,Ocean Township,1,1,3,3.7510000000000003
+2206,Gianluca Hernandez,Hackensack,1,1,3,3.6448022598870056
+2207,Eric Guglberger,Hoboken,1,1,3,3.626
+2208,Octavio Santana,Triton,1,1,3,3.6248022598870056
+2209,Nate Newcomb,Pitman,1,1,3,3.375
+2210,Jeremy Schaffel,West Windsor-Plainsboro South,1,1,3,3.334802259887006
+2211,Connor Bailey,Cape May Tech,1,1,3,3.0728022598870055
+2212,Kody Organisciak,Passaic Tech,1,1,3,3.0389999999999997
+2213,Jonathan Alvarez,Thrive Charter,1,1,3,2.942
+2214,Tedum Ingreh,Hightstown,1,1,3,2.8649999999999998
+2215,Jefferson Zapata,Morris Knolls,1,1,3,2.58
+2216,Logan Leeds,Lakeland,1,1,3,2.1239999999999997
+2217,Jakub Jodelka,Allentown,1,1,3,1.6590000000000003
+2218,Alfredgerald Haba,Mount Olive,0,3,3,8.532802259887006
+2219,Brandon Tavares,St. Peter's Prep,0,3,3,8.408802259887006
+2220,Joshua Martinez,Garfield,0,3,3,7.965
+2221,Oscar Yacute,Garfield,0,3,3,7.784802259887005
+2222,Greg Guyon,Ocean City,0,3,3,7.781802259887005
+2223,Jack Bucksar,Woodstown,0,3,3,7.772604519774012
+2224,Franco Piarulli,Delbarton,0,3,3,7.671604519774011
+2225,Joe Centanni,Central Regional,0,3,3,7.6448022598870065
+2226,Dharren Culver,Wardlaw-Hartridge,0,3,3,7.597802259887006
+2227,Dominik Wargala,Wallington,0,3,3,7.520802259887006
+2228,Justin Fagan,Lenape,0,3,3,7.268802259887005
+2229,Sanjit Mandava,Edison,0,3,3,7.257604519774011
+2230,Aiden Jerath,Pingry,0,3,3,6.988604519774011
+2231,Emmanuel Vargas,Pope John,0,3,3,6.867802259887005
+2232,Jeremy Mark,Metuchen,0,3,3,6.860604519774011
+2233,John D'Antonio,Washington Township,0,3,3,6.722604519774011
+2234,Andrew Del Rey,Waldwick,0,3,3,6.6864067796610165
+2235,Ben Adams,Northern Highlands,0,3,3,6.6864067796610165
+2236,Carlos Plato,Cliffside Park,0,3,3,6.6864067796610165
+2237,Colton Davis,Southern,0,3,3,6.6864067796610165
+2238,Eisel Avila,Dover,0,3,3,6.6864067796610165
+2239,Felix Manalo-LaManna,Paul VI,0,3,3,6.6864067796610165
+2240,Franko Dagoberto  Morales,Bridgeton,0,3,3,6.6864067796610165
+2241,Jacob Javier,Glen Ridge,0,3,3,6.6864067796610165
+2242,Jaxson Simon,Southern,0,3,3,6.6864067796610165
+2243,John Mize,Cedar Grove,0,3,3,6.6864067796610165
+2244,Justin Daley,Mahwah,0,3,3,6.6864067796610165
+2245,Justin Haddad,Burlington Township,0,3,3,6.6864067796610165
+2246,Nate Valentin,Pequannock,0,3,3,6.6864067796610165
+2247,Noah Glasofer,Montclair Kimberley,0,3,3,6.6864067796610165
+2248,Patrick Weinstein,Cherry Hill East,0,3,3,6.6864067796610165
+2249,Patryk Palasz,Wallington,0,3,3,6.6864067796610165
+2250,Richard Omondi,Edison,0,3,3,6.6864067796610165
+2251,Ryan Keenan,Caldwell,0,3,3,6.6864067796610165
+2252,Steven Rotsides,Rancocas Valley,0,3,3,6.6864067796610165
+2253,Sufyan Kazi,Highland,0,3,3,6.6864067796610165
+2254,Francesco Carabajal,Woodbridge,0,3,3,6.609604519774011
+2255,Maciej Ramirez,Robbinsville,0,3,3,6.577802259887005
+2256,Miguel Sanchez,Bridgeton,0,3,3,6.567604519774012
+2257,Josh Guberuk,Pingry,0,3,3,6.536604519774011
+2258,Mateo Grippo,Pascack Valley,0,3,3,6.433604519774011
+2259,Declan Williams,Moorestown,0,3,3,6.405802259887006
+2260,Colin Fitt,Chatham,0,3,3,6.337604519774011
+2261,Abraham Alvarado,West Caldwell Tech,0,3,3,6.313604519774011
+2262,Murphy Lennon,Red Bank Regional,0,3,3,6.138604519774011
+2263,Eddie Kerr,St. Rose,0,3,3,6.09
+2264,Derek Flemming,Wallkill Valley,0,3,3,6.068604519774011
+2265,Ryder Falcone,Hammonton,0,3,3,5.957
+2266,Christian Tay,Monroe,0,3,3,5.946802259887006
+2267,Esteban Eliel Sosa,Barringer,0,3,3,5.905
+2268,Mihail Jovanovski,Elmwood Park,0,3,3,5.8628022598870055
+2269,Kellan DeKoyer,Lyndhurst,0,3,3,5.811604519774011
+2270,Cole Jackson,Clearview,0,3,3,5.757604519774011
+2271,Diogo DeJesus,Carteret,0,3,3,5.744802259887006
+2272,Jaxson DeRossett,Hopewell Valley,0,3,3,5.723802259887005
+2273,Dylan Rubis,Wayne Valley,0,3,3,5.643802259887005
+2274,Evan Papageorgiou,Wildwood Catholic,0,3,3,5.468
+2275,Marko Mueller,Princeton,0,3,3,5.155
+2276,Lino Kim,West Windsor-Plainsboro South,0,3,3,5.115802259887006
+2277,Aaron Trujiliano,Brick Memorial,0,3,3,5.089802259887006
+2278,Danny Pelico,Payne Tech,0,3,3,4.868604519774011
+2279,Haniel Salazar,Pennsauken,0,3,3,4.815802259887006
+2280,Grey Hahn,Cresskill,0,3,3,4.453
+2281,Brodey Willis,Cumberland,0,3,3,3.6248022598870056
+2282,Aditya Dwasari,J.P. Stevens,1,0,2,7.64
+2283,Dan McGinley,Timber Creek,1,0,2,7.054
+2284,Arthur Lacerda,Livingston,1,0,2,6.83
+2285,D'Alessandro Gonzalez,New Brunswick,1,0,2,6.59
+2286,Martin Uy,Paramus Catholic,1,0,2,6.48
+2287,Josue Tituana,Sparta,1,0,2,6.428
+2288,Anthony Ramirez,Garfield,1,0,2,6.416
+2289,Alex Ibaceta,Newton,1,0,2,6.318
+2290,William Kearns,Northern Burlington,1,0,2,6.312
+2291,Jaco Freire,West Milford,1,0,2,6.304
+2292,Lucas Botti,Bernards,1,0,2,6.122
+2293,Gavin Dorfer,St. John Vianney,1,0,2,6.108
+2294,Dylan Cruz,Neptune,1,0,2,5.922
+2295,Tyler Gordon,Wall,1,0,2,5.884
+2296,Rey Weinseimer,Manasquan,1,0,2,5.87
+2297,Kuljot Sindhar,Wardlaw-Hartridge,1,0,2,5.724
+2298,Adhvik Pathapati,North Brunswick,1,0,2,5.684
+2299,Nolan Byrne,Delsea,1,0,2,5.666
+2300,Yosthyn Alfaro,Kingsway,1,0,2,5.592
+2301,Pedro Gomez,Kinnelon,1,0,2,5.55
+2302,Matt Lundy,Jefferson,1,0,2,5.546
+2303,Jack Krueger,Red Bank Regional,1,0,2,5.514
+2304,Brayden Archer,West Morris,1,0,2,5.496
+2305,Liam Verdicchio,Pascack Valley,1,0,2,5.416
+2306,Diego Romero,Jefferson,1,0,2,5.384
+2307,Michael Sexton,Wildwood Catholic,1,0,2,5.298
+2308,Gabe Carter,Glen Ridge,1,0,2,5.292
+2309,Claude Myrie Jr.,Vineland,1,0,2,5.23
+2310,Paolo Rizzo,Egg Harbor,1,0,2,5.23
+2311,Alpha Siaka,Hamilton West,1,0,2,5.218
+2312,James Guttridge,Allentown,1,0,2,5.218
+2313,Taalin Ravinath,Watchung Hills,1,0,2,5.158
+2314,Matias Tabares,Donovan Catholic,1,0,2,5.1
+2315,Eunsung Jun,Leonia,1,0,2,5.062
+2316,Liam Hilgeman,Leonia,1,0,2,5.062
+2317,Ryan Decillis,West Morris,1,0,2,5.044
+2318,Miguel Gonzalez,Toms River East,1,0,2,4.994
+2319,Arturo Ordonez-Tacle,New Milford,1,0,2,4.992
+2320,John Burdorf,Chatham,1,0,2,4.938
+2321,Brandon Vulin,Bloomfield,1,0,2,4.866
+2322,Habib Kassogue,Metuchen,1,0,2,4.856
+2323,Lukas Childs,Cape May Tech,1,0,2,4.818
+2324,Emmanuel Almonte,Paterson Eastside,1,0,2,4.784
+2325,Emiliano Bunay,Technology,1,0,2,4.698
+2326,Wilbens Auguste,Irvington,1,0,2,4.698
+2327,Harrison Rosner,Northern Highlands,1,0,2,4.686
+2328,Kai Miles,Old Tappan,1,0,2,4.686
+2329,Damien Simon,South Plainfield,1,0,2,4.674
+2330,Christopher Barrientos,Dwight-Morrow,1,0,2,4.67
+2331,Abdoulaye Yague,West Windsor-Plainsboro South,1,0,2,4.668
+2332,Brandon Garrido,North Plainfield,1,0,2,4.654
+2333,Tristian Arroyo,Toms River South,1,0,2,4.61
+2334,Phillip Rusznica,Marlboro,1,0,2,4.596
+2335,Gorazd Oracevski,Saddle River Day,1,0,2,4.548
+2336,Henry Spaman,Clearview,1,0,2,4.53
+2337,Youssef Idrissi,Weehawken,1,0,2,4.524
+2338,Josh Rotter,Moorestown Friends,1,0,2,4.492
+2339,Kadin McDougald,Westampton Tech,1,0,2,4.492
+2340,Aarav Patel,Saddle River Day,1,0,2,4.457604519774011
+2341,Adam Gad,Dickinson,1,0,2,4.457604519774011
+2342,Adam Shawkey,Clearview,1,0,2,4.457604519774011
+2343,Aidan Collins,Kingsway,1,0,2,4.457604519774011
+2344,Aidan Worley,Highland,1,0,2,4.457604519774011
+2345,Aiden Breining,Rancocas Valley,1,0,2,4.457604519774011
+2346,Alec Lenzo,Hillsborough,1,0,2,4.457604519774011
+2347,Aleks Vasic,Kinnelon,1,0,2,4.457604519774011
+2348,Alessandro Marchese,Wayne Valley,1,0,2,4.457604519774011
+2349,Alex Calabretta,Rumson-Fair Haven,1,0,2,4.457604519774011
+2350,Alex Carrasco,Shabazz,1,0,2,4.457604519774011
+2351,Alex Dudas,Pinelands,1,0,2,4.457604519774011
+2352,Alex Hayes,Morris Hills,1,0,2,4.457604519774011
+2353,Alex Koulouthros,Hoboken,1,0,2,4.457604519774011
+2354,Alex Marin,Toms River North,1,0,2,4.457604519774011
+2355,Alex Olan,Rumson-Fair Haven,1,0,2,4.457604519774011
+2356,Alex Ridgway,Palmyra,1,0,2,4.457604519774011
+2357,Alex Rotaeche,Camden Catholic,1,0,2,4.457604519774011
+2358,Alex Santos,Science Park,1,0,2,4.457604519774011
+2359,Alexander Hernandez,Atlantic Tech,1,0,2,4.457604519774011
+2360,Alexsander Sanchez,Paterson Charter,1,0,2,4.457604519774011
+2361,Ali Mahgoub,Carteret,1,0,2,4.457604519774011
+2362,Andonis Vazacopoulos,Old Tappan,1,0,2,4.457604519774011
+2363,Andre Corbitt,Camden Catholic,1,0,2,4.457604519774011
+2364,Andrej Djuteski,Elmwood Park,1,0,2,4.457604519774011
+2365,Andres Herscovici,Millburn,1,0,2,4.457604519774011
+2366,Andres Mendoza,BelovED Charter,1,0,2,4.457604519774011
+2367,Andrew Kelly,St. Peter's Prep,1,0,2,4.457604519774011
+2368,Andy Plazas,Red Bank Regional,1,0,2,4.457604519774011
+2369,Angel Gamez Quiroa,Manville,1,0,2,4.457604519774011
+2370,Anthony Ambrosio,Don Bosco Prep,1,0,2,4.457604519774011
+2371,Anthony Olivares,Wood-Ridge,1,0,2,4.457604519774011
+2372,Anthony Pacheco,Penns Grove,1,0,2,4.457604519774011
+2373,Anthony Perez,Park Ridge,1,0,2,4.457604519774011
+2374,Anthony Rosario,Hawthorne,1,0,2,4.457604519774011
+2375,Antonio Gonzalez,East Brunswick Magnet,1,0,2,4.457604519774011
+2376,Antonio Ingrati,Fair Lawn,1,0,2,4.457604519774011
+2377,Antonio Panzini,Middle Township,1,0,2,4.457604519774011
+2378,Arcen Tambi,Bergen Catholic,1,0,2,4.457604519774011
+2379,Arda Ozdemir,West Windsor-Plainsboro South,1,0,2,4.457604519774011
+2380,Arist Kociolek,Steinert,1,0,2,4.457604519774011
+2381,Armando Palafox,Dover,1,0,2,4.457604519774011
+2382,Aryan Shah,Edison,1,0,2,4.457604519774011
+2383,Axel Damien,Wildwood,1,0,2,4.457604519774011
+2384,Ayden Moreno,Middlesex,1,0,2,4.457604519774011
+2385,Barry Friedrich,Livingston,1,0,2,4.457604519774011
+2386,Brando Fierro,Neptune,1,0,2,4.457604519774011
+2387,Brandon Muser,Livingston,1,0,2,4.457604519774011
+2388,Brayan Chodniewicz,Mendham,1,0,2,4.457604519774011
+2389,Brayden Callahan,Maple Shade,1,0,2,4.457604519774011
+2390,Brett Zimmermann,Holy Cross Prep,1,0,2,4.457604519774011
+2391,Brian Rojas,Pleasantville,1,0,2,4.457604519774011
+2392,Brody Angevine,Seton Hall Prep,1,0,2,4.457604519774011
+2393,Bryan Govea,Paterson Eastside,1,0,2,4.457604519774011
+2394,Bryan Lopez,Palisades Park,1,0,2,4.457604519774011
+2395,Byron Saldana,Perth Amboy,1,0,2,4.457604519774011
+2396,Caden Leu,Wardlaw-Hartridge,1,0,2,4.457604519774011
+2397,Carlos Macias,Bloomfield,1,0,2,4.457604519774011
+2398,Carlos Nunez,Morristown,1,0,2,4.457604519774011
+2399,Carlos Pineda,Snyder,1,0,2,4.457604519774011
+2400,Carter Priest,Palmyra,1,0,2,4.457604519774011
+2401,Carter Reinert,Cherry Hill West,1,0,2,4.457604519774011
+2402,Cesar Andres Fermin Alarcon,Dunellen,1,0,2,4.457604519774011
+2403,Charlie Campbell,St. Peter's Prep,1,0,2,4.457604519774011
+2404,Charlie Gronau,Rumson-Fair Haven,1,0,2,4.457604519774011
+2405,Chase Bermudez,Vineland,1,0,2,4.457604519774011
+2406,Chris Ahn,Metuchen,1,0,2,4.457604519774011
+2407,Chris Basile,Bordentown,1,0,2,4.457604519774011
+2408,Christian McDonald,Middletown North,1,0,2,4.457604519774011
+2409,Christopher Parrish,Kingsway,1,0,2,4.457604519774011
+2410,Christopher Ventura,Memorial,1,0,2,4.457604519774011
+2411,Colin Decator,Hunterdon Central,1,0,2,4.457604519774011
+2412,Collin Hill,Shawnee,1,0,2,4.457604519774011
+2413,Daivion Hardy,Manchester Township,1,0,2,4.457604519774011
+2414,Damian Yantchev,Glen Rock,1,0,2,4.457604519774011
+2415,Dan Penkethman,St. Rose,1,0,2,4.457604519774011
+2416,Daniel Decker,Vernon,1,0,2,4.457604519774011
+2417,Daniel Galeazza,Emerson Boro,1,0,2,4.457604519774011
+2418,Daniel Paz,Clearview,1,0,2,4.457604519774011
+2419,Danilo Jimenez,Hudson Catholic,1,0,2,4.457604519774011
+2420,Dariel Sarano Ramirez,Perth Amboy,1,0,2,4.457604519774011
+2421,Dario Compere,Ferris,1,0,2,4.457604519774011
+2422,Darrin Doyle,Shawnee,1,0,2,4.457604519774011
+2423,Dean Natale,Colts Neck,1,0,2,4.457604519774011
+2424,Dennis Palacios Samayoa,Hamilton West,1,0,2,4.457604519774011
+2425,Dhruva Madapati,West Windsor-Plainsboro North,1,0,2,4.457604519774011
+2426,Dominic Demarco,Bishop Eustace,1,0,2,4.457604519774011
+2427,Dominick Fuoco,St. John Vianney,1,0,2,4.457604519774011
+2428,Don Milhomme,Woodstown,1,0,2,4.457604519774011
+2429,Dylan Chanthapornpong,Marlboro,1,0,2,4.457604519774011
+2430,Dylan Tavaglione,Donovan Catholic,1,0,2,4.457604519774011
+2431,Dylan Tuohy,Saddle Brook,1,0,2,4.457604519774011
+2432,EJ Karademetridou,Paramus,1,0,2,4.457604519774011
+2433,Eamon McStravick,Delran,1,0,2,4.457604519774011
+2434,Edrisa Kunta,Eastern,1,0,2,4.457604519774011
+2435,Eduardo Perez,Memorial,1,0,2,4.457604519774011
+2436,Emiliano Munoz,Wood-Ridge,1,0,2,4.457604519774011
+2437,Enzo Allain,Ridge,1,0,2,4.457604519774011
+2438,Erick Fonseca,Trenton,1,0,2,4.457604519774011
+2439,Ethan Arkoh,Woodbridge Magnet,1,0,2,4.457604519774011
+2440,Ethan Chang,Leonia,1,0,2,4.457604519774011
+2441,Ethan Elsaesser,Watchung Hills,1,0,2,4.457604519774011
+2442,Ethan Koziol,Freehold Township,1,0,2,4.457604519774011
+2443,Ethan Lee,Pemberton,1,0,2,4.457604519774011
+2444,Ethan Shire,Randolph,1,0,2,4.457604519774011
+2445,Evan Didato,Ramapo,1,0,2,4.457604519774011
+2446,Evan Molnar,High Point,1,0,2,4.457604519774011
+2447,Eydan Coronel,Hightstown,1,0,2,4.457604519774011
+2448,Fabricio Lizardo,Union City,1,0,2,4.457604519774011
+2449,Felix Alonzo,Memorial,1,0,2,4.457604519774011
+2450,Finn Carney,Nutley,1,0,2,4.457604519774011
+2451,Finn Murray,Shore,1,0,2,4.457604519774011
+2452,Francisco Ramirez,Matawan,1,0,2,4.457604519774011
+2453,Freddy Gamez,Cliffside Park,1,0,2,4.457604519774011
+2454,Gabe Meron,Ocean City,1,0,2,4.457604519774011
+2455,Gabe Tulchinsky,Millburn,1,0,2,4.457604519774011
+2456,Gabriel Rocha,North Arlington,1,0,2,4.457604519774011
+2457,Gaven Alejandro,McNair,1,0,2,4.457604519774011
+2458,Gavin Kenney,Gloucester Catholic,1,0,2,4.457604519774011
+2459,Gavin Radler,Wayne Hills,1,0,2,4.457604519774011
+2460,Gavin Shaffer,Becton,1,0,2,4.457604519774011
+2461,Giovanny Ramos,Perth Amboy,1,0,2,4.457604519774011
+2462,Griffen Matuch,St. Rose,1,0,2,4.457604519774011
+2463,Guilherme Dias Oliveira,Newark East Side,1,0,2,4.457604519774011
+2464,Gustavo Merino,Asbury Park,1,0,2,4.457604519774011
+2465,Hariharan Manimaran,Edison Magnet,1,0,2,4.457604519774011
+2466,Harold Lekane,North Star Academy,1,0,2,4.457604519774011
+2467,Harsha Vegiraju,Woodbridge Magnet,1,0,2,4.457604519774011
+2468,Heath Patullo,Camden Catholic,1,0,2,4.457604519774011
+2469,Henry Goodwin,Caldwell,1,0,2,4.457604519774011
+2470,Ian Aboal,Wayne Valley,1,0,2,4.457604519774011
+2471,Ibrahima Tounkara,BelovED Charter,1,0,2,4.457604519774011
+2472,Ibrahm Moustafa,Wayne Valley,1,0,2,4.457604519774011
+2473,Isaac Alvarez,Memorial,1,0,2,4.457604519774011
+2474,Isaac Quinonez,Newark East Side,1,0,2,4.457604519774011
+2475,Isaias Villa Hernandez,Asbury Park,1,0,2,4.457604519774011
+2476,Ishaan C. Juthani,Tenafly,1,0,2,4.457604519774011
+2477,Issac Betances Peraza,St. Augustine,1,0,2,4.457604519774011
+2478,JJ James,Moorestown Friends,1,0,2,4.457604519774011
+2479,Jack Francis,Bergen Tech,1,0,2,4.457604519774011
+2480,Jackson Lewis,Immaculata,1,0,2,4.457604519774011
+2481,Jacob Araya,Bridgewater-Raritan,1,0,2,4.457604519774011
+2482,Jacob Soliman,Pinelands,1,0,2,4.457604519774011
+2483,Jaden Yee,St. Joseph (Met.),1,0,2,4.457604519774011
+2484,Jahir Mendoza,New Egypt,1,0,2,4.457604519774011
+2485,Jake Fitzsimmons,St. Joseph (Mont.),1,0,2,4.457604519774011
+2486,Jake Greenberg,Randolph,1,0,2,4.457604519774011
+2487,Jaleil Dockery,Notre Dame,1,0,2,4.457604519774011
+2488,James Gizinski,Camden Catholic,1,0,2,4.457604519774011
+2489,James Gray,Pingry,1,0,2,4.457604519774011
+2490,James Owens IV,Vineland,1,0,2,4.457604519774011
+2491,James Tamay,Morristown,1,0,2,4.457604519774011
+2492,James Testa,New Egypt,1,0,2,4.457604519774011
+2493,Jarol Padilla,Barringer,1,0,2,4.457604519774011
+2494,Jarren Wisner,Belvidere,1,0,2,4.457604519774011
+2495,Jason Ives,Cherokee,1,0,2,4.457604519774011
+2496,Jason Kim,Passaic Valley,1,0,2,4.457604519774011
+2497,Jason Morocho,Orange,1,0,2,4.457604519774011
+2498,Jayden Mims,Newton,1,0,2,4.457604519774011
+2499,Jayson Garcia,Egg Harbor,1,0,2,4.457604519774011
+2500,Jean Arrazola,Vernon,1,0,2,4.457604519774011
+2501,Jean Carvajal,Clifton,1,0,2,4.457604519774011
+2502,Jesse Kern,Cinnaminson,1,0,2,4.457604519774011
+2503,Jesse Thomas,Pennsville,1,0,2,4.457604519774011
+2504,Jhonathan Sanchez,Atlantic Tech,1,0,2,4.457604519774011
+2505,Jhonny Oyola Medina,Pennsville,1,0,2,4.457604519774011
+2506,Joel Maitland,Teaneck,1,0,2,4.457604519774011
+2507,Joel Patchell,Cumberland,1,0,2,4.457604519774011
+2508,Joey Povio,Middle Township,1,0,2,4.457604519774011
+2509,Johao Chacon,Dunellen,1,0,2,4.457604519774011
+2510,John Sharp,Lower Cape May,1,0,2,4.457604519774011
+2511,Johnder Ramos,Hamilton West,1,0,2,4.457604519774011
+2512,Jonathon Hoyos,Cumberland,1,0,2,4.457604519774011
+2513,Jordi Guadalupe,Technology,1,0,2,4.457604519774011
+2514,Jorge Velecela,Hackensack,1,0,2,4.457604519774011
+2515,Jose Menjivar,Perth Amboy,1,0,2,4.457604519774011
+2516,Joseph Deandrea,Passaic Tech,1,0,2,4.457604519774011
+2517,Joseph Flanagan,Holy Cross Prep,1,0,2,4.457604519774011
+2518,Joseph Jimenez,Trenton,1,0,2,4.457604519774011
+2519,Joseph Sherman,Golda Och,1,0,2,4.457604519774011
+2520,Josh Olbrich,Woodstown,1,0,2,4.457604519774011
+2521,Joshua Akerele,University,1,0,2,4.457604519774011
+2522,Joshua Nunez,Paterson Charter,1,0,2,4.457604519774011
+2523,Joshua Thockmorton,Medford Tech,1,0,2,4.457604519774011
+2524,Josue Toledo,Manville,1,0,2,4.457604519774011
+2525,Ju'son Stewart,Clayton,1,0,2,4.457604519774011
+2526,Juan Haro,Barringer,1,0,2,4.457604519774011
+2527,Juan Ramirez,Technology,1,0,2,4.457604519774011
+2528,Julian Garcia,Long Branch,1,0,2,4.457604519774011
+2529,Justin Smyth,Palmyra,1,0,2,4.457604519774011
+2530,Kaua Souza,Shore,1,0,2,4.457604519774011
+2531,Kayden Hartung,Glassboro,1,0,2,4.457604519774011
+2532,Keith Nindo,West Windsor-Plainsboro South,1,0,2,4.457604519774011
+2533,Kevin Meza,Franklin,1,0,2,4.457604519774011
+2534,Khaled Aldhaheri,Saddle River Day,1,0,2,4.457604519774011
+2535,Khayan Kirpal,West Windsor-Plainsboro South,1,0,2,4.457604519774011
+2536,Korbin Krokus,Westwood,1,0,2,4.457604519774011
+2537,Kristofer Drafton,Burlington City,1,0,2,4.457604519774011
+2538,Kyle Larga,Hackettstown,1,0,2,4.457604519774011
+2539,Kyle Schoepfer,Southern,1,0,2,4.457604519774011
+2540,Leon Michael,Nottingham,1,0,2,4.457604519774011
+2541,Liam Kane,North Hunterdon,1,0,2,4.457604519774011
+2542,Logan Amundson,West Milford,1,0,2,4.457604519774011
+2543,Logan Berth,St. Augustine,1,0,2,4.457604519774011
+2544,Logan Sharpnack,Pitman,1,0,2,4.457604519774011
+2545,Logan Vicente,Ridge,1,0,2,4.457604519774011
+2546,Lorenzo Brunie,Manalapan,1,0,2,4.457604519774011
+2547,Luc Guarino,Delbarton,1,0,2,4.457604519774011
+2548,Luca Symons,Toms River North,1,0,2,4.457604519774011
+2549,Lucas Sanders,Lenape Valley,1,0,2,4.457604519774011
+2550,Luis Lenor,Brick Township,1,0,2,4.457604519774011
+2551,Luis Perez,Wardlaw-Hartridge,1,0,2,4.457604519774011
+2552,Luke D'Altilio,Ramapo,1,0,2,4.457604519774011
+2553,Luke Driscoll,Seton Hall Prep,1,0,2,4.457604519774011
+2554,Luke Murphy,St. Joseph (Met.),1,0,2,4.457604519774011
+2555,Mael Koulibaly,Willingboro,1,0,2,4.457604519774011
+2556,Marcello Rodrigues Dos Santos,Newark East Side,1,0,2,4.457604519774011
+2557,Mark Ruas,Freehold Township,1,0,2,4.457604519774011
+2558,Mark Russo,Bridgewater-Raritan,1,0,2,4.457604519774011
+2559,Marvin Jaquish,Phillipsburg,1,0,2,4.457604519774011
+2560,Marvin Martinez,Absegami,1,0,2,4.457604519774011
+2561,Mason Austin,Mountain Lakes,1,0,2,4.457604519774011
+2562,Mason Miller,Livingston,1,0,2,4.457604519774011
+2563,Matias Grande,Hoboken,1,0,2,4.457604519774011
+2564,Matt Cantatore,Allentown,1,0,2,4.457604519774011
+2565,Matt Schwenker,Toms River North,1,0,2,4.457604519774011
+2566,Matteo Suljic,Old Tappan,1,0,2,4.457604519774011
+2567,Matthew Guzman,Ridgefield Park,1,0,2,4.457604519774011
+2568,Matthew Romero,Bergenfield,1,0,2,4.457604519774011
+2569,Max Gulko,Holmdel,1,0,2,4.457604519774011
+2570,Maximus McCrohan,Lakeland,1,0,2,4.457604519774011
+2571,Melvin Navarrete,College Achieve Central,1,0,2,4.457604519774011
+2572,Michael Palacios,Harrison,1,0,2,4.457604519774011
+2573,Michael Schrader,Manalapan,1,0,2,4.457604519774011
+2574,Michael Simmons,Medford Tech,1,0,2,4.457604519774011
+2575,Mika Ferrales,Northern Highlands,1,0,2,4.457604519774011
+2576,Moizz Khan,West Windsor-Plainsboro North,1,0,2,4.457604519774011
+2577,Myles Gilbertson,Waldwick,1,0,2,4.457604519774011
+2578,Nana Kwabena Mensa,Glassboro,1,0,2,4.457604519774011
+2579,Nate Huttons,Glen Ridge,1,0,2,4.457604519774011
+2580,Nate Paterno,Manasquan,1,0,2,4.457604519774011
+2581,Nerik Lopez,Shabazz,1,0,2,4.457604519774011
+2582,Nicholas Crimi,St. Joseph (Hamm.),1,0,2,4.457604519774011
+2583,Nicholas Fabijanic,Chatham,1,0,2,4.457604519774011
+2584,Nicholas Jones,Belvidere,1,0,2,4.457604519774011
+2585,Nicholas Keoghan,North Arlington,1,0,2,4.457604519774011
+2586,Nick Leone,Donovan Catholic,1,0,2,4.457604519774011
+2587,Nick Santos,St. Peter's Prep,1,0,2,4.457604519774011
+2588,Nico Dos Santos,Harrison,1,0,2,4.457604519774011
+2589,Nicolas Salinas,Red Bank Catholic,1,0,2,4.457604519774011
+2590,Nirmalram Suresh,West Windsor-Plainsboro South,1,0,2,4.457604519774011
+2591,Noah Fisher,Dwight-Englewood,1,0,2,4.457604519774011
+2592,Noah Moreno,St. Joseph (Mont.),1,0,2,4.457604519774011
+2593,Noah Pereira,River Dell,1,0,2,4.457604519774011
+2594,Noah Poythress,South Brunswick,1,0,2,4.457604519774011
+2595,Noam Cohen,Demarest,1,0,2,4.457604519774011
+2596,Omar Elgebally,South Plainfield,1,0,2,4.457604519774011
+2597,Omar Ramirez Lucas,Bridgeton,1,0,2,4.457604519774011
+2598,Omar Reyes Torres,Toms River South,1,0,2,4.457604519774011
+2599,Owen Chang,Millburn,1,0,2,4.457604519774011
+2600,Owen Daly,Colonia,1,0,2,4.457604519774011
+2601,Pedro Lemus,Monroe,1,0,2,4.457604519774011
+2602,Pedro Miranda Rezende,Maple Shade,1,0,2,4.457604519774011
+2603,Perno Anthony,Cinnaminson,1,0,2,4.457604519774011
+2604,Prakhar Maheshwari,Iselin Kennedy,1,0,2,4.457604519774011
+2605,Quentin Thomas,St. Peter's Prep,1,0,2,4.457604519774011
+2606,Raphael Aniceto,Bogota,1,0,2,4.457604519774011
+2607,Richar Diaz,Ferris,1,0,2,4.457604519774011
+2608,Rishi Patel,Monroe,1,0,2,4.457604519774011
+2609,Robert Perillo,East Brunswick,1,0,2,4.457604519774011
+2610,Rocco Vignola,Kingsway,1,0,2,4.457604519774011
+2611,Rodrigo Tambutti-Soto,Ridge,1,0,2,4.457604519774011
+2612,Roman Nicolas,Ewing,1,0,2,4.457604519774011
+2613,Ronit Naik,Bridgewater-Raritan,1,0,2,4.457604519774011
+2614,Ryan Bustamante,Newark East Side,1,0,2,4.457604519774011
+2615,Ryan Vitale,Indian Hills,1,0,2,4.457604519774011
+2616,Salih Suyabatmaz,Wayne Hills,1,0,2,4.457604519774011
+2617,Sam Coley,Northern Burlington,1,0,2,4.457604519774011
+2618,Sammy Daoud,Freehold Township,1,0,2,4.457604519774011
+2619,Samuel Garcia,Dunellen,1,0,2,4.457604519774011
+2620,Samuel Youssef,Matawan,1,0,2,4.457604519774011
+2621,Santiago Gray,Emerson Boro,1,0,2,4.457604519774011
+2622,Santiago Medina,Hawthorne,1,0,2,4.457604519774011
+2623,Sebastian Reyes,Ridgefield Park,1,0,2,4.457604519774011
+2624,Sergio Rivera,Atlantic City,1,0,2,4.457604519774011
+2625,Shea Travers,Rutherford,1,0,2,4.457604519774011
+2626,Shrest Kummarapurugu,J.P. Stevens,1,0,2,4.457604519774011
+2627,Stelio Lyristis,St. Joseph (Met.),1,0,2,4.457604519774011
+2628,Steven Olson-Marmion,Rancocas Valley,1,0,2,4.457604519774011
+2629,Steven Samayoa,Dunellen,1,0,2,4.457604519774011
+2630,Teja Mareddy,Old Bridge,1,0,2,4.457604519774011
+2631,Timothy Koh,Dwight-Englewood,1,0,2,4.457604519774011
+2632,Tomas Ferreira,South River,1,0,2,4.457604519774011
+2633,Trevor Hann,Pennsville,1,0,2,4.457604519774011
+2634,Trevor Sinkus,South Hunterdon,1,0,2,4.457604519774011
+2635,Ty Zadworney,Steinert,1,0,2,4.457604519774011
+2636,Tyler Dickerson,Westampton Tech,1,0,2,4.457604519774011
+2637,Vidal Juarez,Glassboro,1,0,2,4.457604519774011
+2638,Viktor Panasik,Bernards,1,0,2,4.457604519774011
+2639,Vinny Reis,Delran,1,0,2,4.457604519774011
+2640,Vitali Calandro,Kingsway,1,0,2,4.457604519774011
+2641,Wilmer Barrera Retana,Phillipsburg,1,0,2,4.457604519774011
+2642,Xavier Habana,Emerson Boro,1,0,2,4.457604519774011
+2643,Yahred Catana,Lower Cape May,1,0,2,4.457604519774011
+2644,Yared Sanchez,Clifton,1,0,2,4.457604519774011
+2645,Yunes Bounacer,Middle Township,1,0,2,4.457604519774011
+2646,Zachary Turken,Cedar Grove,1,0,2,4.457604519774011
+2647,Zachary Yardley,Kittatinny,1,0,2,4.457604519774011
+2648,Ziyon Moore,Salem,1,0,2,4.457604519774011
+2649,aidan Khalifa,Delran,1,0,2,4.457604519774011
+2650,erik cruz,Newark Tech,1,0,2,4.457604519774011
+2651,jake Emmons,Brick Memorial,1,0,2,4.457604519774011
+2652,Michael Meliti,Hawthorne Christian,1,0,2,4.448
+2653,Tyler Salazar,West Morris,1,0,2,4.344
+2654,Cole Danko,Point Pleasant Boro,1,0,2,4.312
+2655,Matt Mena,Toms River North,1,0,2,4.312
+2656,Sreyanz Pusapati,South Brunswick,1,0,2,4.304
+2657,Blane Amerman,Paul VI,1,0,2,4.278
+2658,Colin Webster,Moorestown,1,0,2,4.278
+2659,Corey William Powell,Piscataway,1,0,2,4.246
+2660,Valentino Bermeo-Cuesta,Hightstown,1,0,2,4.246
+2661,Cash Loncar,Newark Academy,1,0,2,4.228
+2662,Jefferson Olivares,Dunellen,1,0,2,4.222
+2663,Mario Gomez,Absegami,1,0,2,4.22
+2664,Isaac Riley Dalida,Somerville,1,0,2,4.158
+2665,Santiago Restrepo,Parsippany Hills,1,0,2,4.158
+2666,John Egan,Schalick,1,0,2,4.148
+2667,Vidur Jain,South Brunswick,1,0,2,4.138
+2668,Ashton Ritter,Cherokee,1,0,2,4.126
+2669,Ransford Yeboah,Barringer,1,0,2,4.12
+2670,Brett Land,Pennsville,1,0,2,4.06
+2671,William Boggans,Glassboro,1,0,2,4.06
+2672,Benton Moses,Pennsauken,1,0,2,4.028
+2673,Eashaan Bhattacharyya,Metuchen,1,0,2,4.028
+2674,Yuvraj Kadam,Lenape,1,0,2,4.02
+2675,Elder Sontay,Penns Grove,1,0,2,4.004
+2676,Luke Senzamici,New Milford,1,0,2,3.998
+2677,Neal DeSena,Rumson-Fair Haven,1,0,2,3.994
+2678,Sebastian Polo,Freehold Township,1,0,2,3.994
+2679,Jack Stephenson,Bergen Catholic,1,0,2,3.952
+2680,Juan Villadiego,Don Bosco Prep,1,0,2,3.952
+2681,Matthew Morillo,DePaul,1,0,2,3.952
+2682,Blaise Lyons,Voorhees,1,0,2,3.808
+2683,Daniel Portero,Dunellen,1,0,2,3.798
+2684,Jeanfranco Montufar,North Bergen,1,0,2,3.794
+2685,Max Miller,Delbarton,1,0,2,3.76
+2686,Raul Ventura,Voorhees,1,0,2,3.76
+2687,Matthew Puello,Edison,1,0,2,3.75
+2688,Michael Rivas,South River,1,0,2,3.75
+2689,Yaroslav Kovalchuk,Edison,1,0,2,3.75
+2690,Adam Sorour,Rutgers Prep,1,0,2,3.714
+2691,Gabriel De Leao,Delaware Valley,1,0,2,3.714
+2692,Elias Baladi,Lenape Valley,1,0,2,3.712
+2693,Nasim Chughatta,Kittatinny,1,0,2,3.712
+2694,GianLuca Mannino,Watchung Hills,1,0,2,3.696
+2695,Jonathan Juarez,New Brunswick,1,0,2,3.628
+2696,James Siguencia,Science Park,1,0,2,3.586
+2697,Devin Murray,Glen Ridge,1,0,2,3.514
+2698,Theo Pockriss,Glen Ridge,1,0,2,3.514
+2699,Cole Fusina,Paul VI,1,0,2,3.472
+2700,Justin Rudio,Paul VI,1,0,2,3.472
+2701,Luis Amberths,Vineland,1,0,2,3.472
+2702,Joel Almachi,Shabazz,1,0,2,3.454
+2703,Ayaan Verma,Moorestown Friends,1,0,2,3.42
+2704,Yogi Manhant,Princeton,1,0,2,3.406
+2705,Christian Gomez,Memorial,1,0,2,3.366
+2706,Noah Schellato,Red Bank Regional,1,0,2,3.362
+2707,Isaiah Barbaran,Bloomfield,1,0,2,3.344
+2708,Pedro Campos,Newark East Side,1,0,2,3.344
+2709,Aiden Fung,Freehold Borough,1,0,2,3.334
+2710,Micah Eagles,Red Bank Regional,1,0,2,3.334
+2711,Aiden Locayo,Manchester Township,1,0,2,3.326
+2712,Joe Grzankowski,Raritan,1,0,2,3.326
+2713,Anthony Kaskabas,Vineland,1,0,2,3.324
+2714,Fernando Delgado Perez,Egg Harbor,1,0,2,3.324
+2715,Scott Blose,Williamstown,1,0,2,3.318
+2716,Dylan Goodman,Highland,1,0,2,3.312
+2717,Edelmiro Robles,Delsea,1,0,2,3.312
+2718,Andres Ochoa,Dover,1,0,2,3.286
+2719,Brody Incorvaia,Wallkill Valley,1,0,2,3.286
+2720,Luis Canales,Dover,1,0,2,3.286
+2721,Brandon Berly,Carteret,1,0,2,3.234
+2722,Obeniel Cruz,New Brunswick,1,0,2,3.234
+2723,Connor Schmitz,Wallkill Valley,1,0,2,3.222
+2724,David Nicholas,Holy Spirit,1,0,2,3.222
+2725,Jay Ventura,Ridgefield Park,1,0,2,3.2
+2726,Andrew Xavier,West Windsor-Plainsboro North,1,0,2,3.114
+2727,Jeremiah Hunt,Florence,1,0,2,3.064
+2728,Ethan Carey,Sparta,1,0,2,3.056
+2729,Jared Goldschmidt,Randolph,1,0,2,3.056
+2730,Teddy Bacon,Chatham,1,0,2,3.056
+2731,Brendan Grober,Wall,1,0,2,3.018
+2732,Danny Almash,Mahwah,1,0,2,3.018
+2733,Dylan Taylor,Mahwah,1,0,2,3.018
+2734,Joe Fraga,Dumont,1,0,2,3.018
+2735,Owen Fitzgerald,Mahwah,1,0,2,3.018
+2736,Rudra Patel,Wall,1,0,2,3.018
+2737,William Ramos,Cliffside Park,1,0,2,3.018
+2738,Christian Loff,Neptune,1,0,2,2.998
+2739,Gavyn Vazquez,Ewing,1,0,2,2.952
+2740,Matthew Jaruczek,South River,1,0,2,2.952
+2741,Xavier Branco,Old Bridge,1,0,2,2.952
+2742,Anthony Ruano,Paramus,1,0,2,2.934
+2743,Lucas Torres,Ridgefield Park,1,0,2,2.934
+2744,Gianni Rispoli,Lakeland,1,0,2,2.848
+2745,Tom Dimitroff,Rutherford,1,0,2,2.814
+2746,Jaxel Robles,Pleasantville,1,0,2,2.798
+2747,Axel Gonzalez,Thrive Charter,1,0,2,2.746
+2748,Dhruv Khilari,Woodbridge Magnet,1,0,2,2.74
+2749,Ryan McGurran,Hasbrouck Heights,1,0,2,2.708
+2750,Mohamed Massaquoi,North Star Academy,1,0,2,2.672
+2751,Caleb Martins,Seneca,1,0,2,2.6
+2752,Jacob Tenas,Cherry Hill East,1,0,2,2.6
+2753,Joey Schwartz,Seneca,1,0,2,2.6
+2754,Jayden Guevara,North Arlington,1,0,2,2.5
+2755,Charlie Naomi,North Warren,1,0,2,2.266
+2756,Ronan DaRocha,Kittatinny,1,0,2,2.266
+2757,Enzo Bell-Miller,Woodstown,1,0,2,2.25
+2758,Tyler McIlvaine,Pitman,1,0,2,2.25
+2759,Jaival Jariwala,Edison Magnet,1,0,2,2.18
+2760,Chris Diaz,Demarest,1,0,2,2.164
+2761,Ian Oak,Old Tappan,1,0,2,2.164
+2762,Ashmit Chhabria,Woodbridge,1,0,2,2.124
+2763,Bryan Alvarado,Perth Amboy,1,0,2,2.124
+2764,Erick Rodriguez,North Plainfield,1,0,2,2.124
+2765,Jampee Meme,Woodbridge,1,0,2,2.124
+2766,Jonah Backenroth,Highland Park,1,0,2,2.124
+2767,Noah Rakvica,Spotswood,1,0,2,2.124
+2768,William Ghanim,Dunellen,1,0,2,2.124
+2769,Pedro Piatto,Long Branch,1,0,2,2.084
+2770,Aaron Elieb Burgos Ramos,Passaic,1,0,2,2.026
+2771,Joseph Rizzo,Bergen Tech,1,0,2,2.026
+2772,Justin Marshall,Clifton,1,0,2,2.026
+2773,Kevin Wei,Bergen Tech,1,0,2,2.026
+2774,Nathan Garcia,Passaic,1,0,2,2.026
+2775,Adam Brown,Robbinsville,1,0,2,1.91
+2776,Jordan Gonzales Salas,Hightstown,1,0,2,1.91
+2777,Jude Cohen,Robbinsville,1,0,2,1.91
+2778,Lukas Catalfomo,Hamilton West,1,0,2,1.91
+2779,David Panach,Lenape Valley,1,0,2,1.79
+2780,Kristian Martinez,Hackettstown,1,0,2,1.79
+2781,Alexander Lapitzki,Manasquan,1,0,2,1.782
+2782,Roger Ryzwaniuk,Hanover Park,1,0,2,1.72
+2783,Rayan Elmanakhly,BelovED Charter,1,0,2,1.712
+2784,Luke Joshi,Cresskill,1,0,2,1.528
+2785,Matthew Stump,Butler,1,0,2,1.528
+2786,Zach Littel,Hawthorne Christian,1,0,2,1.528
+2787,Gabe Villa,Bergenfield,1,0,2,1.416
+2788,Landon Sundberg,Delsea,1,0,2,1.396
+2789,Aarush Batra,Edison Magnet,1,0,2,1.226
+2790,Tayib Fullerton,South Amboy,1,0,2,1.226
+2791,Vamig Shahpalangov,Iselin Kennedy,1,0,2,1.226
+2792,Juan Revolorio-Ventrua,Lawrence,1,0,2,1.106
+2793,Keyvin Menendez,Nottingham,1,0,2,1.106
+2794,Nico Savard,Montgomery,1,0,2,1.106
+2795,Yahia Hussien,Lawrence,1,0,2,1.106
+2796,Gabriel Jordan,Medford Tech,1,0,2,1.028
+2797,Gabriel Culican,Cape May Tech,1,0,2,0.844
+2798,Jason Velasquez,Wildwood,1,0,2,0.844
+2799,Juan Carlos Hernandez,Overbrook,1,0,2,0.844
+2800,Xander Basante,North Star Academy,1,0,2,0.822
+2801,Luke Werner,Lyndhurst,0,2,2,5.590802259887006
+2802,John Gilbert,Irvington,0,2,2,5.526
+2803,Christopher Howe,Toms River South,0,2,2,5.416
+2804,Gabe Akdemir,Paramus,0,2,2,5.401802259887006
+2805,Dylan Rue,Moorestown Friends,0,2,2,5.384802259887006
+2806,Iron Pinedo,West Milford,0,2,2,5.380802259887005
+2807,Jeremy Tapia,Technology,0,2,2,5.300802259887005
+2808,Henry Cicali,Rancocas Valley,0,2,2,5.2588022598870054
+2809,William Crockett,Ridge,0,2,2,5.184802259887006
+2810,Carlo Guardascione,St. Joseph (Mont.),0,2,2,5.171
+2811,Kai Lomas,Manasquan,0,2,2,5.163802259887006
+2812,Samuel Castillo,Secaucus,0,2,2,5.135802259887006
+2813,Jeston Cai,Cherry Hill East,0,2,2,5.0888022598870055
+2814,Ben Raab,Delbarton,0,2,2,5.070802259887006
+2815,Abraham Rodriguez,Long Branch,0,2,2,5.045802259887006
+2816,Nate Calhoun,Colts Neck,0,2,2,5.045802259887006
+2817,Tyler Barbash,Lenape,0,2,2,5.04
+2818,Cesar Perez,Shabazz,0,2,2,5.0038022598870056
+2819,Lucas Santamaria,Verona,0,2,2,5.0038022598870056
+2820,Diego Aguilar,Paterson Kennedy,0,2,2,4.991802259887006
+2821,Rishab Krishnan,Marlboro,0,2,2,4.958802259887006
+2822,Billy Carbajal,Red Bank Regional,0,2,2,4.951802259887005
+2823,Jake Ferraro,Marlboro,0,2,2,4.9510000000000005
+2824,Jordan Maila,Barringer,0,2,2,4.93
+2825,Josh Barlisan,Bergen Catholic,0,2,2,4.872802259887006
+2826,Augustin Kamah,Hamilton West,0,2,2,4.868
+2827,Colton Gedroic,Pingry,0,2,2,4.759802259887006
+2828,Gabriel Chellakumar,Chatham,0,2,2,4.7219999999999995
+2829,Kevin Quinde,Union City,0,2,2,4.578802259887006
+2830,Cristofer Caisaguano,Barringer,0,2,2,4.577802259887006
+2831,Jason Rodriguez,Paterson Kennedy,0,2,2,4.530802259887006
+2832,Kevin Robledo,Edison,0,2,2,4.529
+2833,Jahad Gazi,Pennsauken,0,2,2,4.505802259887005
+2834,Widmailler Durandisse,Irvington,0,2,2,4.505802259887005
+2835,Michael Rivera,Bogota,0,2,2,4.502802259887005
+2836,Richard Tunwattanapong,Becton,0,2,2,4.490802259887006
+2837,Abdelrahman Eissa,Dickinson,0,2,2,4.457604519774011
+2838,Abhay Krishnakumar,McNair,0,2,2,4.457604519774011
+2839,Adnan Kassou,Winslow,0,2,2,4.457604519774011
+2840,Aidan McHale,Ramapo,0,2,2,4.457604519774011
+2841,Aiden Costantini,Atlantic Tech,0,2,2,4.457604519774011
+2842,Alexis Velasquez,Piscataway,0,2,2,4.457604519774011
+2843,Angel Perez,Union City,0,2,2,4.457604519774011
+2844,Angelo DiBlasio,Passaic Valley,0,2,2,4.457604519774011
+2845,Anthony Bono,Ramapo,0,2,2,4.457604519774011
+2846,Anthony Mangano,Sayreville,0,2,2,4.457604519774011
+2847,Anthony Munoz,Piscataway Magnet,0,2,2,4.457604519774011
+2848,Antonio Pennetti,Watchung Hills,0,2,2,4.457604519774011
+2849,Arjun Patel,Chatham,0,2,2,4.457604519774011
+2850,Aron Townsend,Hunterdon Central,0,2,2,4.457604519774011
+2851,Asher Levine,Dwight-Englewood,0,2,2,4.457604519774011
+2852,Ayden DeLeon,Thrive Charter,0,2,2,4.457604519774011
+2853,Ayon Barman,Carteret,0,2,2,4.457604519774011
+2854,Brady Earlen,Rancocas Valley,0,2,2,4.457604519774011
+2855,Brian Palko,Somerville,0,2,2,4.457604519774011
+2856,Bryson Reeves,Neptune,0,2,2,4.457604519774011
+2857,Caedan Rowe,Timber Creek,0,2,2,4.457604519774011
+2858,Caleb Garcia,Triton,0,2,2,4.457604519774011
+2859,Caleb Lustig,Golda Och,0,2,2,4.457604519774011
+2860,Chase Cipollone,Don Bosco Prep,0,2,2,4.457604519774011
+2861,Christian Valdez,Colonia,0,2,2,4.457604519774011
+2862,Christopher Arreaga,Cliffside Park,0,2,2,4.457604519774011
+2863,Cristian Alfaro,Paterson Eastside,0,2,2,4.457604519774011
+2864,Daniel Formicola,Midland Park,0,2,2,4.457604519774011
+2865,Daniel Sutton,Watchung Hills,0,2,2,4.457604519774011
+2866,Darikson Rodriguez,Bridgeton,0,2,2,4.457604519774011
+2867,Derick Ruiz,Manchester Regional,0,2,2,4.457604519774011
+2868,Diego Chavez,Cherry Hill West,0,2,2,4.457604519774011
+2869,Divyesh Kuppam,Woodbridge Magnet,0,2,2,4.457604519774011
+2870,Enzo Ruta,Kingsway,0,2,2,4.457604519774011
+2871,Erick Vera,Dunellen,0,2,2,4.457604519774011
+2872,Ethan Pierre,Wardlaw-Hartridge,0,2,2,4.457604519774011
+2873,Evan Belyarchik,Watchung Hills,0,2,2,4.457604519774011
+2874,Gabriel Rodrigues,Technology,0,2,2,4.457604519774011
+2875,Greyson Fitch,Freehold Township,0,2,2,4.457604519774011
+2876,Hashem Lotfe,Paterson Kennedy,0,2,2,4.457604519774011
+2877,Isaac Augustine,McNair,0,2,2,4.457604519774011
+2878,Jackson Napolitano,Wall,0,2,2,4.457604519774011
+2879,Jaden Doaman,Freehold Township,0,2,2,4.457604519774011
+2880,Jaeden McHugh,Verona,0,2,2,4.457604519774011
+2881,Jaime Vasquez,Morris Catholic,0,2,2,4.457604519774011
+2882,Jake Nishimura,Lenape,0,2,2,4.457604519774011
+2883,Johan Ballestero-Mena,Bridgewater-Raritan,0,2,2,4.457604519774011
+2884,Johan Dominguez,Leonia,0,2,2,4.457604519774011
+2885,John Lopez,Pleasantville,0,2,2,4.457604519774011
+2886,Jordan Guo,Northern Highlands,0,2,2,4.457604519774011
+2887,Jordan Nicoletto,Bishop Eustace,0,2,2,4.457604519774011
+2888,Jude H. Corriel,Tenafly,0,2,2,4.457604519774011
+2889,Kareem Elsayed,Colonia,0,2,2,4.457604519774011
+2890,Liam Browne,Toms River South,0,2,2,4.457604519774011
+2891,Lucas O'Connor,Notre Dame,0,2,2,4.457604519774011
+2892,Lukas Estrela,South River,0,2,2,4.457604519774011
+2893,Luke Barnhart,Egg Harbor,0,2,2,4.457604519774011
+2894,Luke Negron,East Brunswick,0,2,2,4.457604519774011
+2895,Mark Mallozzi,Matawan,0,2,2,4.457604519774011
+2896,Martin Tupanescki,Saddle Brook,0,2,2,4.457604519774011
+2897,Mat Flor,Delran,0,2,2,4.457604519774011
+2898,Matias Rinaldi,Union City,0,2,2,4.457604519774011
+2899,Matthew Homsany,Mount Olive,0,2,2,4.457604519774011
+2900,Matthew Palacios,Carteret,0,2,2,4.457604519774011
+2901,Max Goldberg,Tenafly,0,2,2,4.457604519774011
+2902,Mike Campanaro,St. Augustine,0,2,2,4.457604519774011
+2903,Nick Melograna,Shawnee,0,2,2,4.457604519774011
+2904,Noah Rousson,St. Peter's Prep,0,2,2,4.457604519774011
+2905,Owen O'Connell,Ramapo,0,2,2,4.457604519774011
+2906,Reynaldo LaFleur,Burlington City,0,2,2,4.457604519774011
+2907,Riley Miracola,Notre Dame,0,2,2,4.457604519774011
+2908,Rohan Rijhawani,McNair,0,2,2,4.457604519774011
+2909,Roman Toledo,Glassboro,0,2,2,4.457604519774011
+2910,Ronan Vanco,Montclair,0,2,2,4.457604519774011
+2911,Ruben Ardila,Vernon,0,2,2,4.457604519774011
+2912,Santiago Pineda,Union City,0,2,2,4.457604519774011
+2913,Sebastian Badilla,Somerset Tech,0,2,2,4.457604519774011
+2914,Trey Higgins,Christian Brothers,0,2,2,4.457604519774011
+2915,Vaughn Worthing,Seneca,0,2,2,4.457604519774011
+2916,Angel Meza,Atlantic Tech,0,2,2,4.402802259887006
+2917,Nico Pasnicu,Toms River North,0,2,2,4.384802259887006
+2918,Justin Trott,Colonia,0,2,2,4.380802259887005
+2919,Braeden Arroyo,Moorestown,0,2,2,4.367802259887005
+2920,Isaac Da Silva,Parsippany,0,2,2,4.312802259887006
+2921,Ciaran Bateson,Seton Hall Prep,0,2,2,4.304802259887006
+2922,Joseph-Tyler Fleming,Schalick,0,2,2,4.286802259887006
+2923,Owen Hurley,Pitman,0,2,2,4.286802259887006
+2924,Ryan Balak,Morristown,0,2,2,4.269802259887006
+2925,Nick Vento,Glassboro,0,2,2,4.2588022598870054
+2926,Julio Garcia,New Brunswick,0,2,2,4.202
+2927,Jake Miller,River Dell,0,2,2,4.175
+2928,Ariel DeJesus,Bridgewater-Raritan,0,2,2,4.103802259887006
+2929,Kyle Milligan,South Hunterdon,0,2,2,4.085802259887005
+2930,Matt Kugel,Old Bridge,0,2,2,4.076802259887006
+2931,Zane Dillich,Shawnee,0,2,2,4.073
+2932,Cole Sarama,Manchester Township,0,2,2,4.071
+2933,William Garcia Perez,Bridgeton,0,2,2,4.068
+2934,Hiro Nishino,Glen Ridge,0,2,2,3.9858022598870058
+2935,Ethan Kwelty,Seneca,0,2,2,3.964802259887006
+2936,Logan Rawls,Paul VI,0,2,2,3.964802259887006
+2937,Anthony Dias,Calvary Christian (Old Bridge),0,2,2,3.9628022598870056
+2938,Jack Fallon,Ranney,0,2,2,3.9018022598870057
+2939,Pablo Milan,New Egypt,0,2,2,3.895802259887006
+2940,Harris Aron,Egg Harbor,0,2,2,3.8908022598870056
+2941,Luke Napoli,Mainland,0,2,2,3.887802259887006
+2942,Donovan Vergano,Lenape Valley,0,2,2,3.839802259887006
+2943,Abdel Carrion,Edison,0,2,2,3.8150000000000004
+2944,Noah Cesareo,Montclair Kimberley,0,2,2,3.8098022598870056
+2945,Luke Miller,Delbarton,0,2,2,3.76
+2946,David Botelho,Cliffside Park,0,2,2,3.7378022598870055
+2947,Nicolas Alves,Elmwood Park,0,2,2,3.7378022598870055
+2948,Cooper Carlon,Pequannock,0,2,2,3.6528022598870056
+2949,Dylan Power,Lakeland,0,2,2,3.6528022598870056
+2950,Kenny Reyes,Pompton Lakes,0,2,2,3.6528022598870056
+2951,Mario Ocampo,Boonton,0,2,2,3.635
+2952,Yahir Blanco,Cedar Creek,0,2,2,3.584802259887006
+2953,Gabriel Bakas,Morris Catholic,0,2,2,3.574
+2954,Dylan Jenkins,High Point,0,2,2,3.57
+2955,Joey Amendola,Seneca,0,2,2,3.528802259887006
+2956,Matt Weinstein,Cherry Hill East,0,2,2,3.528802259887006
+2957,Cristian Santos,Rumson-Fair Haven,0,2,2,3.518
+2958,Vedant Shah,Iselin Kennedy,0,2,2,3.4988022598870057
+2959,Tyler Hackett,North Arlington,0,2,2,3.4788022598870056
+2960,Andrew Havaldar,Madison,0,2,2,3.4528022598870054
+2961,Michael Bimonte,Whippany Park,0,2,2,3.4528022598870054
+2962,Sam Giraldo,Whippany Park,0,2,2,3.4528022598870054
+2963,Angelina Cugini,St. Joseph (Hamm.),0,2,2,3.4508022598870056
+2964,Eduardo Guerrero Hernandez,Maple Shade,0,2,2,3.4428022598870056
+2965,Uciel Hoyos-Soriano,Atlantic City,0,2,2,3.4128022598870054
+2966,Emanuel Trubbo,Bayonne,0,2,2,3.3828022598870056
+2967,Zach Leshik,Wayne Valley,0,2,2,3.3788022598870056
+2968,Nikolai Berrue,Hoboken,0,2,2,3.366
+2969,Bradley Heck,Woodstown,0,2,2,3.3538022598870056
+2970,Nikolas Siacavelas,Spotswood,0,2,2,3.2908022598870055
+2971,Jonas Leibowitz,Montville,0,2,2,3.2718022598870053
+2972,Robert Genoble,Morris Knolls,0,2,2,3.2718022598870053
+2973,Noah Jarkowsky,Paramus Catholic,0,2,2,3.2418022598870055
+2974,Brody Ward,Holy Spirit,0,2,2,3.222
+2975,Ryan Tusa Guanga,Hightstown,0,2,2,3.1838022598870057
+2976,Jackson Christian,Voorhees,0,2,2,3.14
+2977,Jaxson Scales,Williamstown,0,2,2,2.9268022598870056
+2978,Nolan Swanson,Triton,0,2,2,2.6710000000000003
+2979,Richard Morales,Wildwood,0,2,2,2.650802259887006
+2980,Adam Ordonez Yunga,Hightstown,0,2,2,2.5829999999999997
+2981,Justin Cedeno,Thrive Charter,0,2,2,2.428
+2982,Derek Schnieder,Lakeland,0,2,2,2.3
+2983,Johnathan Moran,Warren Hills,0,1,1,3.491
+2984,Owen Morrone,Caldwell,0,1,1,3.415
+2985,Owen Smargiassi,Cherokee,0,1,1,3.394
+2986,Filip Cirulik,Elmwood Park,0,1,1,3.362
+2987,Victor Couto,Science Park,0,1,1,3.362
+2988,Anthony Solari,Kearny,0,1,1,3.342
+2989,Brody Benner,Ramapo,0,1,1,3.24
+2990,Kenny Pulis,St. Joseph (Mont.),0,1,1,3.24
+2991,Dash Blaylock,St. Peter's Prep,0,1,1,3.193
+2992,Kevin Martinez,Memorial,0,1,1,3.193
+2993,Sebastian Ortiz,Passaic Valley,0,1,1,3.185
+2994,Aidan Cunningham,Rutherford,0,1,1,3.173
+2995,Daniel Mountford,Newton,0,1,1,3.159
+2996,Christian Lopez,Atlantic Tech,0,1,1,3.156
+2997,Michael Cortese,Glen Ridge,0,1,1,3.011
+2998,Jean RIchardson Pierre,Irvington,0,1,1,2.956
+2999,Adit Mehta,Wardlaw-Hartridge,0,1,1,2.941
+3000,Noah Van Zile,Morristown,0,1,1,2.94
+3001,Anthony Moreno,Morris Hills,0,1,1,2.921
+3002,John Gurrieri,Park Ridge,0,1,1,2.907
+3003,Nathanael Slavin,Hawthorne Christian,0,1,1,2.907
+3004,Jayden Bollander,Nutley,0,1,1,2.862
+3005,Isaac Spector,Eastern,0,1,1,2.86
+3006,Gregory DeLuccia,Saddle River Day,0,1,1,2.833
+3007,Tyler Ruzicka,Toms River South,0,1,1,2.829
+3008,Anthony Estrada-Dubon,Middlesex,0,1,1,2.8
+3009,CJ Phillips,St. Augustine,0,1,1,2.791
+3010,Caua Domingues,Science Park,0,1,1,2.775
+3011,Marcos Urta,Jefferson,0,1,1,2.773
+3012,Sina Ozbay,Lenape Valley,0,1,1,2.773
+3013,Nico Rodrigues,Cedar Grove,0,1,1,2.763
+3014,Zachary Bernstein,Colts Neck,0,1,1,2.729
+3015,Alexander Marynchev,Bergen Tech,0,1,1,2.712
+3016,Marcos Rosa Lima,Newark East Side,0,1,1,2.712
+3017,Marques Nix,Kearny,0,1,1,2.704
+3018,Justin Quezada,Hightstown,0,1,1,2.653
+3019,Logan Golden,Marlboro,0,1,1,2.653
+3020,Lucas Messinger,Robbinsville,0,1,1,2.653
+3021,Gabriel Zambrano,Elmwood Park,0,1,1,2.646
+3022,Santiago Lora,Hamilton West,0,1,1,2.609
+3023,Tacto Yamada,Princeton,0,1,1,2.609
+3024,Ethan Poplawski,Pope John,0,1,1,2.591
+3025,Enrico Acunto,Princeton Day,0,1,1,2.557
+3026,James Maleski,Pinelands,0,1,1,2.55
+3027,Luis Acosta,Bound Brook,0,1,1,2.55
+3028,Alex Gimenez,Morris Hills,0,1,1,2.531
+3029,Josmer Fernandez,West Morris,0,1,1,2.522
+3030,John Fiuza,Kinnelon,0,1,1,2.512
+3031,Corbin Cole,Schalick,0,1,1,2.492
+3032,Aeden Vangheli,Bloomfield,0,1,1,2.433
+3033,Max Amon,Orange,0,1,1,2.433
+3034,Jonathan Wisa,Calvary Christian (Old Bridge),0,1,1,2.403
+3035,Zachary Vierzchalek,Wallkill Valley,0,1,1,2.378
+3036,Matthew Corbett,Woodbridge,0,1,1,2.377
+3037,Jabari Brown,Mahwah,0,1,1,2.363
+3038,Samuel Espinosa,Clifton,0,1,1,2.35
+3039,Deybi Caisabanda,Barringer,0,1,1,2.349
+3040,Yenso Cordero,Becton,0,1,1,2.335
+3041,Max Kalin,Woodbridge,0,1,1,2.327
+3042,Jayden Heinsohn,Ramapo,0,1,1,2.302
+3043,Will Murzenski,South Hunterdon,0,1,1,2.298
+3044,Nick Souza,Delran,0,1,1,2.273
+3045,AJ Casanova,Shawnee,0,1,1,2.2288022598870056
+3046,AJ Ladzinski,Monroe,0,1,1,2.2288022598870056
+3047,Aarush Singh,Robbinsville,0,1,1,2.2288022598870056
+3048,Aayush Shah,West Essex,0,1,1,2.2288022598870056
+3049,Acim Savich,Pinelands,0,1,1,2.2288022598870056
+3050,Adam Taglieri,Cherokee,0,1,1,2.2288022598870056
+3051,Adrian Arellano,Saddle River Day,0,1,1,2.2288022598870056
+3052,Adrian Kruglyansky,Colts Neck,0,1,1,2.2288022598870056
+3053,Adrian Sanchez Jimenez,Asbury Park,0,1,1,2.2288022598870056
+3054,Adrian Serna,Manville,0,1,1,2.2288022598870056
+3055,Adriano Fernandez,Garfield,0,1,1,2.2288022598870056
+3056,Aidan McCourt,Kingsway,0,1,1,2.2288022598870056
+3057,Aiden Chen,Northern Highlands,0,1,1,2.2288022598870056
+3058,Aiden George,Princeton Day,0,1,1,2.2288022598870056
+3059,Aiden Hanlon,Hopatcong,0,1,1,2.2288022598870056
+3060,Akshit Arya,J.P. Stevens,0,1,1,2.2288022598870056
+3061,Alan Yaari,Livingston,0,1,1,2.2288022598870056
+3062,Alejandro Londono,Bergenfield,0,1,1,2.2288022598870056
+3063,Alex Bronfman,Manalapan,0,1,1,2.2288022598870056
+3064,Alex Gorlich,Paramus,0,1,1,2.2288022598870056
+3065,Alex Kolatac,Pequannock,0,1,1,2.2288022598870056
+3066,Alex Losada,Gloucester Tech,0,1,1,2.2288022598870056
+3067,Alex Paola,Morristown,0,1,1,2.2288022598870056
+3068,Alex Pesantez,Belleville,0,1,1,2.2288022598870056
+3069,Alexander Ivanou,McNair,0,1,1,2.2288022598870056
+3070,Alexandros Kontogiannis,Pinelands,0,1,1,2.2288022598870056
+3071,Amogh Pandey,Lenape,0,1,1,2.2288022598870056
+3072,Anderson Arujao,North Bergen,0,1,1,2.2288022598870056
+3073,Andre Ayala,Elmwood Park,0,1,1,2.2288022598870056
+3074,Andres Mora,Parsippany,0,1,1,2.2288022598870056
+3075,Andres Revalo,Piscataway Magnet,0,1,1,2.2288022598870056
+3076,Andres Zuniga,Trenton,0,1,1,2.2288022598870056
+3077,Andrew Bedosky,Paramus,0,1,1,2.2288022598870056
+3078,Angel Sanchez,North Star Academy,0,1,1,2.2288022598870056
+3079,Angel Zepeda,Trenton,0,1,1,2.2288022598870056
+3080,Anthony Cedeno,Edison,0,1,1,2.2288022598870056
+3081,Antonio Acevedo,Point Pleasant Beach,0,1,1,2.2288022598870056
+3082,Aprant Sahoo,Edison,0,1,1,2.2288022598870056
+3083,August Zaleski,Raritan,0,1,1,2.2288022598870056
+3084,Ben Perlman,Pascack Valley,0,1,1,2.2288022598870056
+3085,Bertilio Correa,Egg Harbor,0,1,1,2.2288022598870056
+3086,Blake Naing,Piscataway,0,1,1,2.2288022598870056
+3087,Bodhi Vance-Harris,Moorestown Friends,0,1,1,2.2288022598870056
+3088,Brady Gorman,St. Augustine,0,1,1,2.2288022598870056
+3089,Brady Hughes,Holy Cross Prep,0,1,1,2.2288022598870056
+3090,Brandon Kil,Ridgefield,0,1,1,2.2288022598870056
+3091,Brandon Steele,Northern Burlington,0,1,1,2.2288022598870056
+3092,Brayden Santos,Westampton Tech,0,1,1,2.2288022598870056
+3093,Brian Dunne,Ridge,0,1,1,2.2288022598870056
+3094,Brody Gale,Delaware Valley,0,1,1,2.2288022598870056
+3095,Brody Mandelbaum,Pingry,0,1,1,2.2288022598870056
+3096,Brody Marotta,Brick Memorial,0,1,1,2.2288022598870056
+3097,Brody Stryker,Northern Burlington,0,1,1,2.2288022598870056
+3098,Bryan Cruz,Atlantic Tech,0,1,1,2.2288022598870056
+3099,Bryce Cicchino,Morristown-Beard,0,1,1,2.2288022598870056
+3100,Caiden Seitz,Red Bank Catholic,0,1,1,2.2288022598870056
+3101,Caleb McCormick,Delbarton,0,1,1,2.2288022598870056
+3102,Cameron Larue,High Point,0,1,1,2.2288022598870056
+3103,Canio Symons,Toms River North,0,1,1,2.2288022598870056
+3104,Carlos Dominguez,St. Peter's Prep,0,1,1,2.2288022598870056
+3105,Carlos Herrera,Middle Township,0,1,1,2.2288022598870056
+3106,Carlos Ramos,Kearny,0,1,1,2.2288022598870056
+3107,Carlos Velasquez,Paterson Eastside,0,1,1,2.2288022598870056
+3108,Carrington Profitt,Salem Tech,0,1,1,2.2288022598870056
+3109,Charlie Huertos,Hopatcong,0,1,1,2.2288022598870056
+3110,Chris Pohl,St. John Vianney,0,1,1,2.2288022598870056
+3111,Christian George,Burlington Township,0,1,1,2.2288022598870056
+3112,Christopher Bautista,Matawan,0,1,1,2.2288022598870056
+3113,Christopher Garcia,Wood-Ridge,0,1,1,2.2288022598870056
+3114,Christopher Sabella,Pope John,0,1,1,2.2288022598870056
+3115,Christopher Sciara,St. Joseph (Met.),0,1,1,2.2288022598870056
+3116,Cianan McCoy,Middlesex,0,1,1,2.2288022598870056
+3117,Colbert Torres,Toms River South,0,1,1,2.2288022598870056
+3118,Cole Williams,Holy Cross Prep,0,1,1,2.2288022598870056
+3119,Colin Hamilton,High Point,0,1,1,2.2288022598870056
+3120,Colin Long,Montgomery,0,1,1,2.2288022598870056
+3121,Colton Ponnwitz,Belvidere,0,1,1,2.2288022598870056
+3122,Cristian Cungachi,Newark Tech,0,1,1,2.2288022598870056
+3123,Cristian Vazquez,Passaic,0,1,1,2.2288022598870056
+3124,Daniel Burns,Pope John,0,1,1,2.2288022598870056
+3125,Daniel Falzarano,Wayne Hills,0,1,1,2.2288022598870056
+3126,Daniel Hayes,Calvary Christian (Old Bridge),0,1,1,2.2288022598870056
+3127,Daniel Sung,Ridge,0,1,1,2.2288022598870056
+3128,Daniel Thompson,Phillipsburg,0,1,1,2.2288022598870056
+3129,Davi Oliveira,Wayne Hills,0,1,1,2.2288022598870056
+3130,David Reyes,Newark Tech,0,1,1,2.2288022598870056
+3131,David Taco,McNair,0,1,1,2.2288022598870056
+3132,Dayrol Herrera,Union City,0,1,1,2.2288022598870056
+3133,Dean Fredericks,Monmouth,0,1,1,2.2288022598870056
+3134,Declan Mogan,Parsippany Hills,0,1,1,2.2288022598870056
+3135,Deivi Rubi,Hawthorne,0,1,1,2.2288022598870056
+3136,Denilson Mata-Fabian,Neptune,0,1,1,2.2288022598870056
+3137,Derek Still,Highland,0,1,1,2.2288022598870056
+3138,Derin Eskicakit,Dwight-Englewood,0,1,1,2.2288022598870056
+3139,Diego Castaneda,Harrison,0,1,1,2.2288022598870056
+3140,Diego Ramierz,Memorial,0,1,1,2.2288022598870056
+3141,Dixon Caal Cuc,Trenton,0,1,1,2.2288022598870056
+3142,Dylan Palacios,Middlesex,0,1,1,2.2288022598870056
+3143,Dylan Ritter,Princeton Day,0,1,1,2.2288022598870056
+3144,EJ Martino,Shawnee,0,1,1,2.2288022598870056
+3145,Eduardo De Los Santos,Don Bosco Prep,0,1,1,2.2288022598870056
+3146,Edward Lee,Hopewell Valley,0,1,1,2.2288022598870056
+3147,Edwin Olivera,Monmouth,0,1,1,2.2288022598870056
+3148,Eiyal Feibish,Demarest,0,1,1,2.2288022598870056
+3149,Elan Eydlin,Fair Lawn,0,1,1,2.2288022598870056
+3150,Eli Vellozzi,New Egypt,0,1,1,2.2288022598870056
+3151,Elliot Howard,Eastern Christian,0,1,1,2.2288022598870056
+3152,Estevan Nolasco,Willingboro,0,1,1,2.2288022598870056
+3153,Ethan Neagle,Robbinsville,0,1,1,2.2288022598870056
+3154,Ethan Weinberg,Millburn,0,1,1,2.2288022598870056
+3155,Evan Kalavrouziotis,Morris Tech,0,1,1,2.2288022598870056
+3156,Fernando Ramos-Garcia,Becton,0,1,1,2.2288022598870056
+3157,Flavio Figueroa,Pompton Lakes,0,1,1,2.2288022598870056
+3158,Francisco Viera,Dover,0,1,1,2.2288022598870056
+3159,Freddie Ireland,Ramsey,0,1,1,2.2288022598870056
+3160,Gabriel Hammoud,Wayne Hills,0,1,1,2.2288022598870056
+3161,Gavin Cavanaugh,Shore,0,1,1,2.2288022598870056
+3162,Gavin Del Grosso,Jefferson,0,1,1,2.2288022598870056
+3163,Gavin Geleta,Phillipsburg,0,1,1,2.2288022598870056
+3164,Gavin Paneque,Demarest,0,1,1,2.2288022598870056
+3165,Gier Selah,Demarest,0,1,1,2.2288022598870056
+3166,Grayson Billings,Cherry Hill West,0,1,1,2.2288022598870056
+3167,Grayson Stark,Gloucester Tech,0,1,1,2.2288022598870056
+3168,Greyson Szuwalski,Christian Brothers,0,1,1,2.2288022598870056
+3169,Greyson Wake,Leonia,0,1,1,2.2288022598870056
+3170,Hantzel Nophal,Pennsauken Tech,0,1,1,2.2288022598870056
+3171,Harrison Cofran,Clearview,0,1,1,2.2288022598870056
+3172,Harrison Hassett,Metuchen,0,1,1,2.2288022598870056
+3173,Harrison Snyder,Cherokee,0,1,1,2.2288022598870056
+3174,Harry Phillips,Allentown,0,1,1,2.2288022598870056
+3175,Hayden DeRosa,Shore,0,1,1,2.2288022598870056
+3176,Henry Hercules,College Achieve Central,0,1,1,2.2288022598870056
+3177,Henry Kovacs,Delbarton,0,1,1,2.2288022598870056
+3178,Henry Porter,River Dell,0,1,1,2.2288022598870056
+3179,Hiram Flores,Asbury Park,0,1,1,2.2288022598870056
+3180,Hunter McDonald,Donovan Catholic,0,1,1,2.2288022598870056
+3181,Hunter Sibilia,Somerset Tech,0,1,1,2.2288022598870056
+3182,Ilya Tyazhelnikov,Colonia,0,1,1,2.2288022598870056
+3183,Isaac Amaya,Memorial,0,1,1,2.2288022598870056
+3184,Jack Hersey,Cedar Grove,0,1,1,2.2288022598870056
+3185,Jackson Ruff,South Hunterdon,0,1,1,2.2288022598870056
+3186,Jacob Crandall,Robbinsville,0,1,1,2.2288022598870056
+3187,Jacob Metcalfe,Wood-Ridge,0,1,1,2.2288022598870056
+3188,Jacob Moncrief,Delsea,0,1,1,2.2288022598870056
+3189,Jacob Zemlinsky,Ranney,0,1,1,2.2288022598870056
+3190,Jacobo Buenano,Belleville,0,1,1,2.2288022598870056
+3191,Jaden Misquith,Freehold Borough,0,1,1,2.2288022598870056
+3192,Jagger Bradley,Hammonton,0,1,1,2.2288022598870056
+3193,Jake Piccoli,West Essex,0,1,1,2.2288022598870056
+3194,Jake Weiss,Freehold Township,0,1,1,2.2288022598870056
+3195,Jamie Celli,Rancocas Valley,0,1,1,2.2288022598870056
+3196,Jared Perez,West Caldwell Tech,0,1,1,2.2288022598870056
+3197,Jason Maya,Dover,0,1,1,2.2288022598870056
+3198,Jason Ramirez,Red Bank Regional,0,1,1,2.2288022598870056
+3199,Jay Patel,Sayreville,0,1,1,2.2288022598870056
+3200,Jayden Scott,New Egypt,0,1,1,2.2288022598870056
+3201,Jeffrey Melendez,Cliffside Park,0,1,1,2.2288022598870056
+3202,Jeffrey Toatley,Burlington Township,0,1,1,2.2288022598870056
+3203,Jeffrey Vasquez,Morristown,0,1,1,2.2288022598870056
+3204,Jeremiah Hernandez,Sparta,0,1,1,2.2288022598870056
+3205,Jeremy Basta,Hawthorne Christian,0,1,1,2.2288022598870056
+3206,Jeyson Ochoa,Bogota,0,1,1,2.2288022598870056
+3207,Jimmy Navarrete,Pleasantville,0,1,1,2.2288022598870056
+3208,Joao Cedeno,North Bergen,0,1,1,2.2288022598870056
+3209,Joe Cooper,Neptune,0,1,1,2.2288022598870056
+3210,Joey Nyzio,Bordentown,0,1,1,2.2288022598870056
+3211,Joey Rossetti,Old Bridge,0,1,1,2.2288022598870056
+3212,Johnny Dimetry,Eastern Christian,0,1,1,2.2288022598870056
+3213,Jonah Turner,Clearview,0,1,1,2.2288022598870056
+3214,Jonathan Pierce,Delsea,0,1,1,2.2288022598870056
+3215,Jonathan Rosenblum,Demarest,0,1,1,2.2288022598870056
+3216,Jordan Burd,Hamilton West,0,1,1,2.2288022598870056
+3217,Jordan Douglas,Delbarton,0,1,1,2.2288022598870056
+3218,Jordan Small,Woodbridge,0,1,1,2.2288022598870056
+3219,Jordan Vieira,Long Branch,0,1,1,2.2288022598870056
+3220,Jorvin Vargas Perez,Hamilton West,0,1,1,2.2288022598870056
+3221,Jose Herrera,Wildwood,0,1,1,2.2288022598870056
+3222,Jose Morales,Wildwood,0,1,1,2.2288022598870056
+3223,Jose Osorio,Cliffside Park,0,1,1,2.2288022598870056
+3224,Jose Vasquez,Hoboken,0,1,1,2.2288022598870056
+3225,Joseph Landis,Timothy Christian,0,1,1,2.2288022598870056
+3226,Joseph Mariani,Shore,0,1,1,2.2288022598870056
+3227,Josh Crawford,Woodstown,0,1,1,2.2288022598870056
+3228,Josh King,Shawnee,0,1,1,2.2288022598870056
+3229,Joshua Burrell,South Plainfield,0,1,1,2.2288022598870056
+3230,Juan Rojas Ramales,Buena,0,1,1,2.2288022598870056
+3231,Justin Estrada,Trenton,0,1,1,2.2288022598870056
+3232,Justin Funez,Egg Harbor,0,1,1,2.2288022598870056
+3233,Kalbach Chase,Cinnaminson,0,1,1,2.2288022598870056
+3234,Karl Granger,Saddle River Day,0,1,1,2.2288022598870056
+3235,Kaylan Sin,Old Tappan,0,1,1,2.2288022598870056
+3236,Keaton Black,Lower Cape May,0,1,1,2.2288022598870056
+3237,Kellen Johnson,Burlington City,0,1,1,2.2288022598870056
+3238,Kenny Curruchich,Ridgefield Park,0,1,1,2.2288022598870056
+3239,Kevin Cruz,West Caldwell Tech,0,1,1,2.2288022598870056
+3240,Kieran Holbeck,Immaculata,0,1,1,2.2288022598870056
+3241,Koen Randleman,Ridgewood,0,1,1,2.2288022598870056
+3242,Krzysztof Piecyk,Lodi,0,1,1,2.2288022598870056
+3243,Kyle Gould,Monroe,0,1,1,2.2288022598870056
+3244,Kyle Schoenberger,Cinnaminson,0,1,1,2.2288022598870056
+3245,Kyrilos Azer,Timothy Christian,0,1,1,2.2288022598870056
+3246,Landon De Boer,Hawthorne Christian,0,1,1,2.2288022598870056
+3247,Landon Schultz,Point Pleasant Beach,0,1,1,2.2288022598870056
+3248,Lenin Analuisa,Ferris,0,1,1,2.2288022598870056
+3249,Leo Nini,Allentown,0,1,1,2.2288022598870056
+3250,Leonardo Fonnegro,Wood-Ridge,0,1,1,2.2288022598870056
+3251,Liam Andrychewicz,Midland Park,0,1,1,2.2288022598870056
+3252,Liam Etter,Pitman,0,1,1,2.2288022598870056
+3253,Liam Rivera,Bridgewater-Raritan,0,1,1,2.2288022598870056
+3254,Livinus Chukwumalo,North Warren,0,1,1,2.2288022598870056
+3255,Logan Beebe,Matawan,0,1,1,2.2288022598870056
+3256,Logan Conner,Bound Brook,0,1,1,2.2288022598870056
+3257,Logan Dendis,Hunterdon Central,0,1,1,2.2288022598870056
+3258,Logan Fitzsimmons,Jefferson,0,1,1,2.2288022598870056
+3259,Logan Miller,Montgomery,0,1,1,2.2288022598870056
+3260,Logan Wojtowicz,Piscataway,0,1,1,2.2288022598870056
+3261,Lorenzo LoPresti,Hillsborough,0,1,1,2.2288022598870056
+3262,Louby Guerrier,Penns Grove,0,1,1,2.2288022598870056
+3263,Louis Rossi,Sparta,0,1,1,2.2288022598870056
+3264,Luc Brown,West Orange,0,1,1,2.2288022598870056
+3265,Luca Rulli,Wall,0,1,1,2.2288022598870056
+3266,Luca Witzel,Steinert,0,1,1,2.2288022598870056
+3267,Lucas Silveira De Souza,Newark East Side,0,1,1,2.2288022598870056
+3268,Luczun Jacob (JB),Morris Knolls,0,1,1,2.2288022598870056
+3269,Ludenski Luxama,Newark Central,0,1,1,2.2288022598870056
+3270,Luis Contreras,Barringer,0,1,1,2.2288022598870056
+3271,Luis Umana,East Brunswick Magnet,0,1,1,2.2288022598870056
+3272,Luke Gunther,Freehold Township,0,1,1,2.2288022598870056
+3273,Luke O Hagan,Ranney,0,1,1,2.2288022598870056
+3274,Luke Zuba,Clearview,0,1,1,2.2288022598870056
+3275,Malcolm Mejia,Morristown,0,1,1,2.2288022598870056
+3276,Man Patel,McNair,0,1,1,2.2288022598870056
+3277,Marcos Cabrera-Ruiz,Snyder,0,1,1,2.2288022598870056
+3278,Mark Curruchich,Cliffside Park,0,1,1,2.2288022598870056
+3279,Mason Morgan,Howell,0,1,1,2.2288022598870056
+3280,Mateo Castillo,North Plainfield,0,1,1,2.2288022598870056
+3281,Mateo Cuenca,Midland Park,0,1,1,2.2288022598870056
+3282,Mathew Goda,East Brunswick,0,1,1,2.2288022598870056
+3283,Matias Valencia,Lyndhurst,0,1,1,2.2288022598870056
+3284,Matthew Bayne,Glen Ridge,0,1,1,2.2288022598870056
+3285,Matthew Bernal,Paramus Catholic,0,1,1,2.2288022598870056
+3286,Matthew Kuruc,Warren Hills,0,1,1,2.2288022598870056
+3287,Max Beshara,Paramus,0,1,1,2.2288022598870056
+3288,Max Castro,Florence,0,1,1,2.2288022598870056
+3289,Max Pace,Glen Ridge,0,1,1,2.2288022598870056
+3290,Mbithi Matata,St. Joseph (Met.),0,1,1,2.2288022598870056
+3291,Miguel Peralta,Franklin,0,1,1,2.2288022598870056
+3292,Mihir Wahane,Ridge,0,1,1,2.2288022598870056
+3293,Milan Lopez-Tassan,Whippany Park,0,1,1,2.2288022598870056
+3294,Mohamed Moubarek,West Windsor-Plainsboro North,0,1,1,2.2288022598870056
+3295,Moises Burgos,Manchester Regional,0,1,1,2.2288022598870056
+3296,Moises Molina Redondo,Orange,0,1,1,2.2288022598870056
+3297,Mosiah Aparicio-Santiago,Brick Memorial,0,1,1,2.2288022598870056
+3298,Myles Carstens,Manasquan,0,1,1,2.2288022598870056
+3299,Nathan Itnyre,Kittatinny,0,1,1,2.2288022598870056
+3300,Ness Quioness,Paramus,0,1,1,2.2288022598870056
+3301,Nicholas Gallipoli,Toms River North,0,1,1,2.2288022598870056
+3302,Nicholas Rodriguez,Lodi,0,1,1,2.2288022598870056
+3303,Nick Ochs,Piscataway Magnet,0,1,1,2.2288022598870056
+3304,Nick Rowald,Keyport,0,1,1,2.2288022598870056
+3305,Nigel Graham,Toms River South,0,1,1,2.2288022598870056
+3306,Noah Bielen,Hunterdon Central,0,1,1,2.2288022598870056
+3307,Olafirmihan Taiwo,Doane Academy,0,1,1,2.2288022598870056
+3308,Omer Fink,Cresskill,0,1,1,2.2288022598870056
+3309,Owais Daboor,Edison,0,1,1,2.2288022598870056
+3310,Owen McLaughlin,North Warren,0,1,1,2.2288022598870056
+3311,Owen Thimme,Midland Park,0,1,1,2.2288022598870056
+3312,Owen Velasquez,Ferris,0,1,1,2.2288022598870056
+3313,Petar Stojanov,DePaul,0,1,1,2.2288022598870056
+3314,Poyraz Pala,Westampton Tech,0,1,1,2.2288022598870056
+3315,RJ Cilurso,St. Joseph (Hamm.),0,1,1,2.2288022598870056
+3316,Raphael Azer,Timothy Christian,0,1,1,2.2288022598870056
+3317,Reyan Sukkarieh,Somerville,0,1,1,2.2288022598870056
+3318,Riccardo Meloni,Princeton,0,1,1,2.2288022598870056
+3319,Richie Picerno,Montville,0,1,1,2.2288022598870056
+3320,Roan Drabo,Tenafly,0,1,1,2.2288022598870056
+3321,Robert Wei,Princeton Day,0,1,1,2.2288022598870056
+3322,Rohan Guddeti,South Brunswick,0,1,1,2.2288022598870056
+3323,Roosvelt Azard,Monmouth,0,1,1,2.2288022598870056
+3324,Royman Vargas Salazar,Mendham,0,1,1,2.2288022598870056
+3325,Ryan Bowers,Clearview,0,1,1,2.2288022598870056
+3326,Ryan Coleman,St. Joseph (Mont.),0,1,1,2.2288022598870056
+3327,Ryan Fernandes,Clearview,0,1,1,2.2288022598870056
+3328,Ryan Kearney,St. John Vianney,0,1,1,2.2288022598870056
+3329,Ryan Kelleher,Steinert,0,1,1,2.2288022598870056
+3330,Ryan Mazariegos,North Brunswick,0,1,1,2.2288022598870056
+3331,Ryan Shepherd,Becton,0,1,1,2.2288022598870056
+3332,Ryan Yu,Demarest,0,1,1,2.2288022598870056
+3333,Sadiel Cortez,Colts Neck,0,1,1,2.2288022598870056
+3334,Sam Rusin,Whippany Park,0,1,1,2.2288022598870056
+3335,Samir Kananeh,Parsippany Hills,0,1,1,2.2288022598870056
+3336,Sammi Gurunathan,Old Tappan,0,1,1,2.2288022598870056
+3337,Samson Cain,Dwight-Englewood,0,1,1,2.2288022598870056
+3338,Sawyer Horwell,Woodstown,0,1,1,2.2288022598870056
+3339,Schnaider Alizar,Highland Park,0,1,1,2.2288022598870056
+3340,Sean Manopo,Metuchen,0,1,1,2.2288022598870056
+3341,Sebastian Alvarez,Pope John,0,1,1,2.2288022598870056
+3342,Sebastian Arias,DePaul,0,1,1,2.2288022598870056
+3343,Sebastian Erostico,Lyndhurst,0,1,1,2.2288022598870056
+3344,Sebastian Friedmann,Madison,0,1,1,2.2288022598870056
+3345,Sebastian Matos,Morris Hills,0,1,1,2.2288022598870056
+3346,Sebastian Rosen,Neptune,0,1,1,2.2288022598870056
+3347,Semyon Cheremisin,Fair Lawn,0,1,1,2.2288022598870056
+3348,Shae Madmon,Pascack Valley,0,1,1,2.2288022598870056
+3349,Shimp Jaiden,Cinnaminson,0,1,1,2.2288022598870056
+3350,Soheil Pasdar,McNair,0,1,1,2.2288022598870056
+3351,Steven Almachi,Shabazz,0,1,1,2.2288022598870056
+3352,Steven Benckert,Clayton,0,1,1,2.2288022598870056
+3353,Thanish Raja,Morris Tech,0,1,1,2.2288022598870056
+3354,Thomas Alway,Montclair,0,1,1,2.2288022598870056
+3355,Thomas Bar,Livingston,0,1,1,2.2288022598870056
+3356,Thomas Lemme,Rutgers Prep,0,1,1,2.2288022598870056
+3357,Thomas SanFilippo,Morris Tech,0,1,1,2.2288022598870056
+3358,Tim Mercer Troit,Millburn,0,1,1,2.2288022598870056
+3359,Torin Pagella,Henry Hudson,0,1,1,2.2288022598870056
+3360,Troy Donnelly,Camden Catholic,0,1,1,2.2288022598870056
+3361,Ty Lee,Bishop Eustace,0,1,1,2.2288022598870056
+3362,Tyler Bergman,Bergen Tech,0,1,1,2.2288022598870056
+3363,Tyler Guerra,Delran,0,1,1,2.2288022598870056
+3364,Tyler Miriello,Maple Shade,0,1,1,2.2288022598870056
+3365,Umar Danyaro,Glassboro,0,1,1,2.2288022598870056
+3366,Vasyl Goncharuk,West Morris,0,1,1,2.2288022598870056
+3367,Vincent Pasquarello,Glassboro,0,1,1,2.2288022598870056
+3368,William Morocho,Orange,0,1,1,2.2288022598870056
+3369,William Salgado,Snyder,0,1,1,2.2288022598870056
+3370,Wilmer Jaramillo,Boonton,0,1,1,2.2288022598870056
+3371,Xavier Rodriguez,Carteret,0,1,1,2.2288022598870056
+3372,Yohan Deshpande,Monroe,0,1,1,2.2288022598870056
+3373,Yosiah Bravo,Lakewood,0,1,1,2.2288022598870056
+3374,Yovany Franco,New Brunswick,0,1,1,2.2288022598870056
+3375,Yuzhuo Miao,Rutgers Prep,0,1,1,2.2288022598870056
+3376,Zachary Morrow,Chatham,0,1,1,2.2288022598870056
+3377,max klinchik,Pascack Hills,0,1,1,2.2288022598870056
+3378,Colin McLaughlin,Nottingham,0,1,1,2.183
+3379,Andrew Hong,Old Tappan,0,1,1,2.182
+3380,Bruno Rosso,Morris Knolls,0,1,1,2.172
+3381,Sam Mauceri,Montville,0,1,1,2.172
+3382,Jose Barahona,Winslow,0,1,1,2.139
+3383,Nolan Frazao,Lenape,0,1,1,2.139
+3384,Jake Goswami,Northern Highlands,0,1,1,2.134
+3385,Brandon Doaman,Freehold Township,0,1,1,2.124
+3386,Ryan Kurmin,Point Pleasant Beach,0,1,1,2.124
+3387,Donatus Guth,Newark Academy,0,1,1,2.114
+3388,Rye Fleming,Morristown-Beard,0,1,1,2.084
+3389,Alexander Kronow,Somerville,0,1,1,2.079
+3390,Aaron Flynn,Woodstown,0,1,1,2.074
+3391,Alex Ramirez Martinez,Penns Grove,0,1,1,2.074
+3392,Dylan Rogus,Cherry Hill West,0,1,1,2.063
+3393,Logan Toledo,Glassboro,0,1,1,2.058
+3394,Ricardo Vichi,Penns Grove,0,1,1,2.058
+3395,Stuart Mondragon,Penns Grove,0,1,1,2.058
+3396,Benji Young,Ridgewood,0,1,1,2.057
+3397,Kevin Docwra,West Milford,0,1,1,2.054
+3398,Eliut Ramirez,Clayton,0,1,1,2.03
+3399,Jack Penkethman,St. Rose,0,1,1,2.03
+3400,Nick Elliot,St. Rose,0,1,1,2.03
+3401,Ismael Camara,Doane Academy,0,1,1,2.023
+3402,Grason Garcia,Eastern,0,1,1,2.018
+3403,Reid Lutz,Moorestown Friends,0,1,1,2.018
+3404,Luis Bertolini,Thrive Charter,0,1,1,2.014
+3405,Raphael Busch,Salem Tech,0,1,1,2.002
+3406,Sam Charylo,Indian Hills,0,1,1,1.999
+3407,Blair Ildiz,Don Bosco Prep,0,1,1,1.976
+3408,Ruben Centeno,Triton,0,1,1,1.973
+3409,Landon Vera,Rutgers Prep,0,1,1,1.955
+3410,Aaron Lenthe,Paul VI,0,1,1,1.948
+3411,Jack Camperchioli,Paul VI,0,1,1,1.948
+3412,Adrian Friedman,Voorhees,0,1,1,1.904
+3413,Zachary Petak,Voorhees,0,1,1,1.904
+3414,Mikel Alvarado,North Bergen,0,1,1,1.897
+3415,Alexander Scott,Watchung Hills,0,1,1,1.88
+3416,Jayden Ojeda,Bridgewater-Raritan,0,1,1,1.875
+3417,William Tal,North Brunswick,0,1,1,1.875
+3418,Matthew Chajon,College Achieve Central,0,1,1,1.857
+3419,Jason Lee,Montgomery,0,1,1,1.848
+3420,Adam Janosek,North Arlington,0,1,1,1.847
+3421,Sebastian Rodriguez,Snyder,0,1,1,1.847
+3422,Biagio Schiano-Dicola,Warren Hills,0,1,1,1.836
+3423,Joshua Kim,Glen Rock,0,1,1,1.8
+3424,Brandon Snow,Moorestown Friends,0,1,1,1.773
+3425,Danny Scuro,Demarest,0,1,1,1.772
+3426,Joseph Hall,Paul VI,0,1,1,1.736
+3427,Oliver Goldwasser,Cherry Hill West,0,1,1,1.736
+3428,Joshua Orellana,Calvary Christian (Old Bridge),0,1,1,1.734
+3429,Aodhan DiPalma,Moorestown Friends,0,1,1,1.71
+3430,Henry Green,Moorestown Friends,0,1,1,1.71
+3431,MD Junaid,Atlantic City,0,1,1,1.71
+3432,Willie Didie,Moorestown Friends,0,1,1,1.71
+3433,Brian Arotoma,Clifton,0,1,1,1.706
+3434,Aiden Chow,J.P. Stevens,0,1,1,1.683
+3435,Tageacil Zahoui,Dickinson,0,1,1,1.683
+3436,Jack McAteer,Donovan Catholic,0,1,1,1.681
+3437,Jackson Motzenbecker,Shore,0,1,1,1.681
+3438,Isai Quiroz Torralba,Freehold Township,0,1,1,1.667
+3439,Max Golkov,Freehold Borough,0,1,1,1.667
+3440,Oliver Miron,Manchester Township,0,1,1,1.647
+3441,Jhan Herrera,College Achieve Central,0,1,1,1.645
+3442,Kevin Ramirez,College Achieve Central,0,1,1,1.645
+3443,Brandon Lazarra,Pequannock,0,1,1,1.643
+3444,Lautaro Montero,Dover,0,1,1,1.643
+3445,Casey Cumberton,Jefferson,0,1,1,1.611
+3446,Paul Statuto,Pequannock,0,1,1,1.611
+3447,Anthony Moran,Warren Hills,0,1,1,1.57
+3448,Owen Sebastian,Bernards,0,1,1,1.57
+3449,Zeyad Sakala,Marlboro,0,1,1,1.557
+3450,Justin Marbach,Florence,0,1,1,1.532
+3451,Brian Raimondi,Pompton Lakes,0,1,1,1.509
+3452,Sal Guardascione,Rutherford,0,1,1,1.509
+3453,Jonathan Damian Moya,Pompton Lakes,0,1,1,1.424
+3454,Orhan Feldman,Parsippany,0,1,1,1.424
+3455,Cameron Cole,Rutherford,0,1,1,1.407
+3456,Helio Vargas,Wood-Ridge,0,1,1,1.407
+3457,Donovan Mejia,Pleasantville,0,1,1,1.399
+3458,Marco Nassi,Delaware Valley,0,1,1,1.393
+3459,Sergio Carabajo,Pope John,0,1,1,1.393
+3460,Martin Maher,Ferris,0,1,1,1.385
+3461,Aidyn Camp,Cedar Creek,0,1,1,1.37
+3462,Dylan Moreno-Pena,Absegami,0,1,1,1.37
+3463,Erick Lopez,Cedar Creek,0,1,1,1.37
+3464,Luke Wackes,Camden Catholic,0,1,1,1.37
+3465,Alex Cruz,Middle Township,0,1,1,1.356
+3466,Eben Marroquin De La Cruz,Middle Township,0,1,1,1.356
+3467,Muiz Fagbenro,North Star Academy,0,1,1,1.336
+3468,Dominic Maurer,Clearview,0,1,1,1.3
+3469,Joe Tedla,Cherry Hill East,0,1,1,1.3
+3470,Nicholas Fierro,Moorestown,0,1,1,1.3
+3471,Caden Lise,Somerset Tech,0,1,1,1.27
+3472,Giovanni Nuzzo,Iselin Kennedy,0,1,1,1.27
+3473,Sam Velez,Madison,0,1,1,1.224
+3474,Cody Nguyen,Pennsauken,0,1,1,1.214
+3475,Alex Avila,Westwood,0,1,1,1.207
+3476,Connor Soha,Mahwah,0,1,1,1.207
+3477,Greg Seiler,Westwood,0,1,1,1.207
+3478,Dallas Sutton,Buena,0,1,1,1.184
+3479,Cody Costello - Caropolo,Wayne Valley,0,1,1,1.15
+3480,Ethan Amundson,West Milford,0,1,1,1.15
+3481,Christian Cubas Morales,Lenape Valley,0,1,1,1.133
+3482,Ronaldo Morales,Lenape Valley,0,1,1,1.133
+3483,Sam Murphy,Lenape Valley,0,1,1,1.133
+3484,Andrew Lane,Woodstown,0,1,1,1.125
+3485,Anthony Arteaga,Overbrook,0,1,1,1.125
+3486,Joshua Weaver,Overbrook,0,1,1,1.125
+3487,Juan Reyes Rodriguez,Ridgefield Park,0,1,1,1.082
+3488,Victor Reyes,Bergenfield,0,1,1,1.082
+3489,Jesus Ramirez-Lopez,Piscataway Magnet,0,1,1,1.062
+3490,Matthew Yasutis,Spotswood,0,1,1,1.062
+3491,Mohammed Ahmed,North Plainfield,0,1,1,1.062
+3492,Stephen Zhang,Highland Park,0,1,1,1.062
+3493,Santiago Garcia-Arraujo,Morris Knolls,0,1,1,1.043
+3494,Andy Ramirez Barrios,Long Branch,0,1,1,1.042
+3495,Carlos Rodas,Long Branch,0,1,1,1.042
+3496,Justin Kasmer,Raritan,0,1,1,1.042
+3497,Kevy Lima,Long Branch,0,1,1,1.042
+3498,Mateusz Blat,Bergen Tech,0,1,1,1.013
+3499,Matthew Cornelius,Bergen Tech,0,1,1,1.013
+3500,Hudson Fuller,Hoboken,0,1,1,0.856
+3501,Christian Malabe,Butler,0,1,1,0.764
+3502,Fabian Palacios,Harrison,0,1,1,0.764
+3503,Johnny McCabe,Lakeland,0,1,1,0.708
+3504,Michael Htun,Lakeland,0,1,1,0.708
+3505,Danny Green,Williamstown,0,1,1,0.698
+3506,Maximo Maletta,Washington Township,0,1,1,0.698
+3507,Aneesh Jaaladi,Piscataway Magnet,0,1,1,0.613
+3508,Jayden Charco,Iselin Kennedy,0,1,1,0.613
+3509,Joseph Espana,Piscataway Magnet,0,1,1,0.613
+3510,Arjun Menon,West Windsor-Plainsboro North,0,1,1,0.553
+3511,Jack Hyer,Allentown,0,1,1,0.553
+3512,Justin Lopez,Lawrence,0,1,1,0.553
+3513,Luis Rodriguez,Lawrence,0,1,1,0.553
+3514,Jabree Royster,Burlington City,0,1,1,0.514
+3515,Jermey Storch,Cape May Tech,0,1,1,0.422
+3516,Logan Wolford,Cape May Tech,0,1,1,0.422
+3517,Christopher Lozano,North Star Academy,0,1,1,0.411
+3518,Jaden Afrifa,North Star Academy,0,1,1,0.411
+3519,Matthew Illescas,North Star Academy,0,1,1,0.411
